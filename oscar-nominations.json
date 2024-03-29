@@ -2552,7 +2552,7 @@
       "Fred Fox",
       "Gordon Hollingshead",
       "Dewey Starkey",
-      "AND William Tummel"
+      "William Tummel"
     ],
     "films": [],
     "won": true
@@ -2595,7 +2595,7 @@
     "year": "1932/33",
     "nominees": [
       "Ben Silvey",
-      "AND John Waters"
+      "John Waters"
     ],
     "films": [],
     "won": false
@@ -49416,9 +49416,11 @@
     "category": "Best Film Editing",
     "year": "1967",
     "nominees": [
-      "Robert C. Jones Guess Who's Coming to Dinner"
+      "Robert C. Jones"
     ],
-    "films": [],
+    "films": [
+      "Guess Who's Coming to Dinner"
+    ],
     "won": false
   },
   {
@@ -49562,7 +49564,9 @@
       "Danilo Donati",
       "Irene Sharaff"
     ],
-    "films": [],
+    "films": [
+      "The Taming of the Shrew"
+    ],
     "won": false
   },
   {
@@ -54656,9 +54660,11 @@
     "nominees": [
       "Chris Clark",
       "Terence McCloy",
-      "Suzanne de Passe For Lady Sings the Blues"
+      "Suzanne de Passe"
     ],
-    "films": [],
+    "films": [
+      "Lady Sings the Blues"
+    ],
     "won": false
   },
   {
@@ -88315,9 +88321,11 @@
     "category": "Best Original Song",
     "year": "2000",
     "nominees": [
-      "I've Seen It All Dancer in the Dark"
+      "\"I've Seen It All"
     ],
-    "films": [],
+    "films": [
+      "Dancer in the Dark"
+    ],
     "won": false
   },
   {
@@ -91165,7 +91173,9 @@
       "Dennis Gassner",
       "Nancy Haigh"
     ],
-    "films": [],
+    "films": [
+      "Road to Perdition"
+    ],
     "won": false
   },
   {
