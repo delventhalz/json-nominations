@@ -2469,9 +2469,11 @@
     "category": "Best Actor",
     "year": "1932/33",
     "nominees": [
-      "Paul Muni from I Am a Fugitive from a Chain Gang"
+      "Paul Muni"
     ],
-    "films": [],
+    "films": [
+      "I Am a Fugitive from a Chain Gang"
+    ],
     "won": false
   },
   {
@@ -15145,9 +15147,11 @@
     "category": "Best Cinematography (Black and White)",
     "year": "1942",
     "nominees": [
-      "Ted Tetzlaff from The Talk of the Town"
+      "Ted Tetzlaff"
     ],
-    "films": [],
+    "films": [
+      "The Talk of the Town"
+    ],
     "won": false
   },
   {
@@ -22673,9 +22677,11 @@
     "category": "Best Score",
     "year": "1947",
     "nominees": [
-      "Alfred Newman Captain from Castile"
+      "Alfred Newman Captain"
     ],
-    "films": [],
+    "films": [
+      "Castile"
+    ],
     "won": false
   },
   {
@@ -68074,9 +68080,11 @@
       "Ben Burtt",
       "Gary Summers",
       "Randy Thom",
-      "Tony Dawe from Return of the Jedi"
+      "Tony Dawe"
     ],
-    "films": [],
+    "films": [
+      "Return of the Jedi"
+    ],
     "won": false
   },
   {
@@ -75648,9 +75656,11 @@
     "year": "1990",
     "nominees": [
       "Nicholas Pileggi",
-      "Martin Scorsese from Goodfellas"
+      "Martin Scorsese"
     ],
-    "films": [],
+    "films": [
+      "Goodfellas"
+    ],
     "won": false
   },
   {
