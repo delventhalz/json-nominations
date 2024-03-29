@@ -3227,7 +3227,9 @@
     "nominees": [
       "One Night of Love"
     ],
-    "films": [],
+    "films": [
+      "One Night of Love"
+    ],
     "won": true
   },
   {
@@ -3236,7 +3238,9 @@
     "nominees": [
       "The Gay Divorcee"
     ],
-    "films": [],
+    "films": [
+      "The Gay Divorcee"
+    ],
     "won": false
   },
   {
@@ -3245,7 +3249,9 @@
     "nominees": [
       "The Lost Patrol"
     ],
-    "films": [],
+    "films": [
+      "The Lost Patrol"
+    ],
     "won": false
   },
   {
@@ -4092,7 +4098,9 @@
     "nominees": [
       "The Informer"
     ],
-    "films": [],
+    "films": [
+      "The Informer"
+    ],
     "won": true
   },
   {
@@ -4101,7 +4109,9 @@
     "nominees": [
       "Captain Blood"
     ],
-    "films": [],
+    "films": [
+      "Captain Blood"
+    ],
     "won": false
   },
   {
@@ -4110,7 +4120,9 @@
     "nominees": [
       "Mutiny on the Bounty"
     ],
-    "films": [],
+    "films": [
+      "Mutiny on the Bounty"
+    ],
     "won": false
   },
   {
@@ -4119,7 +4131,9 @@
     "nominees": [
       "Peter Ibbetson"
     ],
-    "films": [],
+    "films": [
+      "Peter Ibbetson"
+    ],
     "won": false
   },
   {
@@ -5135,7 +5149,9 @@
     "nominees": [
       "Anthony Adverse"
     ],
-    "films": [],
+    "films": [
+      "Anthony Adverse"
+    ],
     "won": true
   },
   {
@@ -5144,7 +5160,9 @@
     "nominees": [
       "The Charge of the Light Brigade"
     ],
-    "films": [],
+    "films": [
+      "The Charge of the Light Brigade"
+    ],
     "won": false
   },
   {
@@ -5153,7 +5171,9 @@
     "nominees": [
       "The Garden of Allah"
     ],
-    "films": [],
+    "films": [
+      "The Garden of Allah"
+    ],
     "won": false
   },
   {
@@ -5162,7 +5182,9 @@
     "nominees": [
       "The General Died at Dawn"
     ],
-    "films": [],
+    "films": [
+      "The General Died at Dawn"
+    ],
     "won": false
   },
   {
@@ -5171,7 +5193,9 @@
     "nominees": [
       "Winterset"
     ],
-    "films": [],
+    "films": [
+      "Winterset"
+    ],
     "won": false
   },
   {
@@ -6294,10 +6318,11 @@
     "category": "Best Score",
     "year": "1937",
     "nominees": [
-      "One Hundred Men",
-      "a Girl"
+      "One Hundred Men and a Girl"
     ],
-    "films": [],
+    "films": [
+      "One Hundred Men and a Girl"
+    ],
     "won": true
   },
   {
@@ -6306,7 +6331,9 @@
     "nominees": [
       "Lost Horizon"
     ],
-    "films": [],
+    "films": [
+      "Lost Horizon"
+    ],
     "won": false
   },
   {
@@ -6315,7 +6342,9 @@
     "nominees": [
       "The Hurricane"
     ],
-    "films": [],
+    "films": [
+      "The Hurricane"
+    ],
     "won": false
   },
   {
@@ -6324,7 +6353,9 @@
     "nominees": [
       "Something to Sing About"
     ],
-    "films": [],
+    "films": [
+      "Something to Sing About"
+    ],
     "won": false
   },
   {
@@ -6333,7 +6364,9 @@
     "nominees": [
       "Way Out West"
     ],
-    "films": [],
+    "films": [
+      "Way Out West"
+    ],
     "won": false
   },
   {
@@ -6342,7 +6375,9 @@
     "nominees": [
       "Maytime"
     ],
-    "films": [],
+    "films": [
+      "Maytime"
+    ],
     "won": false
   },
   {
@@ -6351,7 +6386,9 @@
     "nominees": [
       "Souls at Sea"
     ],
-    "films": [],
+    "films": [
+      "Souls at Sea"
+    ],
     "won": false
   },
   {
@@ -6360,7 +6397,9 @@
     "nominees": [
       "Make a Wish"
     ],
-    "films": [],
+    "films": [
+      "Make a Wish"
+    ],
     "won": false
   },
   {
@@ -6369,7 +6408,9 @@
     "nominees": [
       "Portia on Trial"
     ],
-    "films": [],
+    "films": [
+      "Portia on Trial"
+    ],
     "won": false
   },
   {
@@ -6378,7 +6419,9 @@
     "nominees": [
       "Quality Street"
     ],
-    "films": [],
+    "films": [
+      "Quality Street"
+    ],
     "won": false
   },
   {
@@ -6387,7 +6430,9 @@
     "nominees": [
       "The Prisoner of Zenda"
     ],
-    "films": [],
+    "films": [
+      "The Prisoner of Zenda"
+    ],
     "won": false
   },
   {
@@ -6396,17 +6441,20 @@
     "nominees": [
       "In Old Chicago"
     ],
-    "films": [],
+    "films": [
+      "In Old Chicago"
+    ],
     "won": false
   },
   {
     "category": "Best Score",
     "year": "1937",
     "nominees": [
-      "Snow White",
-      "the Seven Dwarfs"
+      "Snow White and the Seven Dwarfs"
     ],
-    "films": [],
+    "films": [
+      "Snow White and the Seven Dwarfs"
+    ],
     "won": false
   },
   {
@@ -6415,7 +6463,9 @@
     "nominees": [
       "The Life of Emile Zola"
     ],
-    "films": [],
+    "films": [
+      "The Life of Emile Zola"
+    ],
     "won": false
   },
   {
