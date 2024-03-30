@@ -17,7 +17,7 @@ The file is one giant array of objects which each represent a single nomination.
     "nominees": [
       "Emma Stone"
     ],
-    "films": [
+    "movies": [
       "Poor Things"
     ],
     "won": true
@@ -29,7 +29,7 @@ The file is one giant array of objects which each represent a single nomination.
 - _category_ - The name of the category the nomination was for.
 - _year_ - The year of the nomination. Note that for the first five Oscar ceremonies, the awards straddled a year and are written with a slash (e.g. "1927/28").
 - _nominees_ - The person, movie, song, etc that was nominated. Note that in some cases, multiple entities share a single nomination and will be listed together in this array.
-- _films_ - The movie the nomination was made for. Almost always a single film, but in some rare cases a nominee was given one nomination for their work in multiple films. In cases where a film itself is the nominee, it will be in BOTH the _films_ and _nominees_ arrays.
+- _movies_ - The film the nomination was made for. Almost always a single movie, but in some rare cases a nominee was given one nomination for their work in multiple films. In cases where the movie itself is the nominee, it will be in BOTH the _movies_ and _nominees_ arrays.
 - _won_ - Whether or not the nominee won the award.
 
 ## Source
