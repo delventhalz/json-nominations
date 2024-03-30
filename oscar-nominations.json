@@ -130,8 +130,18 @@
       "Frank Borzage"
     ],
     "movies": [
-      "Seventh Heaven (Dramatic)",
-      "Lewis Milestone for Two Arabian Knights (Comedy)"
+      "Seventh Heaven"
+    ],
+    "won": true
+  },
+  {
+    "category": "Best Director",
+    "year": "1927/28",
+    "nominees": [
+      "Lewis Milestone"
+    ],
+    "movies": [
+      "Two Arabian Knights"
     ],
     "won": true
   },
@@ -1961,8 +1971,18 @@
       "Wallace Beery"
     ],
     "movies": [
-      "The Champ",
-      "Fredric March for Dr. Jekyll and Mr. Hyde"
+      "The Champ"
+    ],
+    "won": true
+  },
+  {
+    "category": "Best Actor",
+    "year": "1931/32",
+    "nominees": [
+      "Fredric March"
+    ],
+    "movies": [
+      "Dr. Jekyll and Mr. Hyde"
     ],
     "won": true
   },
@@ -14704,11 +14724,15 @@
     "category": "Best Documentary Feature",
     "year": "1942",
     "nominees": [
-      "The Battle of Midway, Kokoda Front Line!, Moscow Strikes Back,",
+      "The Battle of Midway",
+      "Kokoda Front Line!",
+      "Moscow Strikes Back",
       "Prelude to War"
     ],
     "movies": [
-      "The Battle of Midway, Kokoda Front Line!, Moscow Strikes Back,",
+      "The Battle of Midway",
+      "Kokoda Front Line!",
+      "Moscow Strikes Back",
       "Prelude to War"
     ],
     "won": true
@@ -14717,10 +14741,18 @@
     "category": "Best Documentary Feature",
     "year": "1942",
     "nominees": [
-      "Africa Prelude to Victory, Combat Report, Conquer by the Clock, The Grain That Built a Hemisphere, Henry Browne Farmer"
+      "Africa Prelude to Victory",
+      "Combat Report",
+      "Conquer by the Clock",
+      "The Grain That Built a Hemisphere",
+      "Henry Browne Farmer"
     ],
     "movies": [
-      "Africa Prelude to Victory, Combat Report, Conquer by the Clock, The Grain That Built a Hemisphere, Henry Browne Farmer"
+      "Africa Prelude to Victory",
+      "Combat Report",
+      "Conquer by the Clock",
+      "The Grain That Built a Hemisphere",
+      "Henry Browne Farmer"
     ],
     "won": false
   },
@@ -14728,10 +14760,18 @@
     "category": "Best Documentary Feature",
     "year": "1942",
     "nominees": [
-      "High Over the Borders, High Stakes in the East, Inside Fighting China, It's Everybody's War, Listen to Britain"
+      "High Over the Borders",
+      "High Stakes in the East",
+      "Inside Fighting China",
+      "It's Everybody's War",
+      "Listen to Britain"
     ],
     "movies": [
-      "High Over the Borders, High Stakes in the East, Inside Fighting China, It's Everybody's War, Listen to Britain"
+      "High Over the Borders",
+      "High Stakes in the East",
+      "Inside Fighting China",
+      "It's Everybody's War",
+      "Listen to Britain"
     ],
     "won": false
   },
@@ -14739,10 +14779,20 @@
     "category": "Best Documentary Feature",
     "year": "1942",
     "nominees": [
-      "Little Belgium, Little Isles to Freedom, Mr. Blabbermouth, Mr. Gardenia Jones, The New Spirit, The Price of Victory"
+      "Little Belgium",
+      "Little Isles to Freedom",
+      "Mr. Blabbermouth",
+      "Mr. Gardenia Jones",
+      "The New Spirit",
+      "The Price of Victory"
     ],
     "movies": [
-      "Little Belgium, Little Isles to Freedom, Mr. Blabbermouth, Mr. Gardenia Jones, The New Spirit, The Price of Victory"
+      "Little Belgium",
+      "Little Isles to Freedom",
+      "Mr. Blabbermouth",
+      "Mr. Gardenia Jones",
+      "The New Spirit",
+      "The Price of Victory"
     ],
     "won": false
   },
@@ -14750,11 +14800,17 @@
     "category": "Best Documentary Feature",
     "year": "1942",
     "nominees": [
-      "A Ship is Born, Twenty-One Miles, We Refuse to Die, The White Eagle,",
+      "A Ship is Born",
+      "Twenty-One Miles",
+      "We Refuse to Die",
+      "The White Eagle",
       "Winning Your Wings"
     ],
     "movies": [
-      "A Ship is Born, Twenty-One Miles, We Refuse to Die, The White Eagle,",
+      "A Ship is Born",
+      "Twenty-One Miles",
+      "We Refuse to Die",
+      "The White Eagle",
       "Winning Your Wings"
     ],
     "won": false
@@ -49696,8 +49752,18 @@
       "Katharine Hepburn"
     ],
     "movies": [
-      "The Lion in Winter",
-      "Barbra Streisand for Funny Girl"
+      "The Lion in Winter"
+    ],
+    "won": true
+  },
+  {
+    "category": "Best Actress",
+    "year": "1968",
+    "nominees": [
+      "Barbra Streisand"
+    ],
+    "movies": [
+      "Funny Girl"
     ],
     "won": true
   },
@@ -59872,8 +59938,20 @@
       "Frank Van der Veer"
     ],
     "movies": [
-      "King Kong",
-      "L. B. Abbott, Glen Robinson, and Matthew Yuricich for Logan's Run"
+      "King Kong"
+    ],
+    "won": true
+  },
+  {
+    "category": "Best Visual/Special Effects",
+    "year": "1976",
+    "nominees": [
+      "L. B. Abbott",
+      "Glen Robinson",
+      "Matthew Yuricich"
+    ],
+    "movies": [
+      "Logan's Run"
     ],
     "won": true
   },
@@ -61141,8 +61219,18 @@
       "Frank E. Warner"
     ],
     "movies": [
-      "Close Encounters of the Third Kind",
-      "Benjamin Burtt, Jr. for Star Wars"
+      "Close Encounters of the Third Kind"
+    ],
+    "won": true
+  },
+  {
+    "category": "Best Sound Editing",
+    "year": "1977",
+    "nominees": [
+      "Benjamin Burtt Jr."
+    ],
+    "movies": [
+      "Star Wars"
     ],
     "won": true
   },
@@ -65315,10 +65403,12 @@
     "category": "Best Documentary Feature",
     "year": "1981",
     "nominees": [
-      "Against the Wind and Tide: A Cuban Odyssey"
+      "Against the Wind",
+      "Tide: A Cuban Odyssey"
     ],
     "movies": [
-      "Against the Wind and Tide: A Cuban Odyssey"
+      "Against the Wind",
+      "Tide: A Cuban Odyssey"
     ],
     "won": false
   },
@@ -104446,8 +104536,18 @@
       "Karen Baker Landers"
     ],
     "movies": [
-      "Skyfall",
-      "Paul N. J. Ottosson for Zero Dark Thirty"
+      "Skyfall"
+    ],
+    "won": true
+  },
+  {
+    "category": "Best Sound Editing",
+    "year": "2012",
+    "nominees": [
+      "Paul N. J. Ottosson"
+    ],
+    "movies": [
+      "Zero Dark Thirty"
     ],
     "won": true
   },
