@@ -23517,7 +23517,11 @@
       "Facing Your Danger"
     ],
     "movies": [
-      "Facing Your Danger"
+      {
+        "title": "Facing Your Danger",
+        "tmdb_id": "movie/240410",
+        "imdb_id": "tt0038515"
+      }
     ],
     "won": true
   },
@@ -27713,7 +27717,11 @@
       "Father of the Bride"
     ],
     "movies": [
-      "Father of the Bride"
+      {
+        "title": "Father of the Bride",
+        "tmdb_id": "movie/20758",
+        "imdb_id": "tt0042451"
+      }
     ],
     "won": false
   },
@@ -27794,7 +27802,11 @@
       "Spencer Tracy"
     ],
     "movies": [
-      "Father of the Bride"
+      {
+        "title": "Father of the Bride",
+        "tmdb_id": "movie/20758",
+        "imdb_id": "tt0042451"
+      }
     ],
     "won": false
   },
@@ -28127,7 +28139,11 @@
       "Albert Hackett"
     ],
     "movies": [
-      "Father of the Bride"
+      {
+        "title": "Father of the Bride",
+        "tmdb_id": "movie/20758",
+        "imdb_id": "tt0042451"
+      }
     ],
     "won": false
   },
@@ -43262,7 +43278,11 @@
       "Fanny"
     ],
     "movies": [
-      "Fanny"
+      {
+        "title": "Fanny",
+        "tmdb_id": "movie/84050",
+        "imdb_id": "tt0054866"
+      }
     ],
     "won": false
   },
@@ -43317,7 +43337,11 @@
       "Charles Boyer"
     ],
     "movies": [
-      "Fanny"
+      {
+        "title": "Fanny",
+        "tmdb_id": "movie/84050",
+        "imdb_id": "tt0054866"
+      }
     ],
     "won": false
   },
@@ -43742,7 +43766,11 @@
       "Harry Sukman"
     ],
     "movies": [
-      "Fanny"
+      {
+        "title": "Fanny",
+        "tmdb_id": "movie/84050",
+        "imdb_id": "tt0054866"
+      }
     ],
     "won": false
   },
@@ -44381,7 +44409,11 @@
       "Jack Cardiff"
     ],
     "movies": [
-      "Fanny"
+      {
+        "title": "Fanny",
+        "tmdb_id": "movie/84050",
+        "imdb_id": "tt0054866"
+      }
     ],
     "won": false
   },
@@ -44436,7 +44468,11 @@
       "William H. Reynolds"
     ],
     "movies": [
-      "Fanny"
+      {
+        "title": "Fanny",
+        "tmdb_id": "movie/84050",
+        "imdb_id": "tt0054866"
+      }
     ],
     "won": false
   },
@@ -48049,7 +48085,11 @@
       "Frank Tarloff"
     ],
     "movies": [
-      "Father Goose"
+      {
+        "title": "Father Goose",
+        "tmdb_id": "movie/30295",
+        "imdb_id": "tt0058092"
+      }
     ],
     "won": true
   },
@@ -48728,7 +48768,11 @@
       "Milton Krasner"
     ],
     "movies": [
-      "Fate Is the Hunter"
+      {
+        "title": "Fate Is the Hunter",
+        "tmdb_id": "movie/102286",
+        "imdb_id": "tt0058091"
+      }
     ],
     "won": false
   },
@@ -48861,7 +48905,11 @@
       "Ted J. Kent"
     ],
     "movies": [
-      "Father Goose"
+      {
+        "title": "Father Goose",
+        "tmdb_id": "movie/30295",
+        "imdb_id": "tt0058092"
+      }
     ],
     "won": false
   },
@@ -48937,7 +48985,11 @@
       "Waldon O. Watson"
     ],
     "movies": [
-      "Father Goose"
+      {
+        "title": "Father Goose",
+        "tmdb_id": "movie/30295",
+        "imdb_id": "tt0058092"
+      }
     ],
     "won": false
   },
@@ -51650,7 +51702,11 @@
       "Stuart A. Reiss"
     ],
     "movies": [
-      "Fantastic Voyage"
+      {
+        "title": "Fantastic Voyage",
+        "tmdb_id": "movie/2161",
+        "imdb_id": "tt0060397"
+      }
     ],
     "won": true
   },
@@ -51784,7 +51840,11 @@
       "Ernest Laszlo"
     ],
     "movies": [
-      "Fantastic Voyage"
+      {
+        "title": "Fantastic Voyage",
+        "tmdb_id": "movie/2161",
+        "imdb_id": "tt0060397"
+      }
     ],
     "won": false
   },
@@ -51842,7 +51902,11 @@
       "William B. Murphy"
     ],
     "movies": [
-      "Fantastic Voyage"
+      {
+        "title": "Fantastic Voyage",
+        "tmdb_id": "movie/2161",
+        "imdb_id": "tt0060397"
+      }
     ],
     "won": false
   },
@@ -51887,7 +51951,11 @@
       "Art Cruickshank"
     ],
     "movies": [
-      "Fantastic Voyage"
+      {
+        "title": "Fantastic Voyage",
+        "tmdb_id": "movie/2161",
+        "imdb_id": "tt0060397"
+      }
     ],
     "won": true
   },
@@ -51975,7 +52043,11 @@
       "Walter Rossi"
     ],
     "movies": [
-      "Fantastic Voyage"
+      {
+        "title": "Fantastic Voyage",
+        "tmdb_id": "movie/2161",
+        "imdb_id": "tt0060397"
+      }
     ],
     "won": false
   },
@@ -52643,7 +52715,11 @@
       "Richard Rodney Bennett"
     ],
     "movies": [
-      "Far from the Madding Crowd"
+      {
+        "title": "Far from the Madding Crowd",
+        "tmdb_id": "movie/3469",
+        "imdb_id": "tt0061648"
+      }
     ],
     "won": false
   },
@@ -53628,7 +53704,11 @@
       "Seymour Cassel"
     ],
     "movies": [
-      "Faces"
+      {
+        "title": "Faces",
+        "tmdb_id": "movie/753",
+        "imdb_id": "tt0062952"
+      }
     ],
     "won": false
   },
@@ -53683,7 +53763,11 @@
       "Lynn Carlin"
     ],
     "movies": [
-      "Faces"
+      {
+        "title": "Faces",
+        "tmdb_id": "movie/753",
+        "imdb_id": "tt0062952"
+      }
     ],
     "won": false
   },
@@ -53852,7 +53936,11 @@
       "John Cassavetes"
     ],
     "movies": [
-      "Faces"
+      {
+        "title": "Faces",
+        "tmdb_id": "movie/753",
+        "imdb_id": "tt0062952"
+      }
     ],
     "won": false
   },
@@ -58715,7 +58803,11 @@
       "Susan Tyrrell"
     ],
     "movies": [
-      "Fat City"
+      {
+        "title": "Fat City",
+        "tmdb_id": "movie/16993",
+        "imdb_id": "tt0068575"
+      }
     ],
     "won": false
   },
@@ -62454,7 +62546,11 @@
       "Sylvia Miles"
     ],
     "movies": [
-      "Farewell, My Lovely"
+      {
+        "title": "Farewell, My Lovely",
+        "tmdb_id": "movie/1835",
+        "imdb_id": "tt0072973"
+      }
     ],
     "won": false
   },
@@ -63652,7 +63748,11 @@
       "Liv Ullmann"
     ],
     "movies": [
-      "Face to Face"
+      {
+        "title": "Face to Face",
+        "tmdb_id": "movie/29454",
+        "imdb_id": "tt0074147"
+      }
     ],
     "won": false
   },
@@ -63796,7 +63896,11 @@
       "Ingmar Bergman"
     ],
     "movies": [
-      "Face to Face"
+      {
+        "title": "Face to Face",
+        "tmdb_id": "movie/29454",
+        "imdb_id": "tt0074147"
+      }
     ],
     "won": false
   },
@@ -69175,7 +69279,11 @@
       "Christopher Gore"
     ],
     "movies": [
-      "Fame"
+      {
+        "title": "Fame",
+        "tmdb_id": "movie/3537",
+        "imdb_id": "tt0080716"
+      }
     ],
     "won": false
   },
@@ -69210,7 +69318,11 @@
       "Michael Gore"
     ],
     "movies": [
-      "Fame"
+      {
+        "title": "Fame",
+        "tmdb_id": "movie/3537",
+        "imdb_id": "tt0080716"
+      }
     ],
     "won": true
   },
@@ -69269,7 +69381,11 @@
       "Fame"
     ],
     "movies": [
-      "Fame"
+      {
+        "title": "Fame",
+        "tmdb_id": "movie/3537",
+        "imdb_id": "tt0080716"
+      }
     ],
     "won": true
   },
@@ -69306,7 +69422,11 @@
       "Out Here on My Own"
     ],
     "movies": [
-      "Fame"
+      {
+        "title": "Fame",
+        "tmdb_id": "movie/3537",
+        "imdb_id": "tt0080716"
+      }
     ],
     "won": false
   },
@@ -69553,7 +69673,11 @@
       "Fall Line"
     ],
     "movies": [
-      "Fall Line"
+      {
+        "title": "Fall Line",
+        "tmdb_id": "movie/244369",
+        "imdb_id": "tt0080713"
+      }
     ],
     "won": false
   },
@@ -69754,7 +69878,11 @@
       "Gerry Hambling"
     ],
     "movies": [
-      "Fame"
+      {
+        "title": "Fame",
+        "tmdb_id": "movie/3537",
+        "imdb_id": "tt0080716"
+      }
     ],
     "won": false
   },
@@ -69831,7 +69959,11 @@
       "Christopher Newman"
     ],
     "movies": [
-      "Fame"
+      {
+        "title": "Fame",
+        "tmdb_id": "movie/3537",
+        "imdb_id": "tt0080716"
+      }
     ],
     "won": false
   },
@@ -72873,7 +73005,11 @@
       "Ingmar Bergman"
     ],
     "movies": [
-      "Fanny and Alexander"
+      {
+        "title": "Fanny and Alexander",
+        "tmdb_id": "movie/5961",
+        "imdb_id": "tt0083922"
+      }
     ],
     "won": false
   },
@@ -72992,7 +73128,11 @@
       "Ingmar Bergman"
     ],
     "movies": [
-      "Fanny and Alexander"
+      {
+        "title": "Fanny and Alexander",
+        "tmdb_id": "movie/5961",
+        "imdb_id": "tt0083922"
+      }
     ],
     "won": false
   },
@@ -73177,7 +73317,11 @@
       "Fanny and Alexander"
     ],
     "movies": [
-      "Fanny and Alexander"
+      {
+        "title": "Fanny and Alexander",
+        "tmdb_id": "movie/5961",
+        "imdb_id": "tt0083922"
+      }
     ],
     "won": true
   },
@@ -73429,7 +73573,11 @@
       "Susanne Lingheim"
     ],
     "movies": [
-      "Fanny and Alexander"
+      {
+        "title": "Fanny and Alexander",
+        "tmdb_id": "movie/5961",
+        "imdb_id": "tt0083922"
+      }
     ],
     "won": true
   },
@@ -73497,7 +73645,11 @@
       "Sven Nykvist"
     ],
     "movies": [
-      "Fanny and Alexander"
+      {
+        "title": "Fanny and Alexander",
+        "tmdb_id": "movie/5961",
+        "imdb_id": "tt0083922"
+      }
     ],
     "won": true
   },
@@ -73723,7 +73875,11 @@
       "Marik Vos-Lundh"
     ],
     "movies": [
-      "Fanny and Alexander"
+      {
+        "title": "Fanny and Alexander",
+        "tmdb_id": "movie/5961",
+        "imdb_id": "tt0083922"
+      }
     ],
     "won": true
   },
@@ -77796,7 +77952,11 @@
       "Fatal Attraction"
     ],
     "movies": [
-      "Fatal Attraction"
+      {
+        "title": "Fatal Attraction",
+        "tmdb_id": "movie/10998",
+        "imdb_id": "tt0093010"
+      }
     ],
     "won": false
   },
@@ -77903,7 +78063,11 @@
       "Glenn Close"
     ],
     "movies": [
-      "Fatal Attraction"
+      {
+        "title": "Fatal Attraction",
+        "tmdb_id": "movie/10998",
+        "imdb_id": "tt0093010"
+      }
     ],
     "won": false
   },
@@ -78040,7 +78204,11 @@
       "Anne Archer"
     ],
     "movies": [
-      "Fatal Attraction"
+      {
+        "title": "Fatal Attraction",
+        "tmdb_id": "movie/10998",
+        "imdb_id": "tt0093010"
+      }
     ],
     "won": false
   },
@@ -78117,7 +78285,11 @@
       "Adrian Lyne"
     ],
     "movies": [
-      "Fatal Attraction"
+      {
+        "title": "Fatal Attraction",
+        "tmdb_id": "movie/10998",
+        "imdb_id": "tt0093010"
+      }
     ],
     "won": false
   },
@@ -78151,7 +78323,11 @@
       "James Dearden"
     ],
     "movies": [
-      "Fatal Attraction"
+      {
+        "title": "Fatal Attraction",
+        "tmdb_id": "movie/10998",
+        "imdb_id": "tt0093010"
+      }
     ],
     "won": false
   },
@@ -78809,7 +78985,11 @@
       "Peter E. Berger"
     ],
     "movies": [
-      "Fatal Attraction"
+      {
+        "title": "Fatal Attraction",
+        "tmdb_id": "movie/10998",
+        "imdb_id": "tt0093010"
+      }
     ],
     "won": false
   },
@@ -79743,10 +79923,14 @@
     "category": "Best Documentary Short",
     "year": "1988",
     "nominees": [
-      "Family Gathering"
+      "A Family Gathering"
     ],
     "movies": [
-      "Family Gathering"
+      {
+        "title": "A Family Gathering",
+        "tmdb_id": "movie/244702",
+        "imdb_id": "tt3294916"
+      }
     ],
     "won": false
   },
@@ -86000,7 +86184,11 @@
       "Rosie Perez"
     ],
     "movies": [
-      "Fearless"
+      {
+        "title": "Fearless",
+        "tmdb_id": "movie/10443",
+        "imdb_id": "tt0106881"
+      }
     ],
     "won": false
   },
@@ -86336,7 +86524,11 @@
       "Farewell My Concubine"
     ],
     "movies": [
-      "Farewell My Concubine"
+      {
+        "title": "Farewell My Concubine",
+        "tmdb_id": "movie/10997",
+        "imdb_id": "tt0106332"
+      }
     ],
     "won": false
   },
@@ -86688,7 +86880,11 @@
       "Gu Changwei"
     ],
     "movies": [
-      "Farewell My Concubine"
+      {
+        "title": "Farewell My Concubine",
+        "tmdb_id": "movie/10997",
+        "imdb_id": "tt0106332"
+      }
     ],
     "won": false
   },
@@ -87658,10 +87854,14 @@
     "category": "Best International Feature Film",
     "year": "1994",
     "nominees": [
-      "Farinelli: Il Castrato"
+      "Farinelli"
     ],
     "movies": [
-      "Farinelli: Il Castrato"
+      {
+        "title": "Farinelli",
+        "tmdb_id": "movie/10954",
+        "imdb_id": "tt0109771"
+      }
     ],
     "won": false
   },
@@ -89850,7 +90050,11 @@
       "Fargo"
     ],
     "movies": [
-      "Fargo"
+      {
+        "title": "Fargo",
+        "tmdb_id": "movie/275",
+        "imdb_id": "tt0116282"
+      }
     ],
     "won": false
   },
@@ -89949,7 +90153,11 @@
       "Frances McDormand"
     ],
     "movies": [
-      "Fargo"
+      {
+        "title": "Fargo",
+        "tmdb_id": "movie/275",
+        "imdb_id": "tt0116282"
+      }
     ],
     "won": true
   },
@@ -90019,7 +90227,11 @@
       "William H. Macy"
     ],
     "movies": [
-      "Fargo"
+      {
+        "title": "Fargo",
+        "tmdb_id": "movie/275",
+        "imdb_id": "tt0116282"
+      }
     ],
     "won": false
   },
@@ -90129,7 +90341,11 @@
       "Joel Coen"
     ],
     "movies": [
-      "Fargo"
+      {
+        "title": "Fargo",
+        "tmdb_id": "movie/275",
+        "imdb_id": "tt0116282"
+      }
     ],
     "won": false
   },
@@ -90229,7 +90445,11 @@
       "Ethan Coen"
     ],
     "movies": [
-      "Fargo"
+      {
+        "title": "Fargo",
+        "tmdb_id": "movie/275",
+        "imdb_id": "tt0116282"
+      }
     ],
     "won": true
   },
@@ -90848,7 +91068,11 @@
       "Roger Deakins"
     ],
     "movies": [
-      "Fargo"
+      {
+        "title": "Fargo",
+        "tmdb_id": "movie/275",
+        "imdb_id": "tt0116282"
+      }
     ],
     "won": false
   },
@@ -90908,7 +91132,11 @@
       "Ethan Coen)"
     ],
     "movies": [
-      "Fargo"
+      {
+        "title": "Fargo",
+        "tmdb_id": "movie/275",
+        "imdb_id": "tt0116282"
+      }
     ],
     "won": false
   },
@@ -92053,10 +92281,14 @@
     "category": "Best Documentary Short",
     "year": "1997",
     "nominees": [
-      "Family Video Diaries: Daughter of the Bride"
+      "Daughter of the Bride"
     ],
     "movies": [
-      "Family Video Diaries: Daughter of the Bride"
+      {
+        "title": "Daughter of the Bride",
+        "tmdb_id": "movie/244920",
+        "imdb_id": "tt0129918"
+      }
     ],
     "won": false
   },
@@ -92089,7 +92321,11 @@
       "Famous Fred"
     ],
     "movies": [
-      "Famous Fred"
+      {
+        "title": "Famous Fred",
+        "tmdb_id": "movie/224445",
+        "imdb_id": "tt0141005"
+      }
     ],
     "won": false
   },
@@ -92510,7 +92746,11 @@
       "Per Hallberg"
     ],
     "movies": [
-      "Face/Off"
+      {
+        "title": "Mighty Ducks the Movie: The First Face-Off",
+        "tmdb_id": "movie/59091",
+        "imdb_id": "tt0179976"
+      }
     ],
     "won": false
   },
@@ -96187,7 +96427,11 @@
       "Father and Daughter"
     ],
     "movies": [
-      "Father and Daughter"
+      {
+        "title": "Father and Daughter",
+        "tmdb_id": "movie/48617",
+        "imdb_id": "tt0279079"
+      }
     ],
     "won": true
   },
@@ -98218,7 +98462,11 @@
       "Julianne Moore"
     ],
     "movies": [
-      "Far from Heaven"
+      {
+        "title": "Far from Heaven",
+        "tmdb_id": "movie/10712",
+        "imdb_id": "tt0297884"
+      }
     ],
     "won": false
   },
@@ -98522,7 +98770,11 @@
       "Todd Haynes"
     ],
     "movies": [
-      "Far from Heaven"
+      {
+        "title": "Far from Heaven",
+        "tmdb_id": "movie/10712",
+        "imdb_id": "tt0297884"
+      }
     ],
     "won": false
   },
@@ -98595,7 +98847,11 @@
       "Elmer Bernstein"
     ],
     "movies": [
-      "Far from Heaven"
+      {
+        "title": "Far from Heaven",
+        "tmdb_id": "movie/10712",
+        "imdb_id": "tt0297884"
+      }
     ],
     "won": false
   },
@@ -98980,10 +99236,14 @@
     "category": "Best Live Action Short (Comedy or One Reel or Regular)",
     "year": "2002",
     "nominees": [
-      "Fait D'Hiver"
+      "Gridlock"
     ],
     "movies": [
-      "Fait D'Hiver"
+      {
+        "title": "Gridlock",
+        "tmdb_id": "movie/121966",
+        "imdb_id": "tt0281850"
+      }
     ],
     "won": false
   },
@@ -99118,7 +99378,11 @@
       "Edward Lachman"
     ],
     "movies": [
-      "Far from Heaven"
+      {
+        "title": "Far from Heaven",
+        "tmdb_id": "movie/10712",
+        "imdb_id": "tt0297884"
+      }
     ],
     "won": false
   },
@@ -108219,7 +108483,11 @@
       "Alexandre Desplat"
     ],
     "movies": [
-      "Fantastic Mr. Fox"
+      {
+        "title": "Fantastic Mr. Fox",
+        "tmdb_id": "movie/10315",
+        "imdb_id": "tt0432283"
+      }
     ],
     "won": false
   },
@@ -108519,7 +108787,11 @@
       "Fantastic Mr. Fox"
     ],
     "movies": [
-      "Fantastic Mr. Fox"
+      {
+        "title": "Fantastic Mr. Fox",
+        "tmdb_id": "movie/10315",
+        "imdb_id": "tt0432283"
+      }
     ],
     "won": false
   },
@@ -114422,7 +114694,11 @@
       "Facing Fear"
     ],
     "movies": [
-      "Facing Fear"
+      {
+        "title": "Facing Fear",
+        "tmdb_id": "movie/249719",
+        "imdb_id": "tt2776636"
+      }
     ],
     "won": false
   },
@@ -119170,7 +119446,11 @@
       "Anna Pinnock"
     ],
     "movies": [
-      "Fantastic Beasts and Where to Find Them"
+      {
+        "title": "Fantastic Beasts and Where to Find Them",
+        "tmdb_id": "movie/259316",
+        "imdb_id": "tt3183660"
+      }
     ],
     "won": false
   },
@@ -119584,7 +119864,11 @@
       "Colleen Atwood"
     ],
     "movies": [
-      "Fantastic Beasts and Where to Find Them"
+      {
+        "title": "Fantastic Beasts and Where to Find Them",
+        "tmdb_id": "movie/259316",
+        "imdb_id": "tt3183660"
+      }
     ],
     "won": true
   },
@@ -120372,7 +120656,11 @@
       "Faces Places"
     ],
     "movies": [
-      "Faces Places"
+      {
+        "title": "Faces Places",
+        "tmdb_id": "movie/451995",
+        "imdb_id": "tt5598102"
+      }
     ],
     "won": false
   },
@@ -122166,7 +122454,11 @@
       "Fauve"
     ],
     "movies": [
-      "Fauve"
+      {
+        "title": "Fauve",
+        "tmdb_id": "movie/504969",
+        "imdb_id": "tt7467476"
+      }
     ],
     "won": false
   },
