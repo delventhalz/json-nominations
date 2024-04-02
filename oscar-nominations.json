@@ -538,7 +538,11 @@
       "Ruth Chatterton"
     ],
     "movies": [
-      "Madame X"
+      {
+        "title": "Madame X",
+        "tmdb_id": 39075,
+        "imdb_id": "tt0020126"
+      }
     ],
     "won": false
   },
@@ -604,7 +608,11 @@
       "Lionel Barrymore"
     ],
     "movies": [
-      "Madame X"
+      {
+        "title": "Madame X",
+        "tmdb_id": 39075,
+        "imdb_id": "tt0020126"
+      }
     ],
     "won": false
   },
@@ -1828,7 +1836,11 @@
       "Robert N. Lee"
     ],
     "movies": [
-      "Little Caesar"
+      {
+        "title": "Little Caesar",
+        "tmdb_id": 27899,
+        "imdb_id": "tt0021079"
+      }
     ],
     "won": false
   },
@@ -1875,7 +1887,11 @@
       "Donald Stewart"
     ],
     "movies": [
-      "Laughter"
+      {
+        "title": "Laughter",
+        "tmdb_id": 166010,
+        "imdb_id": "tt0021053"
+      }
     ],
     "won": false
   },
@@ -2342,7 +2358,11 @@
       "William Slavens McNutt"
     ],
     "movies": [
-      "Lady and Gent"
+      {
+        "title": "Lady and Gent",
+        "tmdb_id": 173749,
+        "imdb_id": "tt0023109"
+      }
     ],
     "won": false
   },
@@ -2670,7 +2690,11 @@
       "Lady for a Day"
     ],
     "movies": [
-      "Lady for a Day"
+      {
+        "title": "Lady for a Day",
+        "tmdb_id": 43130,
+        "imdb_id": "tt0024240"
+      }
     ],
     "won": false
   },
@@ -2681,7 +2705,11 @@
       "Little Women"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 39938,
+        "imdb_id": "tt0024264"
+      }
     ],
     "won": false
   },
@@ -2788,7 +2816,11 @@
       "May Robson"
     ],
     "movies": [
-      "Lady for a Day"
+      {
+        "title": "Lady for a Day",
+        "tmdb_id": 43130,
+        "imdb_id": "tt0024240"
+      }
     ],
     "won": false
   },
@@ -2829,7 +2861,11 @@
       "Frank Capra"
     ],
     "movies": [
-      "Lady for a Day"
+      {
+        "title": "Lady for a Day",
+        "tmdb_id": 43130,
+        "imdb_id": "tt0024240"
+      }
     ],
     "won": false
   },
@@ -2840,7 +2876,11 @@
       "George Cukor"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 39938,
+        "imdb_id": "tt0024264"
+      }
     ],
     "won": false
   },
@@ -2910,7 +2950,11 @@
       "Sarah Y. Mason"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 39938,
+        "imdb_id": "tt0024264"
+      }
     ],
     "won": true
   },
@@ -2921,7 +2965,11 @@
       "Robert Riskin"
     ],
     "movies": [
-      "Lady for a Day"
+      {
+        "title": "Lady for a Day",
+        "tmdb_id": 43130,
+        "imdb_id": "tt0024240"
+      }
     ],
     "won": false
   },
@@ -3729,7 +3777,11 @@
       "La Cucaracha"
     ],
     "movies": [
-      "La Cucaracha"
+      {
+        "title": "La Cucaracha",
+        "tmdb_id": 177032,
+        "imdb_id": "tt0025019"
+      }
     ],
     "won": true
   },
@@ -4121,10 +4173,14 @@
     "category": "Best Picture",
     "year": "1935",
     "nominees": [
-      "Les Miserables"
+      "Les Misérables"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 43893,
+        "imdb_id": "tt0026725"
+      }
     ],
     "won": false
   },
@@ -4384,7 +4440,11 @@
       "Eric Stacey"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 43893,
+        "imdb_id": "tt0026725"
+      }
     ],
     "won": false
   },
@@ -4893,7 +4953,11 @@
       "Gregg Toland"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 43893,
+        "imdb_id": "tt0026725"
+      }
     ],
     "won": false
   },
@@ -4945,7 +5009,11 @@
       "Barbara McLean"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 43893,
+        "imdb_id": "tt0026725"
+      }
     ],
     "won": false
   },
@@ -5071,7 +5139,11 @@
       "John Livadary"
     ],
     "movies": [
-      "Love Me Forever"
+      {
+        "title": "Love Me Forever",
+        "tmdb_id": 234207,
+        "imdb_id": "tt0026654"
+      }
     ],
     "won": false
   },
@@ -5134,7 +5206,11 @@
       "Libeled Lady"
     ],
     "movies": [
-      "Libeled Lady"
+      {
+        "title": "Libeled Lady",
+        "tmdb_id": 31773,
+        "imdb_id": "tt0027884"
+      }
     ],
     "won": false
   },
@@ -6037,10 +6113,14 @@
     "category": "Best Live Action Short (Color)",
     "year": "1936",
     "nominees": [
-      "La Fiesta de Santa Bárbara"
+      "La Fiesta de Santa Barbara"
     ],
     "movies": [
-      "La Fiesta de Santa Bárbara"
+      {
+        "title": "La Fiesta de Santa Barbara",
+        "tmdb_id": 96962,
+        "imdb_id": "tt0027616"
+      }
     ],
     "won": false
   },
@@ -6105,7 +6185,11 @@
       "William S. Darling"
     ],
     "movies": [
-      "Lloyds of London"
+      {
+        "title": "Lloyd's of London",
+        "tmdb_id": 81687,
+        "imdb_id": "tt0027902"
+      }
     ],
     "won": false
   },
@@ -6242,7 +6326,11 @@
       "Barbara McLean"
     ],
     "movies": [
-      "Lloyds of London"
+      {
+        "title": "Lloyd's of London",
+        "tmdb_id": 81687,
+        "imdb_id": "tt0027902"
+      }
     ],
     "won": false
   },
@@ -6468,7 +6556,11 @@
       "Lost Horizon"
     ],
     "movies": [
-      "Lost Horizon"
+      {
+        "title": "Lost Horizon",
+        "tmdb_id": 3598,
+        "imdb_id": "tt0029162"
+      }
     ],
     "won": false
   },
@@ -6838,7 +6930,11 @@
       "C. C. Coleman Jr."
     ],
     "movies": [
-      "Lost Horizon"
+      {
+        "title": "Lost Horizon",
+        "tmdb_id": 3598,
+        "imdb_id": "tt0029162"
+      }
     ],
     "won": false
   },
@@ -7125,7 +7221,11 @@
       "Lost Horizon"
     ],
     "movies": [
-      "Lost Horizon"
+      {
+        "title": "Lost Horizon",
+        "tmdb_id": 3598,
+        "imdb_id": "tt0029162"
+      }
     ],
     "won": false
   },
@@ -7475,7 +7575,11 @@
       "Stephen Goosson"
     ],
     "movies": [
-      "Lost Horizon"
+      {
+        "title": "Lost Horizon",
+        "tmdb_id": 3598,
+        "imdb_id": "tt0029162"
+      }
     ],
     "won": true
   },
@@ -7679,7 +7783,11 @@
       "Gene Milford"
     ],
     "movies": [
-      "Lost Horizon"
+      {
+        "title": "Lost Horizon",
+        "tmdb_id": 3598,
+        "imdb_id": "tt0029162"
+      }
     ],
     "won": true
   },
@@ -7801,7 +7909,11 @@
       "John Livadary"
     ],
     "movies": [
-      "Lost Horizon"
+      {
+        "title": "Lost Horizon",
+        "tmdb_id": 3598,
+        "imdb_id": "tt0029162"
+      }
     ],
     "won": false
   },
@@ -8426,7 +8538,11 @@
       "Frederick Kohner"
     ],
     "movies": [
-      "Mad About Music"
+      {
+        "title": "Mad About Music",
+        "tmdb_id": 61646,
+        "imdb_id": "tt0030395"
+      }
     ],
     "won": false
   },
@@ -8679,7 +8795,11 @@
       "Frank Skinner"
     ],
     "movies": [
-      "Mad About Music"
+      {
+        "title": "Mad About Music",
+        "tmdb_id": 61646,
+        "imdb_id": "tt0030395"
+      }
     ],
     "won": false
   },
@@ -9100,7 +9220,11 @@
       "Jack Otterson"
     ],
     "movies": [
-      "Mad About Music"
+      {
+        "title": "Mad About Music",
+        "tmdb_id": 61646,
+        "imdb_id": "tt0030395"
+      }
     ],
     "won": false
   },
@@ -9264,7 +9388,11 @@
       "Joseph Valentine"
     ],
     "movies": [
-      "Mad About Music"
+      {
+        "title": "Mad About Music",
+        "tmdb_id": 61646,
+        "imdb_id": "tt0030395"
+      }
     ],
     "won": false
   },
@@ -9537,7 +9665,11 @@
       "Love Affair"
     ],
     "movies": [
-      "Love Affair"
+      {
+        "title": "Love Affair",
+        "tmdb_id": 43739,
+        "imdb_id": "tt0031593"
+      }
     ],
     "won": false
   },
@@ -9711,7 +9843,11 @@
       "Irene Dunne"
     ],
     "movies": [
-      "Love Affair"
+      {
+        "title": "Love Affair",
+        "tmdb_id": 43739,
+        "imdb_id": "tt0031593"
+      }
     ],
     "won": false
   },
@@ -9867,7 +10003,11 @@
       "Maria Ouspenskaya"
     ],
     "movies": [
-      "Love Affair"
+      {
+        "title": "Love Affair",
+        "tmdb_id": 43739,
+        "imdb_id": "tt0031593"
+      }
     ],
     "won": false
   },
@@ -10021,7 +10161,11 @@
       "Leo McCarey"
     ],
     "movies": [
-      "Love Affair"
+      {
+        "title": "Love Affair",
+        "tmdb_id": 43739,
+        "imdb_id": "tt0031593"
+      }
     ],
     "won": false
   },
@@ -10419,7 +10563,11 @@
       "Wishing"
     ],
     "movies": [
-      "Love Affair"
+      {
+        "title": "Love Affair",
+        "tmdb_id": 43739,
+        "imdb_id": "tt0031593"
+      }
     ],
     "won": false
   },
@@ -10702,7 +10850,11 @@
       "Alfred Herman"
     ],
     "movies": [
-      "Love Affair"
+      {
+        "title": "Love Affair",
+        "tmdb_id": 43739,
+        "imdb_id": "tt0031593"
+      }
     ],
     "won": false
   },
@@ -10750,7 +10902,11 @@
       "Norbert Brodine"
     ],
     "movies": [
-      "Lady of the Tropics"
+      {
+        "title": "Lady of the Tropics",
+        "tmdb_id": 111316,
+        "imdb_id": "tt0031549"
+      }
     ],
     "won": false
   },
@@ -12294,7 +12450,11 @@
       "London Can Take It!"
     ],
     "movies": [
-      "London Can Take It!"
+      {
+        "title": "London Can Take It!",
+        "tmdb_id": 145011,
+        "imdb_id": "tt0032723"
+      }
     ],
     "won": false
   },
@@ -12404,7 +12564,11 @@
       "Joseph C. Wright"
     ],
     "movies": [
-      "Lillian Russell"
+      {
+        "title": "Lillian Russell",
+        "tmdb_id": 204604,
+        "imdb_id": "tt0032710"
+      }
     ],
     "won": false
   },
@@ -13930,7 +14094,11 @@
       "Ernst Toch"
     ],
     "movies": [
-      "Ladies in Retirement"
+      {
+        "title": "Ladies in Retirement",
+        "tmdb_id": 42066,
+        "imdb_id": "tt0033802"
+      }
     ],
     "won": false
   },
@@ -13971,7 +14139,11 @@
       "Miklós Rózsa"
     ],
     "movies": [
-      "Lydia"
+      {
+        "title": "Lydia",
+        "tmdb_id": 56151,
+        "imdb_id": "tt0033858"
+      }
     ],
     "won": false
   },
@@ -14214,7 +14386,11 @@
       "The Last Time I Saw Paris"
     ],
     "movies": [
-      "Lady Be Good"
+      {
+        "title": "Lady Be Good",
+        "tmdb_id": 43792,
+        "imdb_id": "tt0033803"
+      }
     ],
     "won": true
   },
@@ -14285,7 +14461,11 @@
       "Dolores"
     ],
     "movies": [
-      "Las Vegas Nights"
+      {
+        "title": "Las Vegas Nights",
+        "tmdb_id": 175288,
+        "imdb_id": "tt0033814"
+      }
     ],
     "won": false
   },
@@ -14404,7 +14584,11 @@
       "Life of a Thoroughbred"
     ],
     "movies": [
-      "Life of a Thoroughbred"
+      {
+        "title": "Life of a Thoroughbred",
+        "tmdb_id": 236828,
+        "imdb_id": "tt0033833"
+      }
     ],
     "won": false
   },
@@ -14474,7 +14658,11 @@
       "Lend a Paw"
     ],
     "movies": [
-      "Lend a Paw"
+      {
+        "title": "Lend a Paw",
+        "tmdb_id": 51024,
+        "imdb_id": "tt0033824"
+      }
     ],
     "won": true
   },
@@ -14821,7 +15009,11 @@
       "George Montgomery"
     ],
     "movies": [
-      "Ladies in Retirement"
+      {
+        "title": "Ladies in Retirement",
+        "tmdb_id": 42066,
+        "imdb_id": "tt0033802"
+      }
     ],
     "won": false
   },
@@ -14941,7 +15133,11 @@
       "Stephen A. Seymour"
     ],
     "movies": [
-      "Louisiana Purchase"
+      {
+        "title": "Louisiana Purchase",
+        "tmdb_id": 97818,
+        "imdb_id": "tt0033851"
+      }
     ],
     "won": false
   },
@@ -15163,7 +15359,11 @@
       "Ray Rennahan"
     ],
     "movies": [
-      "Louisiana Purchase"
+      {
+        "title": "Louisiana Purchase",
+        "tmdb_id": 97818,
+        "imdb_id": "tt0033851"
+      }
     ],
     "won": false
   },
@@ -16631,7 +16831,11 @@
         "tmdb_id": 236852,
         "imdb_id": "tt0034906"
       },
-      "Listen to Britain"
+      {
+        "title": "Listen to Britain",
+        "tmdb_id": 88609,
+        "imdb_id": "tt0034978"
+      }
     ],
     "won": false
   },
@@ -16640,15 +16844,23 @@
     "year": "1942",
     "nominees": [
       "Little Belgium",
-      "Little Isles to Freedom",
+      "Little Isles of Freedom",
       "Mr. Blabbermouth",
       "Mr. Gardenia Jones",
       "The New Spirit",
       "The Price of Victory"
     ],
     "movies": [
-      "Little Belgium",
-      "Little Isles to Freedom",
+      {
+        "title": "Little Belgium",
+        "tmdb_id": 236853,
+        "imdb_id": "tt0034979"
+      },
+      {
+        "title": "Little Isles of Freedom",
+        "tmdb_id": 236854,
+        "imdb_id": "tt0034981"
+      },
       "Mr. Blabbermouth",
       "Mr. Gardenia Jones",
       "The New Spirit",
@@ -17676,7 +17888,11 @@
       "Madam Curie"
     ],
     "movies": [
-      "Madame Curie"
+      {
+        "title": "Madame Curie",
+        "tmdb_id": 37631,
+        "imdb_id": "tt0036126"
+      }
     ],
     "won": false
   },
@@ -17772,7 +17988,11 @@
       "Walter Pidgeon"
     ],
     "movies": [
-      "Madame Curie"
+      {
+        "title": "Madame Curie",
+        "tmdb_id": 37631,
+        "imdb_id": "tt0036126"
+      }
     ],
     "won": false
   },
@@ -17842,7 +18062,11 @@
       "Greer Garson"
     ],
     "movies": [
-      "Madame Curie"
+      {
+        "title": "Madame Curie",
+        "tmdb_id": 37631,
+        "imdb_id": "tt0036126"
+      }
     ],
     "won": false
   },
@@ -18340,7 +18564,11 @@
       "Arthur Lange"
     ],
     "movies": [
-      "Lady of Burlesque"
+      {
+        "title": "Lady of Burlesque",
+        "tmdb_id": 50001,
+        "imdb_id": "tt0036094"
+      }
     ],
     "won": false
   },
@@ -18406,7 +18634,11 @@
       "Herbert Stothart"
     ],
     "movies": [
-      "Madame Curie"
+      {
+        "title": "Madame Curie",
+        "tmdb_id": 37631,
+        "imdb_id": "tt0036126"
+      }
     ],
     "won": false
   },
@@ -18997,7 +19229,11 @@
       "Letter to a Hero"
     ],
     "movies": [
-      "Letter to a Hero"
+      {
+        "title": "Letter to a Hero",
+        "tmdb_id": 236870,
+        "imdb_id": "tt0036107"
+      }
     ],
     "won": false
   },
@@ -19093,7 +19329,11 @@
       "Hugh Hunt"
     ],
     "movies": [
-      "Madame Curie"
+      {
+        "title": "Madame Curie",
+        "tmdb_id": 37631,
+        "imdb_id": "tt0036126"
+      }
     ],
     "won": false
   },
@@ -19277,7 +19517,11 @@
       "Joseph Ruttenberg"
     ],
     "movies": [
-      "Madame Curie"
+      {
+        "title": "Madame Curie",
+        "tmdb_id": 37631,
+        "imdb_id": "tt0036126"
+      }
     ],
     "won": false
   },
@@ -19383,7 +19627,11 @@
       "Leonard Smith"
     ],
     "movies": [
-      "Lassie Come Home"
+      {
+        "title": "Lassie Come Home",
+        "tmdb_id": 2202,
+        "imdb_id": "tt0036098"
+      }
     ],
     "won": false
   },
@@ -19596,7 +19844,11 @@
       "Douglas Shearer"
     ],
     "movies": [
-      "Madame Curie"
+      {
+        "title": "Madame Curie",
+        "tmdb_id": 37631,
+        "imdb_id": "tt0036126"
+      }
     ],
     "won": false
   },
@@ -19929,7 +20181,11 @@
       "Clifton Webb"
     ],
     "movies": [
-      "Laura"
+      {
+        "title": "Laura",
+        "tmdb_id": 1939,
+        "imdb_id": "tt0037008"
+      }
     ],
     "won": false
   },
@@ -20044,7 +20300,11 @@
       "Otto Preminger"
     ],
     "movies": [
-      "Laura"
+      {
+        "title": "Laura",
+        "tmdb_id": 1939,
+        "imdb_id": "tt0037008"
+      }
     ],
     "won": false
   },
@@ -20055,7 +20315,11 @@
       "Alfred Hitchcock"
     ],
     "movies": [
-      "Lifeboat"
+      {
+        "title": "Lifeboat",
+        "tmdb_id": 13321,
+        "imdb_id": "tt0037017"
+      }
     ],
     "won": false
   },
@@ -20128,7 +20392,11 @@
       "Betty Reinhardt"
     ],
     "movies": [
-      "Laura"
+      {
+        "title": "Laura",
+        "tmdb_id": 1939,
+        "imdb_id": "tt0037008"
+      }
     ],
     "won": false
   },
@@ -20242,7 +20510,11 @@
       "John Steinbeck"
     ],
     "movies": [
-      "Lifeboat"
+      {
+        "title": "Lifeboat",
+        "tmdb_id": 13321,
+        "imdb_id": "tt0037017"
+      }
     ],
     "won": false
   },
@@ -20621,7 +20893,11 @@
       "Robert Emmett Dolan"
     ],
     "movies": [
-      "Lady in the Dark"
+      {
+        "title": "Lady in the Dark",
+        "tmdb_id": 120801,
+        "imdb_id": "tt0037000"
+      }
     ],
     "won": false
   },
@@ -20632,7 +20908,11 @@
       "Edward Kay"
     ],
     "movies": [
-      "Lady, Let's Dance"
+      {
+        "title": "Lady, Let's Dance",
+        "tmdb_id": 218094,
+        "imdb_id": "tt0037002"
+      }
     ],
     "won": false
   },
@@ -20805,7 +21085,11 @@
       "Golden Dreams"
     ],
     "movies": [
-      "Lady, Let's Dance"
+      {
+        "title": "Lady, Let's Dance",
+        "tmdb_id": 218094,
+        "imdb_id": "tt0037002"
+      }
     ],
     "won": false
   },
@@ -21174,7 +21458,11 @@
       "Thomas Little"
     ],
     "movies": [
-      "Laura"
+      {
+        "title": "Laura",
+        "tmdb_id": 1939,
+        "imdb_id": "tt0037008"
+      }
     ],
     "won": false
   },
@@ -21310,7 +21598,11 @@
       "Ray Moyer"
     ],
     "movies": [
-      "Lady in the Dark"
+      {
+        "title": "Lady in the Dark",
+        "tmdb_id": 120801,
+        "imdb_id": "tt0037000"
+      }
     ],
     "won": false
   },
@@ -21333,7 +21625,11 @@
       "Joseph LaShelle"
     ],
     "movies": [
-      "Laura"
+      {
+        "title": "Laura",
+        "tmdb_id": 1939,
+        "imdb_id": "tt0037008"
+      }
     ],
     "won": true
   },
@@ -21404,7 +21700,11 @@
       "Glen MacWilliams"
     ],
     "movies": [
-      "Lifeboat"
+      {
+        "title": "Lifeboat",
+        "tmdb_id": 13321,
+        "imdb_id": "tt0037017"
+      }
     ],
     "won": false
   },
@@ -21518,7 +21818,11 @@
       "Ray Rennahan"
     ],
     "movies": [
-      "Lady in the Dark"
+      {
+        "title": "Lady in the Dark",
+        "tmdb_id": 120801,
+        "imdb_id": "tt0037000"
+      }
     ],
     "won": false
   },
@@ -22008,7 +22312,11 @@
       "Jennifer Jones"
     ],
     "movies": [
-      "Love Letters"
+      {
+        "title": "Love Letters",
+        "tmdb_id": 109881,
+        "imdb_id": "tt0037885"
+      }
     ],
     "won": false
   },
@@ -22019,7 +22327,11 @@
       "Gene Tierney"
     ],
     "movies": [
-      "Leave Her to Heaven"
+      {
+        "title": "Leave Her to Heaven",
+        "tmdb_id": 17645,
+        "imdb_id": "tt0037865"
+      }
     ],
     "won": false
   },
@@ -22642,7 +22954,11 @@
       "Victor Young"
     ],
     "movies": [
-      "Love Letters"
+      {
+        "title": "Love Letters",
+        "tmdb_id": 109881,
+        "imdb_id": "tt0037885"
+      }
     ],
     "won": false
   },
@@ -22924,7 +23240,11 @@
       "Love Letters"
     ],
     "movies": [
-      "Love Letters"
+      {
+        "title": "Love Letters",
+        "tmdb_id": 109881,
+        "imdb_id": "tt0037885"
+      }
     ],
     "won": false
   },
@@ -23021,7 +23341,11 @@
       "Library of Congress"
     ],
     "movies": [
-      "Library of Congress"
+      {
+        "title": "Library of Congress",
+        "tmdb_id": 240402,
+        "imdb_id": "tt0037875"
+      }
     ],
     "won": false
   },
@@ -23084,7 +23408,11 @@
       "Life with Feathers"
     ],
     "movies": [
-      "Life with Feathers"
+      {
+        "title": "Life with Feathers",
+        "tmdb_id": 202613,
+        "imdb_id": "tt0037879"
+      }
     ],
     "won": false
   },
@@ -23297,7 +23625,11 @@
       "Ray Moyer"
     ],
     "movies": [
-      "Love Letters"
+      {
+        "title": "Love Letters",
+        "tmdb_id": 109881,
+        "imdb_id": "tt0037885"
+      }
     ],
     "won": false
   },
@@ -23385,7 +23717,11 @@
       "Thomas Little"
     ],
     "movies": [
-      "Leave Her to Heaven"
+      {
+        "title": "Leave Her to Heaven",
+        "tmdb_id": 17645,
+        "imdb_id": "tt0037865"
+      }
     ],
     "won": false
   },
@@ -23451,7 +23787,11 @@
       "Leon Shamroy"
     ],
     "movies": [
-      "Leave Her to Heaven"
+      {
+        "title": "Leave Her to Heaven",
+        "tmdb_id": 17645,
+        "imdb_id": "tt0037865"
+      }
     ],
     "won": true
   },
@@ -23672,7 +24012,11 @@
       "Bernard B. Brown"
     ],
     "movies": [
-      "Lady on a Train"
+      {
+        "title": "Lady on a Train",
+        "tmdb_id": 30022,
+        "imdb_id": "tt0037859"
+      }
     ],
     "won": false
   },
@@ -23683,7 +24027,11 @@
       "Thomas T. Moulton"
     ],
     "movies": [
-      "Leave Her to Heaven"
+      {
+        "title": "Leave Her to Heaven",
+        "tmdb_id": 17645,
+        "imdb_id": "tt0037865"
+      }
     ],
     "won": false
   },
@@ -24565,7 +24913,11 @@
       "Life at the Zoo"
     ],
     "movies": [
-      "Life at the Zoo"
+      {
+        "title": "Life at the Zoo",
+        "tmdb_id": 240419,
+        "imdb_id": "tt0038690"
+      }
     ],
     "won": false
   },
@@ -25166,7 +25518,11 @@
       "William Powell"
     ],
     "movies": [
-      "Life with Father"
+      {
+        "title": "Life with Father",
+        "tmdb_id": 41465,
+        "imdb_id": "tt0039566"
+      }
     ],
     "won": false
   },
@@ -25714,7 +26070,11 @@
       "Max Steiner"
     ],
     "movies": [
-      "Life with Father"
+      {
+        "title": "Life with Father",
+        "tmdb_id": 41465,
+        "imdb_id": "tt0039566"
+      }
     ],
     "won": false
   },
@@ -26182,7 +26542,11 @@
       "George James Hopkins"
     ],
     "movies": [
-      "Life with Father"
+      {
+        "title": "Life with Father",
+        "tmdb_id": 41465,
+        "imdb_id": "tt0039566"
+      }
     ],
     "won": false
   },
@@ -26261,7 +26625,11 @@
       "William V. Skall"
     ],
     "movies": [
-      "Life with Father"
+      {
+        "title": "Life with Father",
+        "tmdb_id": 41465,
+        "imdb_id": "tt0039566"
+      }
     ],
     "won": false
   },
@@ -28385,7 +28753,11 @@
       "Ray Heindorf"
     ],
     "movies": [
-      "Look for the Silver Lining"
+      {
+        "title": "Look for the Silver Lining",
+        "tmdb_id": 94615,
+        "imdb_id": "tt0041599"
+      }
     ],
     "won": false
   },
@@ -28762,7 +29134,11 @@
       "Richard A. Pefferle"
     ],
     "movies": [
-      "Madame Bovary"
+      {
+        "title": "Madame Bovary",
+        "tmdb_id": 45184,
+        "imdb_id": "tt0041615"
+      }
     ],
     "won": false
   },
@@ -28794,7 +29170,11 @@
       "Jack D. Moore"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 43436,
+        "imdb_id": "tt0041594"
+      }
     ],
     "won": true
   },
@@ -28924,7 +29304,11 @@
       "Charles Schoenbaum"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 43436,
+        "imdb_id": "tt0041594"
+      }
     ],
     "won": false
   },
@@ -30469,7 +30853,11 @@
       "Leslie I. Carey"
     ],
     "movies": [
-      "Louisa"
+      {
+        "title": "Louisa",
+        "tmdb_id": 99492,
+        "imdb_id": "tt0042687"
+      }
     ],
     "won": false
   },
@@ -31026,7 +31414,11 @@
       "Max Ophuls"
     ],
     "movies": [
-      "La Ronde"
+      {
+        "title": "La Ronde",
+        "tmdb_id": 50030,
+        "imdb_id": "tt0042906"
+      }
     ],
     "won": false
   },
@@ -31496,7 +31888,11 @@
       "Lambert the Sheepish Lion"
     ],
     "movies": [
-      "Lambert the Sheepish Lion"
+      {
+        "title": "Lambert the Sheepish Lion",
+        "tmdb_id": 54184,
+        "imdb_id": "tt0044821"
+      }
     ],
     "won": false
   },
@@ -31608,7 +32004,11 @@
       "D'Eaubonne"
     ],
     "movies": [
-      "La Ronde"
+      {
+        "title": "La Ronde",
+        "tmdb_id": 50030,
+        "imdb_id": "tt0042906"
+      }
     ],
     "won": false
   },
@@ -33007,7 +33407,11 @@
       "Little Johnny Jet"
     ],
     "movies": [
-      "Little Johnny Jet"
+      {
+        "title": "Little Johnny Jet",
+        "tmdb_id": 84899,
+        "imdb_id": "tt0046005"
+      }
     ],
     "won": false
   },
@@ -33018,7 +33422,11 @@
       "Madeline"
     ],
     "movies": [
-      "Madeline"
+      {
+        "title": "Madeline",
+        "tmdb_id": 242994,
+        "imdb_id": "tt0044865"
+      }
     ],
     "won": false
   },
@@ -33051,7 +33459,11 @@
       "Light in the Window: The Art of Vermeer"
     ],
     "movies": [
-      "Light in the Window: The Art of Vermeer"
+      {
+        "title": "Light in the Window: The Art of Vermeer",
+        "tmdb_id": 242989,
+        "imdb_id": "tt0044836"
+      }
     ],
     "won": true
   },
@@ -33832,7 +34244,11 @@
       "Leslie Caron"
     ],
     "movies": [
-      "Lili"
+      {
+        "title": "Lili",
+        "tmdb_id": 43350,
+        "imdb_id": "tt0046000"
+      }
     ],
     "won": false
   },
@@ -34028,7 +34444,11 @@
       "Charles Walters"
     ],
     "movies": [
-      "Lili"
+      {
+        "title": "Lili",
+        "tmdb_id": 43350,
+        "imdb_id": "tt0046000"
+      }
     ],
     "won": false
   },
@@ -34087,7 +34507,11 @@
       "Helen Deutsch"
     ],
     "movies": [
-      "Lili"
+      {
+        "title": "Lili",
+        "tmdb_id": 43350,
+        "imdb_id": "tt0046000"
+      }
     ],
     "won": false
   },
@@ -34219,7 +34643,11 @@
       "Ruth Orkin"
     ],
     "movies": [
-      "Little Fugitive"
+      {
+        "title": "Little Fugitive",
+        "tmdb_id": 52620,
+        "imdb_id": "tt0046004"
+      }
     ],
     "won": false
   },
@@ -34245,7 +34673,11 @@
       "Bronislau Kaper"
     ],
     "movies": [
-      "Lili"
+      {
+        "title": "Lili",
+        "tmdb_id": 43350,
+        "imdb_id": "tt0046000"
+      }
     ],
     "won": true
   },
@@ -34828,7 +35260,11 @@
       "Edwin B. Willis"
     ],
     "movies": [
-      "Lili"
+      {
+        "title": "Lili",
+        "tmdb_id": 43350,
+        "imdb_id": "tt0046000"
+      }
     ],
     "won": false
   },
@@ -34976,7 +35412,11 @@
       "Robert Planck"
     ],
     "movies": [
-      "Lili"
+      {
+        "title": "Lili",
+        "tmdb_id": 43350,
+        "imdb_id": "tt0046000"
+      }
     ],
     "won": false
   },
@@ -36261,7 +36701,11 @@
       "Max Ophuls"
     ],
     "movies": [
-      "Le plaisir"
+      {
+        "title": "Le Plaisir",
+        "tmdb_id": 43360,
+        "imdb_id": "tt0045034"
+      }
     ],
     "won": false
   },
@@ -36799,7 +37243,11 @@
       "Love is a Many-Splendored Thing"
     ],
     "movies": [
-      "Love Is a Many-Splendored Thing"
+      {
+        "title": "Love Is a Many-Splendored Thing",
+        "tmdb_id": 53879,
+        "imdb_id": "tt0048316"
+      }
     ],
     "won": false
   },
@@ -36854,7 +37302,11 @@
       "James Cagney"
     ],
     "movies": [
-      "Love Me or Leave Me"
+      {
+        "title": "Love Me or Leave Me",
+        "tmdb_id": 40633,
+        "imdb_id": "tt0048317"
+      }
     ],
     "won": false
   },
@@ -36943,7 +37395,11 @@
       "Jennifer Jones"
     ],
     "movies": [
-      "Love Is a Many-Splendored Thing"
+      {
+        "title": "Love Is a Many-Splendored Thing",
+        "tmdb_id": 53879,
+        "imdb_id": "tt0048316"
+      }
     ],
     "won": false
   },
@@ -37203,7 +37659,11 @@
       "Isobel Lennart"
     ],
     "movies": [
-      "Love Me or Leave Me"
+      {
+        "title": "Love Me or Leave Me",
+        "tmdb_id": 40633,
+        "imdb_id": "tt0048317"
+      }
     ],
     "won": false
   },
@@ -37282,7 +37742,11 @@
       "Daniel Fuchs"
     ],
     "movies": [
-      "Love Me or Leave Me"
+      {
+        "title": "Love Me or Leave Me",
+        "tmdb_id": 40633,
+        "imdb_id": "tt0048317"
+      }
     ],
     "won": true
   },
@@ -37342,7 +37806,11 @@
       "Alfred Newman"
     ],
     "movies": [
-      "Love Is a Many-Splendored Thing"
+      {
+        "title": "Love Is a Many-Splendored Thing",
+        "tmdb_id": 53879,
+        "imdb_id": "tt0048316"
+      }
     ],
     "won": true
   },
@@ -37461,7 +37929,11 @@
       "George Stoll"
     ],
     "movies": [
-      "Love Me or Leave Me"
+      {
+        "title": "Love Me or Leave Me",
+        "tmdb_id": 40633,
+        "imdb_id": "tt0048317"
+      }
     ],
     "won": false
   },
@@ -37472,7 +37944,11 @@
       "Love Is a Many-Splendored Thing"
     ],
     "movies": [
-      "Love Is a Many-Splendored Thing"
+      {
+        "title": "Love Is a Many-Splendored Thing",
+        "tmdb_id": 53879,
+        "imdb_id": "tt0048316"
+      }
     ],
     "won": true
   },
@@ -37483,7 +37959,11 @@
       "I'll Never Stop Loving You"
     ],
     "movies": [
-      "Love Me or Leave Me"
+      {
+        "title": "Love Me or Leave Me",
+        "tmdb_id": 40633,
+        "imdb_id": "tt0048317"
+      }
     ],
     "won": false
   },
@@ -37890,7 +38370,11 @@
       "Jack Stubbs"
     ],
     "movies": [
-      "Love Is a Many-Splendored Thing"
+      {
+        "title": "Love Is a Many-Splendored Thing",
+        "tmdb_id": 53879,
+        "imdb_id": "tt0048316"
+      }
     ],
     "won": false
   },
@@ -37989,7 +38473,11 @@
       "Leon Shamroy"
     ],
     "movies": [
-      "Love Is a Many-Splendored Thing"
+      {
+        "title": "Love Is a Many-Splendored Thing",
+        "tmdb_id": 53879,
+        "imdb_id": "tt0048316"
+      }
     ],
     "won": false
   },
@@ -38147,7 +38635,11 @@
       "Carlton W. Faulkner"
     ],
     "movies": [
-      "Love Is a Many-Splendored Thing"
+      {
+        "title": "Love Is a Many-Splendored Thing",
+        "tmdb_id": 53879,
+        "imdb_id": "tt0048316"
+      }
     ],
     "won": false
   },
@@ -38158,7 +38650,11 @@
       "Wesley C. Miller"
     ],
     "movies": [
-      "Love Me or Leave Me"
+      {
+        "title": "Love Me or Leave Me",
+        "tmdb_id": 40633,
+        "imdb_id": "tt0048317"
+      }
     ],
     "won": false
   },
@@ -38250,7 +38746,11 @@
       "Charles LeMaire"
     ],
     "movies": [
-      "Love Is a Many-Splendored Thing"
+      {
+        "title": "Love Is a Many-Splendored Thing",
+        "tmdb_id": 53879,
+        "imdb_id": "tt0048316"
+      }
     ],
     "won": true
   },
@@ -38407,7 +38907,11 @@
       "Kirk Douglas"
     ],
     "movies": [
-      "Lust for Life"
+      {
+        "title": "Lust for Life",
+        "tmdb_id": 29592,
+        "imdb_id": "tt0049456"
+      }
     ],
     "won": false
   },
@@ -38507,7 +39011,11 @@
       "Anthony Quinn"
     ],
     "movies": [
-      "Lust for Life"
+      {
+        "title": "Lust for Life",
+        "tmdb_id": 29592,
+        "imdb_id": "tt0049456"
+      }
     ],
     "won": true
   },
@@ -38763,7 +39271,11 @@
       "Norman Corwin"
     ],
     "movies": [
-      "Lust for Life"
+      {
+        "title": "Lust for Life",
+        "tmdb_id": 29592,
+        "imdb_id": "tt0049456"
+      }
     ],
     "won": false
   },
@@ -38812,7 +39324,11 @@
       "Tullio Pinelli"
     ],
     "movies": [
-      "La Strada"
+      {
+        "title": "La Strada",
+        "tmdb_id": 405,
+        "imdb_id": "tt0047528"
+      }
     ],
     "won": false
   },
@@ -39097,7 +39613,11 @@
       "La Strada"
     ],
     "movies": [
-      "La Strada"
+      {
+        "title": "La Strada",
+        "tmdb_id": 405,
+        "imdb_id": "tt0047528"
+      }
     ],
     "won": true
   },
@@ -39495,7 +40015,11 @@
       "F. Keogh Gleason"
     ],
     "movies": [
-      "Lust for Life"
+      {
+        "title": "Lust for Life",
+        "tmdb_id": 29592,
+        "imdb_id": "tt0049456"
+      }
     ],
     "won": false
   },
@@ -40801,7 +41325,11 @@
       "Richard Pefferle"
     ],
     "movies": [
-      "Les Girls"
+      {
+        "title": "Les Girls",
+        "tmdb_id": 43232,
+        "imdb_id": "tt0050631"
+      }
     ],
     "won": false
   },
@@ -40997,7 +41525,11 @@
       "Wesley C. Miller"
     ],
     "movies": [
-      "Les Girls"
+      {
+        "title": "Les Girls",
+        "tmdb_id": 43232,
+        "imdb_id": "tt0050631"
+      }
     ],
     "won": false
   },
@@ -41030,7 +41562,11 @@
       "Orry-Kelly"
     ],
     "movies": [
-      "Les Girls"
+      {
+        "title": "Les Girls",
+        "tmdb_id": 43232,
+        "imdb_id": "tt0050631"
+      }
     ],
     "won": true
   },
@@ -41379,7 +41915,11 @@
       "Maureen Stapleton"
     ],
     "movies": [
-      "Lonelyhearts"
+      {
+        "title": "Lonelyhearts",
+        "tmdb_id": 95402,
+        "imdb_id": "tt0053017"
+      }
     ],
     "won": false
   },
@@ -41812,10 +42352,14 @@
     "category": "Best International Feature Film",
     "year": "1958",
     "nominees": [
-      "La Venganza"
+      "Revenge"
     ],
     "movies": [
-      "La Venganza"
+      {
+        "title": "Revenge",
+        "tmdb_id": 109827,
+        "imdb_id": "tt0051155"
+      }
     ],
     "won": false
   },
@@ -43071,7 +43615,11 @@
       "Joseph J. Lilley"
     ],
     "movies": [
-      "L'il Abner"
+      {
+        "title": "Li'l Abner",
+        "tmdb_id": 34662,
+        "imdb_id": "tt0053001"
+      }
     ],
     "won": false
   },
@@ -43797,7 +44345,11 @@
       "A.W. Watkins"
     ],
     "movies": [
-      "Libel"
+      {
+        "title": "Libel",
+        "tmdb_id": 79180,
+        "imdb_id": "tt0053003"
+      }
     ],
     "won": false
   },
@@ -44549,7 +45101,11 @@
       "Earle H. Hagen"
     ],
     "movies": [
-      "Let's Make Love"
+      {
+        "title": "Let's Make Love",
+        "tmdb_id": 24014,
+        "imdb_id": "tt0054022"
+      }
     ],
     "won": false
   },
@@ -44642,10 +45198,14 @@
     "category": "Best International Feature Film",
     "year": "1960",
     "nominees": [
-      "La Verite"
+      "The Truth"
     ],
     "movies": [
-      "La Verite"
+      {
+        "title": "The Truth",
+        "tmdb_id": 61711,
+        "imdb_id": "tt0054452"
+      }
     ],
     "won": false
   },
@@ -44656,7 +45216,11 @@
       "Macario"
     ],
     "movies": [
-      "Macario"
+      {
+        "title": "Macario",
+        "tmdb_id": 122019,
+        "imdb_id": "tt0054042"
+      }
     ],
     "won": false
   },
@@ -45749,7 +46313,11 @@
       "Federico Fellini"
     ],
     "movies": [
-      "La Dolce Vita"
+      {
+        "title": "La Dolce Vita",
+        "tmdb_id": 439,
+        "imdb_id": "tt0053779"
+      }
     ],
     "won": false
   },
@@ -45859,7 +46427,11 @@
       "Brunello Rondi"
     ],
     "movies": [
-      "La Dolce Vita"
+      {
+        "title": "La Dolce Vita",
+        "tmdb_id": 439,
+        "imdb_id": "tt0053779"
+      }
     ],
     "won": false
   },
@@ -45904,7 +46476,11 @@
       "Paul Henning"
     ],
     "movies": [
-      "Lover Come Back"
+      {
+        "title": "Lover Come Back",
+        "tmdb_id": 40894,
+        "imdb_id": "tt0055100"
+      }
     ],
     "won": false
   },
@@ -46192,10 +46768,14 @@
     "category": "Best Documentary Feature",
     "year": "1961",
     "nominees": [
-      "La grande olimpiade"
+      "The Grand Olympics"
     ],
     "movies": [
-      "La grande olimpiade"
+      {
+        "title": "The Grand Olympics",
+        "tmdb_id": 149281,
+        "imdb_id": "tt0054940"
+      }
     ],
     "won": false
   },
@@ -46436,7 +47016,11 @@
       "Piero Gherardi"
     ],
     "movies": [
-      "La Dolce Vita"
+      {
+        "title": "La Dolce Vita",
+        "tmdb_id": 439,
+        "imdb_id": "tt0053779"
+      }
     ],
     "won": false
   },
@@ -46809,7 +47393,11 @@
       "Piero Gherardi"
     ],
     "movies": [
-      "La Dolce Vita"
+      {
+        "title": "La Dolce Vita",
+        "tmdb_id": 439,
+        "imdb_id": "tt0053779"
+      }
     ],
     "won": true
   },
@@ -46940,7 +47528,11 @@
       "Lawrence of Arabia"
     ],
     "movies": [
-      "Lawrence of Arabia"
+      {
+        "title": "Lawrence of Arabia",
+        "tmdb_id": 947,
+        "imdb_id": "tt0056172"
+      }
     ],
     "won": true
   },
@@ -47051,7 +47643,11 @@
       "Peter O'Toole"
     ],
     "movies": [
-      "Lawrence of Arabia"
+      {
+        "title": "Lawrence of Arabia",
+        "tmdb_id": 947,
+        "imdb_id": "tt0056172"
+      }
     ],
     "won": false
   },
@@ -47084,7 +47680,11 @@
       "Katharine Hepburn"
     ],
     "movies": [
-      "Long Day's Journey Into Night"
+      {
+        "title": "Long Day's Journey Into Night",
+        "tmdb_id": 43004,
+        "imdb_id": "tt0056196"
+      }
     ],
     "won": false
   },
@@ -47158,7 +47758,11 @@
       "Omar Sharif"
     ],
     "movies": [
-      "Lawrence of Arabia"
+      {
+        "title": "Lawrence of Arabia",
+        "tmdb_id": 947,
+        "imdb_id": "tt0056172"
+      }
     ],
     "won": false
   },
@@ -47243,7 +47847,11 @@
       "David Lean"
     ],
     "movies": [
-      "Lawrence of Arabia"
+      {
+        "title": "Lawrence of Arabia",
+        "tmdb_id": 947,
+        "imdb_id": "tt0056172"
+      }
     ],
     "won": true
   },
@@ -47317,7 +47925,11 @@
       "Robert Bolt (and Michael Wilson)"
     ],
     "movies": [
-      "Lawrence of Arabia"
+      {
+        "title": "Lawrence of Arabia",
+        "tmdb_id": 947,
+        "imdb_id": "tt0056172"
+      }
     ],
     "won": false
   },
@@ -47339,7 +47951,11 @@
       "Vladimir Nabokov"
     ],
     "movies": [
-      "Lolita"
+      {
+        "title": "Lolita",
+        "tmdb_id": 802,
+        "imdb_id": "tt0056193"
+      }
     ],
     "won": false
   },
@@ -47409,7 +48025,11 @@
       "Alain Robbe-Grillet"
     ],
     "movies": [
-      "Last Year at Marienbad"
+      {
+        "title": "Last Year at Marienbad",
+        "tmdb_id": 4024,
+        "imdb_id": "tt0054632"
+      }
     ],
     "won": false
   },
@@ -47432,7 +48052,11 @@
       "Maurice Jarre"
     ],
     "movies": [
-      "Lawrence of Arabia"
+      {
+        "title": "Lawrence of Arabia",
+        "tmdb_id": 947,
+        "imdb_id": "tt0056172"
+      }
     ],
     "won": true
   },
@@ -47943,7 +48567,11 @@
       "Dario Simoni"
     ],
     "movies": [
-      "Lawrence of Arabia"
+      {
+        "title": "Lawrence of Arabia",
+        "tmdb_id": 947,
+        "imdb_id": "tt0056172"
+      }
     ],
     "won": true
   },
@@ -48067,7 +48695,11 @@
       "Freddie Young"
     ],
     "movies": [
-      "Lawrence of Arabia"
+      {
+        "title": "Lawrence of Arabia",
+        "tmdb_id": 947,
+        "imdb_id": "tt0056172"
+      }
     ],
     "won": true
   },
@@ -48130,7 +48762,11 @@
       "Anne V. Coates"
     ],
     "movies": [
-      "Lawrence of Arabia"
+      {
+        "title": "Lawrence of Arabia",
+        "tmdb_id": 947,
+        "imdb_id": "tt0056172"
+      }
     ],
     "won": true
   },
@@ -48209,7 +48845,11 @@
       "John Cox"
     ],
     "movies": [
-      "Lawrence of Arabia"
+      {
+        "title": "Lawrence of Arabia",
+        "tmdb_id": 947,
+        "imdb_id": "tt0056172"
+      }
     ],
     "won": true
   },
@@ -48446,7 +49086,11 @@
       "Lilies of the Field"
     ],
     "movies": [
-      "Lilies of the Field"
+      {
+        "title": "Lilies of the Field",
+        "tmdb_id": 38805,
+        "imdb_id": "tt0057251"
+      }
     ],
     "won": false
   },
@@ -48457,7 +49101,11 @@
       "Sidney Poitier"
     ],
     "movies": [
-      "Lilies of the Field"
+      {
+        "title": "Lilies of the Field",
+        "tmdb_id": 38805,
+        "imdb_id": "tt0057251"
+      }
     ],
     "won": true
   },
@@ -48572,7 +49220,11 @@
       "Natalie Wood"
     ],
     "movies": [
-      "Love with the Proper Stranger"
+      {
+        "title": "Love with the Proper Stranger",
+        "tmdb_id": 39495,
+        "imdb_id": "tt0057263"
+      }
     ],
     "won": false
   },
@@ -48690,7 +49342,11 @@
       "Lilia Skala"
     ],
     "movies": [
-      "Lilies of the Field"
+      {
+        "title": "Lilies of the Field",
+        "tmdb_id": 38805,
+        "imdb_id": "tt0057251"
+      }
     ],
     "won": false
   },
@@ -48779,7 +49435,11 @@
       "James Poe"
     ],
     "movies": [
-      "Lilies of the Field"
+      {
+        "title": "Lilies of the Field",
+        "tmdb_id": 38805,
+        "imdb_id": "tt0057251"
+      }
     ],
     "won": false
   },
@@ -48883,7 +49543,11 @@
       "Arnold Schulman"
     ],
     "movies": [
-      "Love with the Proper Stranger"
+      {
+        "title": "Love with the Proper Stranger",
+        "tmdb_id": 39495,
+        "imdb_id": "tt0057263"
+      }
     ],
     "won": false
   },
@@ -49148,7 +49812,11 @@
       "Los Tarantos"
     ],
     "movies": [
-      "Los Tarantos"
+      {
+        "title": "Los Tarantos",
+        "tmdb_id": 183819,
+        "imdb_id": "tt0056555"
+      }
     ],
     "won": false
   },
@@ -49189,10 +49857,14 @@
     "category": "Best Documentary Feature",
     "year": "1963",
     "nominees": [
-      "Le Maillon et la chaîne"
+      "The Link and the Chain"
     ],
     "movies": [
-      "Le Maillon et la chaîne"
+      {
+        "title": "The Link and the Chain",
+        "tmdb_id": 149285,
+        "imdb_id": "tt0057279"
+      }
     ],
     "won": false
   },
@@ -49457,7 +50129,11 @@
       "Grace Gregory"
     ],
     "movies": [
-      "Love with the Proper Stranger"
+      {
+        "title": "Love with the Proper Stranger",
+        "tmdb_id": 39495,
+        "imdb_id": "tt0057263"
+      }
     ],
     "won": false
   },
@@ -49585,7 +50261,11 @@
       "Ernest Haller"
     ],
     "movies": [
-      "Lilies of the Field"
+      {
+        "title": "Lilies of the Field",
+        "tmdb_id": 38805,
+        "imdb_id": "tt0057251"
+      }
     ],
     "won": false
   },
@@ -49596,7 +50276,11 @@
       "Milton Krasner"
     ],
     "movies": [
-      "Love with the Proper Stranger"
+      {
+        "title": "Love with the Proper Stranger",
+        "tmdb_id": 39495,
+        "imdb_id": "tt0057263"
+      }
     ],
     "won": false
   },
@@ -49952,7 +50636,11 @@
       "Edith Head"
     ],
     "movies": [
-      "Love with the Proper Stranger"
+      {
+        "title": "Love with the Proper Stranger",
+        "tmdb_id": 39495,
+        "imdb_id": "tt0057263"
+      }
     ],
     "won": false
   },
@@ -52406,7 +53094,11 @@
       "Let My People Go: The Story of Israel"
     ],
     "movies": [
-      "Let My People Go: The Story of Israel"
+      {
+        "title": "Let My People Go: The Story of Israel",
+        "tmdb_id": 149295,
+        "imdb_id": "tt0857321"
+      }
     ],
     "won": false
   },
@@ -53896,7 +54588,11 @@
       "Loves of a Blonde"
     ],
     "movies": [
-      "Loves of a Blonde"
+      {
+        "title": "Loves of a Blonde",
+        "tmdb_id": 39387,
+        "imdb_id": "tt0059415"
+      }
     ],
     "won": false
   },
@@ -53974,10 +54670,14 @@
     "category": "Best Documentary Feature",
     "year": "1966",
     "nominees": [
-      "Le Volcan interdit"
+      "The Forbidden Volcano"
     ],
     "movies": [
-      "Le Volcan interdit"
+      {
+        "title": "The Forbidden Volcano",
+        "tmdb_id": 149299,
+        "imdb_id": "tt0061163"
+      }
     ],
     "won": false
   },
@@ -55527,7 +56227,11 @@
       "Live for Life"
     ],
     "movies": [
-      "Live for Life"
+      {
+        "title": "Live for Life",
+        "tmdb_id": 76295,
+        "imdb_id": "tt0062452"
+      }
     ],
     "won": false
   },
@@ -56932,7 +57636,11 @@
       "Legendary Champions"
     ],
     "movies": [
-      "Legendary Champions"
+      {
+        "title": "Legendary Champions",
+        "tmdb_id": 149311,
+        "imdb_id": "tt0063222"
+      }
     ],
     "won": false
   },
@@ -57743,7 +58451,11 @@
       "Catherine Burns"
     ],
     "movies": [
-      "Last Summer"
+      {
+        "title": "Last Summer",
+        "tmdb_id": 38096,
+        "imdb_id": "tt0064573"
+      }
     ],
     "won": false
   },
@@ -58354,7 +59066,11 @@
       "Leo Beuerman"
     ],
     "movies": [
-      "Leo Beuerman"
+      {
+        "title": "Leo Beuerman",
+        "tmdb_id": 243336,
+        "imdb_id": "tt0064581"
+      }
     ],
     "won": false
   },
@@ -58871,7 +59587,11 @@
       "Love Story"
     ],
     "movies": [
-      "Love Story"
+      {
+        "title": "Love Story",
+        "tmdb_id": 9062,
+        "imdb_id": "tt0066011"
+      }
     ],
     "won": false
   },
@@ -58879,10 +59599,14 @@
     "category": "Best Picture",
     "year": "1970",
     "nominees": [
-      "MASH"
+      "M*A*S*H"
     ],
     "movies": [
-      "MASH"
+      {
+        "title": "M*A*S*H",
+        "tmdb_id": 651,
+        "imdb_id": "tt0066026"
+      }
     ],
     "won": false
   },
@@ -58945,7 +59669,11 @@
       "Ryan O'Neal"
     ],
     "movies": [
-      "Love Story"
+      {
+        "title": "Love Story",
+        "tmdb_id": 9062,
+        "imdb_id": "tt0066011"
+      }
     ],
     "won": false
   },
@@ -58978,7 +59706,11 @@
       "Ali MacGraw"
     ],
     "movies": [
-      "Love Story"
+      {
+        "title": "Love Story",
+        "tmdb_id": 9062,
+        "imdb_id": "tt0066011"
+      }
     ],
     "won": false
   },
@@ -59026,7 +59758,11 @@
       "Richard S. Castellano"
     ],
     "movies": [
-      "Lovers and Other Strangers"
+      {
+        "title": "Lovers and Other Strangers",
+        "tmdb_id": 42593,
+        "imdb_id": "tt0066016"
+      }
     ],
     "won": false
   },
@@ -59037,7 +59773,11 @@
       "Chief Dan George"
     ],
     "movies": [
-      "Little Big Man"
+      {
+        "title": "Little Big Man",
+        "tmdb_id": 11040,
+        "imdb_id": "tt0065988"
+      }
     ],
     "won": false
   },
@@ -59063,7 +59803,11 @@
       "John Marley"
     ],
     "movies": [
-      "Love Story"
+      {
+        "title": "Love Story",
+        "tmdb_id": 9062,
+        "imdb_id": "tt0066011"
+      }
     ],
     "won": false
   },
@@ -59115,7 +59859,11 @@
       "Sally Kellerman"
     ],
     "movies": [
-      "MASH"
+      {
+        "title": "M*A*S*H",
+        "tmdb_id": 651,
+        "imdb_id": "tt0066026"
+      }
     ],
     "won": false
   },
@@ -59152,7 +59900,11 @@
       "Robert Altman"
     ],
     "movies": [
-      "MASH"
+      {
+        "title": "M*A*S*H",
+        "tmdb_id": 651,
+        "imdb_id": "tt0066026"
+      }
     ],
     "won": false
   },
@@ -59174,7 +59926,11 @@
       "Arthur Hiller"
     ],
     "movies": [
-      "Love Story"
+      {
+        "title": "Love Story",
+        "tmdb_id": 9062,
+        "imdb_id": "tt0066011"
+      }
     ],
     "won": false
   },
@@ -59196,7 +59952,11 @@
       "Ring Lardner Jr."
     ],
     "movies": [
-      "MASH"
+      {
+        "title": "M*A*S*H",
+        "tmdb_id": 651,
+        "imdb_id": "tt0066026"
+      }
     ],
     "won": true
   },
@@ -59239,7 +59999,11 @@
       "David Zelag Goodman"
     ],
     "movies": [
-      "Lovers and Other Strangers"
+      {
+        "title": "Lovers and Other Strangers",
+        "tmdb_id": 42593,
+        "imdb_id": "tt0066016"
+      }
     ],
     "won": false
   },
@@ -59303,7 +60067,11 @@
       "Erich Segal"
     ],
     "movies": [
-      "Love Story"
+      {
+        "title": "Love Story",
+        "tmdb_id": 9062,
+        "imdb_id": "tt0066011"
+      }
     ],
     "won": false
   },
@@ -59325,7 +60093,11 @@
       "Francis Lai"
     ],
     "movies": [
-      "Love Story"
+      {
+        "title": "Love Story",
+        "tmdb_id": 9062,
+        "imdb_id": "tt0066011"
+      }
     ],
     "won": true
   },
@@ -59392,7 +60164,11 @@
       "The Beatles"
     ],
     "movies": [
-      "Let it Be"
+      {
+        "title": "Let It Be",
+        "tmdb_id": 20556,
+        "imdb_id": "tt0065976"
+      }
     ],
     "won": true
   },
@@ -59463,7 +60239,11 @@
       "For All We Know"
     ],
     "movies": [
-      "Lovers and Other Strangers"
+      {
+        "title": "Lovers and Other Strangers",
+        "tmdb_id": 42593,
+        "imdb_id": "tt0066016"
+      }
     ],
     "won": true
   },
@@ -59489,7 +60269,11 @@
       "Till Love Touches Your Life"
     ],
     "movies": [
-      "Madron"
+      {
+        "title": "Madron",
+        "tmdb_id": 216603,
+        "imdb_id": "tt0066034"
+      }
     ],
     "won": false
   },
@@ -59945,7 +60729,11 @@
       "Danford B. Greene"
     ],
     "movies": [
-      "MASH"
+      {
+        "title": "M*A*S*H",
+        "tmdb_id": 651,
+        "imdb_id": "tt0066026"
+      }
     ],
     "won": false
   },
@@ -60900,10 +61688,14 @@
     "category": "Best Documentary Feature",
     "year": "1971",
     "nominees": [
-      "Le chagrin et la pitié"
+      "The Sorrow and the Pity"
     ],
     "movies": [
-      "Le chagrin et la pitié"
+      {
+        "title": "The Sorrow and the Pity",
+        "tmdb_id": 42611,
+        "imdb_id": "tt0066904"
+      }
     ],
     "won": false
   },
@@ -61571,7 +62363,11 @@
       "Diana Ross"
     ],
     "movies": [
-      "Lady Sings the Blues"
+      {
+        "title": "Lady Sings the Blues",
+        "tmdb_id": 23148,
+        "imdb_id": "tt0068828"
+      }
     ],
     "won": false
   },
@@ -61886,7 +62682,11 @@
       "Suzanne de Passe"
     ],
     "movies": [
-      "Lady Sings the Blues"
+      {
+        "title": "Lady Sings the Blues",
+        "tmdb_id": 23148,
+        "imdb_id": "tt0068828"
+      }
     ],
     "won": false
   },
@@ -61921,7 +62721,11 @@
       "Larry Russell"
     ],
     "movies": [
-      "Limelight"
+      {
+        "title": "Limelight",
+        "tmdb_id": 28971,
+        "imdb_id": "tt0044837"
+      }
     ],
     "won": true
   },
@@ -61995,7 +62799,11 @@
       "Gil Askey"
     ],
     "movies": [
-      "Lady Sings the Blues"
+      {
+        "title": "Lady Sings the Blues",
+        "tmdb_id": 23148,
+        "imdb_id": "tt0068828"
+      }
     ],
     "won": false
   },
@@ -62355,7 +63163,11 @@
       "Reg Allen"
     ],
     "movies": [
-      "Lady Sings the Blues"
+      {
+        "title": "Lady Sings the Blues",
+        "tmdb_id": 23148,
+        "imdb_id": "tt0068828"
+      }
     ],
     "won": false
   },
@@ -62643,7 +63455,11 @@
       "Bob Mackie"
     ],
     "movies": [
-      "Lady Sings the Blues"
+      {
+        "title": "Lady Sings the Blues",
+        "tmdb_id": 23148,
+        "imdb_id": "tt0068828"
+      }
     ],
     "won": false
   },
@@ -62754,7 +63570,11 @@
       "Marlon Brando"
     ],
     "movies": [
-      "Last Tango in Paris"
+      {
+        "title": "Last Tango in Paris",
+        "tmdb_id": 1643,
+        "imdb_id": "tt0070849"
+      }
     ],
     "won": false
   },
@@ -63031,7 +63851,11 @@
       "Bernardo Bertolucci"
     ],
     "movies": [
-      "Last Tango in Paris"
+      {
+        "title": "Last Tango in Paris",
+        "tmdb_id": 1643,
+        "imdb_id": "tt0070849"
+      }
     ],
     "won": false
   },
@@ -63299,7 +64123,11 @@
       "Let Die"
     ],
     "movies": [
-      "Live and Let Die"
+      {
+        "title": "Live and Let Die",
+        "tmdb_id": 253,
+        "imdb_id": "tt0070328"
+      }
     ],
     "won": false
   },
@@ -63359,10 +64187,14 @@
     "category": "Best International Feature Film",
     "year": "1973",
     "nominees": [
-      "L'Invitation"
+      "The Invitation"
     ],
     "movies": [
-      "L'Invitation"
+      {
+        "title": "The Invitation",
+        "tmdb_id": 109815,
+        "imdb_id": "tt0070224"
+      }
     ],
     "won": false
   },
@@ -63588,7 +64420,11 @@
       "Life Times Nine"
     ],
     "movies": [
-      "Life Times Nine"
+      {
+        "title": "Life Times Nine",
+        "tmdb_id": 243378,
+        "imdb_id": "tt0070317"
+      }
     ],
     "won": false
   },
@@ -63881,7 +64717,11 @@
       "Piero Tosi"
     ],
     "movies": [
-      "Ludwig"
+      {
+        "title": "Ludwig",
+        "tmdb_id": 3478,
+        "imdb_id": "tt0068883"
+      }
     ],
     "won": false
   },
@@ -63952,7 +64792,11 @@
       "Lenny"
     ],
     "movies": [
-      "Lenny"
+      {
+        "title": "Lenny",
+        "tmdb_id": 27094,
+        "imdb_id": "tt0071746"
+      }
     ],
     "won": false
   },
@@ -64000,7 +64844,11 @@
       "Dustin Hoffman"
     ],
     "movies": [
-      "Lenny"
+      {
+        "title": "Lenny",
+        "tmdb_id": 27094,
+        "imdb_id": "tt0071746"
+      }
     ],
     "won": false
   },
@@ -64082,7 +64930,11 @@
       "Valerie Perrine"
     ],
     "movies": [
-      "Lenny"
+      {
+        "title": "Lenny",
+        "tmdb_id": 27094,
+        "imdb_id": "tt0071746"
+      }
     ],
     "won": false
   },
@@ -64256,7 +65108,11 @@
       "Bob Fosse"
     ],
     "movies": [
-      "Lenny"
+      {
+        "title": "Lenny",
+        "tmdb_id": 27094,
+        "imdb_id": "tt0071746"
+      }
     ],
     "won": false
   },
@@ -64321,7 +65177,11 @@
       "Julian Barry"
     ],
     "movies": [
-      "Lenny"
+      {
+        "title": "Lenny",
+        "tmdb_id": 27094,
+        "imdb_id": "tt0071746"
+      }
     ],
     "won": false
   },
@@ -64634,7 +65494,11 @@
       "Lacombe, Lucien"
     ],
     "movies": [
-      "Lacombe, Lucien"
+      {
+        "title": "Lacombe, Lucien",
+        "tmdb_id": 55368,
+        "imdb_id": "tt0071733"
+      }
     ],
     "won": false
   },
@@ -65029,7 +65893,11 @@
       "Bruce Surtees"
     ],
     "movies": [
-      "Lenny"
+      {
+        "title": "Lenny",
+        "tmdb_id": 27094,
+        "imdb_id": "tt0071746"
+      }
     ],
     "won": false
   },
@@ -65755,7 +66623,11 @@
       "Ted Allan"
     ],
     "movies": [
-      "Lies My Father Told Me"
+      {
+        "title": "Lies My Father Told Me",
+        "tmdb_id": 92285,
+        "imdb_id": "tt0073293"
+      }
     ],
     "won": false
   },
@@ -65960,7 +66832,11 @@
       "Letters from Marusia"
     ],
     "movies": [
-      "Letters from Marusia"
+      {
+        "title": "Letters from Marusia",
+        "tmdb_id": 198518,
+        "imdb_id": "tt0072601"
+      }
     ],
     "won": false
   },
@@ -67473,7 +68349,11 @@
       "Leisure"
     ],
     "movies": [
-      "Leisure"
+      {
+        "title": "Leisure",
+        "tmdb_id": 207437,
+        "imdb_id": "tt0074787"
+      }
     ],
     "won": true
   },
@@ -67615,7 +68495,11 @@
       "Robert De Vestel"
     ],
     "movies": [
-      "Logan's Run"
+      {
+        "title": "Logan's Run",
+        "tmdb_id": 10803,
+        "imdb_id": "tt0074812"
+      }
     ],
     "won": false
   },
@@ -67668,7 +68552,11 @@
       "Ernest Laszlo"
     ],
     "movies": [
-      "Logan's Run"
+      {
+        "title": "Logan's Run",
+        "tmdb_id": 10803,
+        "imdb_id": "tt0074812"
+      }
     ],
     "won": false
   },
@@ -67790,7 +68678,11 @@
       "Matthew Yuricich"
     ],
     "movies": [
-      "Logan's Run"
+      {
+        "title": "Logan's Run",
+        "tmdb_id": 10803,
+        "imdb_id": "tt0074812"
+      }
     ],
     "won": true
   },
@@ -68258,7 +69150,11 @@
       "Tuesday Weld"
     ],
     "movies": [
-      "Looking for Mr. Goodbar"
+      {
+        "title": "Looking for Mr. Goodbar",
+        "tmdb_id": 37749,
+        "imdb_id": "tt0076327"
+      }
     ],
     "won": false
   },
@@ -68625,7 +69521,11 @@
       "Madame Rosa"
     ],
     "movies": [
-      "Madame Rosa"
+      {
+        "title": "Madame Rosa",
+        "tmdb_id": 42223,
+        "imdb_id": "tt0076348"
+      }
     ],
     "won": true
   },
@@ -69024,7 +69924,11 @@
       "William A. Fraker"
     ],
     "movies": [
-      "Looking for Mr. Goodbar"
+      {
+        "title": "Looking for Mr. Goodbar",
+        "tmdb_id": 37749,
+        "imdb_id": "tt0076327"
+      }
     ],
     "won": false
   },
@@ -70147,10 +71051,14 @@
     "category": "Best Documentary Feature",
     "year": "1978",
     "nominees": [
-      "Le vent des amoureux"
+      "The Lovers' Wind"
     ],
     "movies": [
-      "Le vent des amoureux"
+      {
+        "title": "The Lovers' Wind",
+        "tmdb_id": 136714,
+        "imdb_id": "tt0080087"
+      }
     ],
     "won": false
   },
@@ -71070,7 +71978,11 @@
       "Edouard Molinaro"
     ],
     "movies": [
-      "La Cage aux Folles"
+      {
+        "title": "La Cage aux Folles",
+        "tmdb_id": 4484,
+        "imdb_id": "tt0077288"
+      }
     ],
     "won": false
   },
@@ -71115,7 +72027,11 @@
       "Jean Poiret"
     ],
     "movies": [
-      "La Cage aux Folles"
+      {
+        "title": "La Cage aux Folles",
+        "tmdb_id": 4484,
+        "imdb_id": "tt0077288"
+      }
     ],
     "won": false
   },
@@ -72139,7 +73055,11 @@
       "Ambra Danon"
     ],
     "movies": [
-      "La Cage aux Folles"
+      {
+        "title": "La Cage aux Folles",
+        "tmdb_id": 4484,
+        "imdb_id": "tt0077288"
+      }
     ],
     "won": false
   },
@@ -72950,7 +73870,11 @@
       "Luther Metke at 94"
     ],
     "movies": [
-      "Luther Metke at 94"
+      {
+        "title": "Luther Metke at 94",
+        "tmdb_id": 244380,
+        "imdb_id": "tt0081091"
+      }
     ],
     "won": false
   },
@@ -75704,7 +76628,11 @@
       "Gianni Quaranta"
     ],
     "movies": [
-      "La Traviata"
+      {
+        "title": "La traviata",
+        "tmdb_id": 48561,
+        "imdb_id": "tt0084821"
+      }
     ],
     "won": false
   },
@@ -76083,7 +77011,11 @@
       "Piero Tosi"
     ],
     "movies": [
-      "La Traviata"
+      {
+        "title": "La traviata",
+        "tmdb_id": 48561,
+        "imdb_id": "tt0084821"
+      }
     ],
     "won": false
   },
@@ -76821,7 +77753,11 @@
       "Le Bal"
     ],
     "movies": [
-      "Le Bal"
+      {
+        "title": "Le Bal",
+        "tmdb_id": 60612,
+        "imdb_id": "tt0085213"
+      }
     ],
     "won": false
   },
@@ -80006,7 +80942,11 @@
       "Bud Alper"
     ],
     "movies": [
-      "Ladyhawke"
+      {
+        "title": "Ladyhawke",
+        "tmdb_id": 526,
+        "imdb_id": "tt0089457"
+      }
     ],
     "won": false
   },
@@ -80048,7 +80988,11 @@
       "Alan Robert Murray"
     ],
     "movies": [
-      "Ladyhawke"
+      {
+        "title": "Ladyhawke",
+        "tmdb_id": 526,
+        "imdb_id": "tt0089457"
+      }
     ],
     "won": false
   },
@@ -80788,7 +81732,11 @@
       "Mean Green Mother from Outer Space"
     ],
     "movies": [
-      "Little Shop of Horrors"
+      {
+        "title": "Little Shop of Horrors",
+        "tmdb_id": 10776,
+        "imdb_id": "tt0091419"
+      }
     ],
     "won": false
   },
@@ -81021,10 +81969,14 @@
     "category": "Best Animated Short",
     "year": "1986",
     "nominees": [
-      "Luxo, Jr."
+      "Luxo Jr."
     ],
     "movies": [
-      "Luxo, Jr."
+      {
+        "title": "Luxo Jr.",
+        "tmdb_id": 13925,
+        "imdb_id": "tt0091455"
+      }
     ],
     "won": false
   },
@@ -81061,7 +82013,11 @@
       "Love Struck"
     ],
     "movies": [
-      "Love Struck"
+      {
+        "title": "Love Struck",
+        "tmdb_id": 244678,
+        "imdb_id": "tt0091438"
+      }
     ],
     "won": false
   },
@@ -81288,7 +82244,11 @@
       "Martin Gutteridge"
     ],
     "movies": [
-      "Little Shop of Horrors"
+      {
+        "title": "Little Shop of Horrors",
+        "tmdb_id": 10776,
+        "imdb_id": "tt0091419"
+      }
     ],
     "won": false
   },
@@ -81454,7 +82414,11 @@
       "Peter Robb King"
     ],
     "movies": [
-      "Legend"
+      {
+        "title": "Legend",
+        "tmdb_id": 11976,
+        "imdb_id": "tt0089469"
+      }
     ],
     "won": false
   },
@@ -82362,7 +83326,11 @@
       "Language Says It All"
     ],
     "movies": [
-      "Language Says It All"
+      {
+        "title": "Language Says It All",
+        "tmdb_id": 244695,
+        "imdb_id": "tt0093388"
+      }
     ],
     "won": false
   },
@@ -82726,7 +83694,11 @@
       "Bill Nelson"
     ],
     "movies": [
-      "Lethal Weapon"
+      {
+        "title": "Lethal Weapon",
+        "tmdb_id": 941,
+        "imdb_id": "tt0093409"
+      }
     ],
     "won": false
   },
@@ -83067,7 +84039,11 @@
       "Alec Guinness"
     ],
     "movies": [
-      "Little Dorrit"
+      {
+        "title": "Little Dorrit",
+        "tmdb_id": 47282,
+        "imdb_id": "tt0095530"
+      }
     ],
     "won": false
   },
@@ -83271,7 +84247,11 @@
       "Christine Edzard"
     ],
     "movies": [
-      "Little Dorrit"
+      {
+        "title": "Little Dorrit",
+        "tmdb_id": 47282,
+        "imdb_id": "tt0095530"
+      }
     ],
     "won": false
   },
@@ -83553,7 +84533,11 @@
       "Let's Get Lost"
     ],
     "movies": [
-      "Let's Get Lost"
+      {
+        "title": "Let's Get Lost",
+        "tmdb_id": 37640,
+        "imdb_id": "tt0095515"
+      }
     ],
     "won": false
   },
@@ -85488,7 +86472,11 @@
       "Alan Robert Murray"
     ],
     "movies": [
-      "Lethal Weapon 2"
+      {
+        "title": "Lethal Weapon 2",
+        "tmdb_id": 942,
+        "imdb_id": "tt0097733"
+      }
     ],
     "won": false
   },
@@ -85820,7 +86808,11 @@
       "Bruce Davison"
     ],
     "movies": [
-      "Longtime Companion"
+      {
+        "title": "Longtime Companion",
+        "tmdb_id": 39934,
+        "imdb_id": "tt0100049"
+      }
     ],
     "won": false
   },
@@ -88002,7 +88994,11 @@
       "Last Breeze of Summer"
     ],
     "movies": [
-      "Last Breeze of Summer"
+      {
+        "title": "Last Breeze of Summer",
+        "tmdb_id": 244731,
+        "imdb_id": "tt0102268"
+      }
     ],
     "won": false
   },
@@ -88451,7 +89447,11 @@
       "Corinne Jorry"
     ],
     "movies": [
-      "Madame Bovary"
+      {
+        "title": "Madame Bovary",
+        "tmdb_id": 2528,
+        "imdb_id": "tt0102368"
+      }
     ],
     "won": false
   },
@@ -88651,7 +89651,11 @@
       "Michelle Pfeiffer"
     ],
     "movies": [
-      "Love Field"
+      {
+        "title": "Love Field",
+        "tmdb_id": 66599,
+        "imdb_id": "tt0104765"
+      }
     ],
     "won": false
   },
@@ -88662,7 +89666,11 @@
       "Susan Sarandon"
     ],
     "movies": [
-      "Lorenzo's Oil"
+      {
+        "title": "Lorenzo's Oil",
+        "tmdb_id": 2007,
+        "imdb_id": "tt0104756"
+      }
     ],
     "won": false
   },
@@ -88960,7 +89968,11 @@
       "Nick Enright"
     ],
     "movies": [
-      "Lorenzo's Oil"
+      {
+        "title": "Lorenzo's Oil",
+        "tmdb_id": 2007,
+        "imdb_id": "tt0104756"
+      }
     ],
     "won": false
   },
@@ -89243,7 +90255,11 @@
       "Liberators: Fighting on Two Fronts in World War II"
     ],
     "movies": [
-      "Liberators: Fighting on Two Fronts in World War II"
+      {
+        "title": "Liberators: Fighting on Two Fronts in World War II",
+        "tmdb_id": 149402,
+        "imdb_id": "tt0104721"
+      }
     ],
     "won": false
   },
@@ -91463,7 +92479,11 @@
       "Winona Ryder"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 9587,
+        "imdb_id": "tt0110367"
+      }
     ],
     "won": false
   },
@@ -91849,7 +92869,11 @@
       "Thomas Newman"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 9587,
+        "imdb_id": "tt0110367"
+      }
     ],
     "won": false
   },
@@ -92313,7 +93337,11 @@
       "Dorree Cooper"
     ],
     "movies": [
-      "Legends of the Fall"
+      {
+        "title": "Legends of the Fall",
+        "tmdb_id": 4476,
+        "imdb_id": "tt0110322"
+      }
     ],
     "won": false
   },
@@ -92324,7 +93352,11 @@
       "John Toll"
     ],
     "movies": [
-      "Legends of the Fall"
+      {
+        "title": "Legends of the Fall",
+        "tmdb_id": 4476,
+        "imdb_id": "tt0110322"
+      }
     ],
     "won": true
   },
@@ -92547,7 +93579,11 @@
       "Douglas Ganton"
     ],
     "movies": [
-      "Legends of the Fall"
+      {
+        "title": "Legends of the Fall",
+        "tmdb_id": 4476,
+        "imdb_id": "tt0110322"
+      }
     ],
     "won": false
   },
@@ -92685,7 +93721,11 @@
       "Colleen Atwood"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 9587,
+        "imdb_id": "tt0110367"
+      }
     ],
     "won": false
   },
@@ -92789,7 +93829,11 @@
       "Nicolas Cage"
     ],
     "movies": [
-      "Leaving Las Vegas"
+      {
+        "title": "Leaving Las Vegas",
+        "tmdb_id": 451,
+        "imdb_id": "tt0113627"
+      }
     ],
     "won": true
   },
@@ -92867,7 +93911,11 @@
       "Elisabeth Shue"
     ],
     "movies": [
-      "Leaving Las Vegas"
+      {
+        "title": "Leaving Las Vegas",
+        "tmdb_id": 451,
+        "imdb_id": "tt0113627"
+      }
     ],
     "won": false
   },
@@ -93060,7 +94108,11 @@
       "Mike Figgis"
     ],
     "movies": [
-      "Leaving Las Vegas"
+      {
+        "title": "Leaving Las Vegas",
+        "tmdb_id": 451,
+        "imdb_id": "tt0113627"
+      }
     ],
     "won": false
   },
@@ -93159,7 +94211,11 @@
       "Mike Figgis"
     ],
     "movies": [
-      "Leaving Las Vegas"
+      {
+        "title": "Leaving Las Vegas",
+        "tmdb_id": 451,
+        "imdb_id": "tt0113627"
+      }
     ],
     "won": false
   },
@@ -93690,7 +94746,11 @@
       "Lieberman in Love"
     ],
     "movies": [
-      "Lieberman in Love"
+      {
+        "title": "Lieberman in Love",
+        "tmdb_id": 244887,
+        "imdb_id": "tt0113653"
+      }
     ],
     "won": true
   },
@@ -93731,7 +94791,11 @@
       "Little Surprises"
     ],
     "movies": [
-      "Little Surprises"
+      {
+        "title": "Little Surprises",
+        "tmdb_id": 244891,
+        "imdb_id": "tt0113671"
+      }
     ],
     "won": false
   },
@@ -94693,7 +95757,11 @@
       "John Sayles"
     ],
     "movies": [
-      "Lone Star"
+      {
+        "title": "Lone Star",
+        "tmdb_id": 26748,
+        "imdb_id": "tt0116905"
+      }
     ],
     "won": false
   },
@@ -95120,7 +96188,11 @@
       "La Salla"
     ],
     "movies": [
-      "La Salla"
+      {
+        "title": "La Salla",
+        "tmdb_id": 218775,
+        "imdb_id": "tt0117542"
+      }
     ],
     "won": false
   },
@@ -95744,7 +96816,11 @@
       "L.A. Confidential"
     ],
     "movies": [
-      "L.A. Confidential"
+      {
+        "title": "L.A. Confidential",
+        "tmdb_id": 2118,
+        "imdb_id": "tt0119488"
+      }
     ],
     "won": false
   },
@@ -95956,7 +97032,11 @@
       "Kim Basinger"
     ],
     "movies": [
-      "L.A. Confidential"
+      {
+        "title": "L.A. Confidential",
+        "tmdb_id": 2118,
+        "imdb_id": "tt0119488"
+      }
     ],
     "won": true
   },
@@ -96056,7 +97136,11 @@
       "Curtis Hanson"
     ],
     "movies": [
-      "L.A. Confidential"
+      {
+        "title": "L.A. Confidential",
+        "tmdb_id": 2118,
+        "imdb_id": "tt0119488"
+      }
     ],
     "won": false
   },
@@ -96083,7 +97167,11 @@
       "Brian Helgeland"
     ],
     "movies": [
-      "L.A. Confidential"
+      {
+        "title": "L.A. Confidential",
+        "tmdb_id": 2118,
+        "imdb_id": "tt0119488"
+      }
     ],
     "won": true
   },
@@ -96242,7 +97330,11 @@
       "Jerry Goldsmith"
     ],
     "movies": [
-      "L.A. Confidential"
+      {
+        "title": "L.A. Confidential",
+        "tmdb_id": 2118,
+        "imdb_id": "tt0119488"
+      }
     ],
     "won": false
   },
@@ -96807,7 +97899,11 @@
       "Jay Hart"
     ],
     "movies": [
-      "L.A. Confidential"
+      {
+        "title": "L.A. Confidential",
+        "tmdb_id": 2118,
+        "imdb_id": "tt0119488"
+      }
     ],
     "won": false
   },
@@ -96829,7 +97925,11 @@
       "Dante Spinotti"
     ],
     "movies": [
-      "L.A. Confidential"
+      {
+        "title": "L.A. Confidential",
+        "tmdb_id": 2118,
+        "imdb_id": "tt0119488"
+      }
     ],
     "won": false
   },
@@ -96894,7 +97994,11 @@
       "Peter Honess"
     ],
     "movies": [
-      "L.A. Confidential"
+      {
+        "title": "L.A. Confidential",
+        "tmdb_id": 2118,
+        "imdb_id": "tt0119488"
+      }
     ],
     "won": false
   },
@@ -97060,7 +98164,11 @@
       "Kirk Francis"
     ],
     "movies": [
-      "L.A. Confidential"
+      {
+        "title": "L.A. Confidential",
+        "tmdb_id": 2118,
+        "imdb_id": "tt0119488"
+      }
     ],
     "won": false
   },
@@ -97234,10 +98342,14 @@
     "category": "Best Picture",
     "year": "1998",
     "nominees": [
-      "Life is Beautiful"
+      "Life Is Beautiful"
     ],
     "movies": [
-      "Life is Beautiful"
+      {
+        "title": "Life Is Beautiful",
+        "tmdb_id": 637,
+        "imdb_id": "tt0118799"
+      }
     ],
     "won": false
   },
@@ -97270,7 +98382,11 @@
       "Roberto Benigni"
     ],
     "movies": [
-      "Life is Beautiful"
+      {
+        "title": "Life Is Beautiful",
+        "tmdb_id": 637,
+        "imdb_id": "tt0118799"
+      }
     ],
     "won": true
   },
@@ -97493,7 +98609,11 @@
       "Brenda Blethyn"
     ],
     "movies": [
-      "Little Voice"
+      {
+        "title": "Little Voice",
+        "tmdb_id": 8545,
+        "imdb_id": "tt0147004"
+      }
     ],
     "won": false
   },
@@ -97545,7 +98665,11 @@
       "Roberto Benigni"
     ],
     "movies": [
-      "Life is Beautiful"
+      {
+        "title": "Life Is Beautiful",
+        "tmdb_id": 637,
+        "imdb_id": "tt0118799"
+      }
     ],
     "won": false
   },
@@ -97681,7 +98805,11 @@
       "Roberto Benigni"
     ],
     "movies": [
-      "Life is Beautiful"
+      {
+        "title": "Life Is Beautiful",
+        "tmdb_id": 637,
+        "imdb_id": "tt0118799"
+      }
     ],
     "won": false
   },
@@ -97714,7 +98842,11 @@
       "Nicola Piovani"
     ],
     "movies": [
-      "Life is Beautiful"
+      {
+        "title": "Life Is Beautiful",
+        "tmdb_id": 637,
+        "imdb_id": "tt0118799"
+      }
     ],
     "won": true
   },
@@ -97895,10 +99027,14 @@
     "category": "Best International Feature Film",
     "year": "1998",
     "nominees": [
-      "Life is Beautiful"
+      "Life Is Beautiful"
     ],
     "movies": [
-      "Life is Beautiful"
+      {
+        "title": "Life Is Beautiful",
+        "tmdb_id": 637,
+        "imdb_id": "tt0118799"
+      }
     ],
     "won": true
   },
@@ -97998,7 +99134,11 @@
       "Lenny Bruce: Swear to Tell the Truth"
     ],
     "movies": [
-      "Lenny Bruce: Swear to Tell the Truth"
+      {
+        "title": "Lenny Bruce: Swear to Tell the Truth",
+        "tmdb_id": 103162,
+        "imdb_id": "tt0175844"
+      }
     ],
     "won": false
   },
@@ -98162,10 +99302,14 @@
     "category": "Best Live Action Short (Comedy or One Reel or Regular)",
     "year": "1998",
     "nominees": [
-      "La Carte Postale"
+      "The Postcard"
     ],
     "movies": [
-      "La Carte Postale"
+      {
+        "title": "The Postcard",
+        "tmdb_id": 244933,
+        "imdb_id": "tt0188485"
+      }
     ],
     "won": false
   },
@@ -98325,7 +99469,11 @@
       "Simona Paggi"
     ],
     "movies": [
-      "Life is Beautiful"
+      {
+        "title": "Life Is Beautiful",
+        "tmdb_id": 637,
+        "imdb_id": "tt0118799"
+      }
     ],
     "won": false
   },
@@ -99913,7 +101061,11 @@
       "Rick Baker"
     ],
     "movies": [
-      "Life"
+      {
+        "title": "Life",
+        "tmdb_id": 6522,
+        "imdb_id": "tt0123964"
+      }
     ],
     "won": false
   },
@@ -100746,7 +101898,11 @@
       "Legacy"
     ],
     "movies": [
-      "Legacy"
+      {
+        "title": "Legacy",
+        "tmdb_id": 26779,
+        "imdb_id": "tt0188028"
+      }
     ],
     "won": false
   },
@@ -100754,10 +101910,14 @@
     "category": "Best Documentary Feature",
     "year": "2000",
     "nominees": [
-      "Long Night's Journey into Day"
+      "Long Night's Journey Into Day"
     ],
     "movies": [
-      "Long Night's Journey into Day"
+      {
+        "title": "Long Night's Journey Into Day",
+        "tmdb_id": 95682,
+        "imdb_id": "tt0236447"
+      }
     ],
     "won": false
   },
@@ -102132,10 +103292,14 @@
     "category": "Best International Feature Film",
     "year": "2001",
     "nominees": [
-      "Lagaan"
+      "Lagaan: Once Upon a Time in India"
     ],
     "movies": [
-      "Lagaan"
+      {
+        "title": "Lagaan: Once Upon a Time in India",
+        "tmdb_id": 19666,
+        "imdb_id": "tt0169102"
+      }
     ],
     "won": false
   },
@@ -102183,7 +103347,11 @@
       "LaLee's Kin: The Legacy of Cotton"
     ],
     "movies": [
-      "LaLee's Kin: The Legacy of Cotton"
+      {
+        "title": "LaLee's Kin: The Legacy of Cotton",
+        "tmdb_id": 112906,
+        "imdb_id": "tt0274622"
+      }
     ],
     "won": false
   },
@@ -103738,7 +104906,11 @@
       "Lilo & Stitch"
     ],
     "movies": [
-      "Lilo & Stitch"
+      {
+        "title": "Lilo & Stitch",
+        "tmdb_id": 11544,
+        "imdb_id": "tt0275847"
+      }
     ],
     "won": false
   },
@@ -104369,7 +105541,11 @@
       "Lost in Translation"
     ],
     "movies": [
-      "Lost in Translation"
+      {
+        "title": "Lost in Translation",
+        "tmdb_id": 153,
+        "imdb_id": "tt0335266"
+      }
     ],
     "won": false
   },
@@ -104465,7 +105641,11 @@
       "Bill Murray"
     ],
     "movies": [
-      "Lost in Translation"
+      {
+        "title": "Lost in Translation",
+        "tmdb_id": 153,
+        "imdb_id": "tt0335266"
+      }
     ],
     "won": false
   },
@@ -104676,7 +105856,11 @@
       "Sofia Coppola"
     ],
     "movies": [
-      "Lost in Translation"
+      {
+        "title": "Lost in Translation",
+        "tmdb_id": 153,
+        "imdb_id": "tt0335266"
+      }
     ],
     "won": false
   },
@@ -104790,7 +105974,11 @@
       "Sofia Coppola"
     ],
     "movies": [
-      "Lost in Translation"
+      {
+        "title": "Lost in Translation",
+        "tmdb_id": 153,
+        "imdb_id": "tt0335266"
+      }
     ],
     "won": true
   },
@@ -106335,7 +107523,11 @@
       "Thomas Newman"
     ],
     "movies": [
-      "Lemony Snicket's A Series of Unfortunate Events"
+      {
+        "title": "Lemony Snicket's A Series of Unfortunate Events",
+        "tmdb_id": 11774,
+        "imdb_id": "tt0339291"
+      }
     ],
     "won": false
   },
@@ -106671,7 +107863,11 @@
       "Lorenzo"
     ],
     "movies": [
-      "Lorenzo"
+      {
+        "title": "Lorenzo",
+        "tmdb_id": 245003,
+        "imdb_id": "tt0412936"
+      }
     ],
     "won": false
   },
@@ -106708,7 +107904,11 @@
       "Little Terrorist"
     ],
     "movies": [
-      "Little Terrorist"
+      {
+        "title": "Little Terrorist",
+        "tmdb_id": 72079,
+        "imdb_id": "tt0425200"
+      }
     ],
     "won": false
   },
@@ -106801,7 +108001,11 @@
       "Cheryl Carasik"
     ],
     "movies": [
-      "Lemony Snicket's A Series of Unfortunate Events"
+      {
+        "title": "Lemony Snicket's A Series of Unfortunate Events",
+        "tmdb_id": 11774,
+        "imdb_id": "tt0339291"
+      }
     ],
     "won": false
   },
@@ -107092,7 +108296,11 @@
       "Bill Corso"
     ],
     "movies": [
-      "Lemony Snicket's A Series of Unfortunate Events"
+      {
+        "title": "Lemony Snicket's A Series of Unfortunate Events",
+        "tmdb_id": 11774,
+        "imdb_id": "tt0339291"
+      }
     ],
     "won": true
   },
@@ -107164,7 +108372,11 @@
       "Colleen Atwood"
     ],
     "movies": [
-      "Lemony Snicket's A Series of Unfortunate Events"
+      {
+        "title": "Lemony Snicket's A Series of Unfortunate Events",
+        "tmdb_id": 11774,
+        "imdb_id": "tt0339291"
+      }
     ],
     "won": false
   },
@@ -108655,7 +109867,11 @@
       "Letters from Iwo Jima"
     ],
     "movies": [
-      "Letters from Iwo Jima"
+      {
+        "title": "Letters from Iwo Jima",
+        "tmdb_id": 1251,
+        "imdb_id": "tt0498380"
+      }
     ],
     "won": false
   },
@@ -108666,7 +109882,11 @@
       "Little Miss Sunshine"
     ],
     "movies": [
-      "Little Miss Sunshine"
+      {
+        "title": "Little Miss Sunshine",
+        "tmdb_id": 773,
+        "imdb_id": "tt0449059"
+      }
     ],
     "won": false
   },
@@ -108795,7 +110015,11 @@
       "Kate Winslet"
     ],
     "movies": [
-      "Little Children"
+      {
+        "title": "Little Children",
+        "tmdb_id": 1440,
+        "imdb_id": "tt0404203"
+      }
     ],
     "won": false
   },
@@ -108806,7 +110030,11 @@
       "Alan Arkin"
     ],
     "movies": [
-      "Little Miss Sunshine"
+      {
+        "title": "Little Miss Sunshine",
+        "tmdb_id": 773,
+        "imdb_id": "tt0449059"
+      }
     ],
     "won": true
   },
@@ -108817,7 +110045,11 @@
       "Jackie Earle Haley"
     ],
     "movies": [
-      "Little Children"
+      {
+        "title": "Little Children",
+        "tmdb_id": 1440,
+        "imdb_id": "tt0404203"
+      }
     ],
     "won": false
   },
@@ -108910,7 +110142,11 @@
       "Abigail Breslin"
     ],
     "movies": [
-      "Little Miss Sunshine"
+      {
+        "title": "Little Miss Sunshine",
+        "tmdb_id": 773,
+        "imdb_id": "tt0449059"
+      }
     ],
     "won": false
   },
@@ -108947,7 +110183,11 @@
       "Clint Eastwood"
     ],
     "movies": [
-      "Letters from Iwo Jima"
+      {
+        "title": "Letters from Iwo Jima",
+        "tmdb_id": 1251,
+        "imdb_id": "tt0498380"
+      }
     ],
     "won": false
   },
@@ -109045,7 +110285,11 @@
       "Tom Perrotta"
     ],
     "movies": [
-      "Little Children"
+      {
+        "title": "Little Children",
+        "tmdb_id": 1440,
+        "imdb_id": "tt0404203"
+      }
     ],
     "won": false
   },
@@ -109067,7 +110311,11 @@
       "Michael Arndt"
     ],
     "movies": [
-      "Little Miss Sunshine"
+      {
+        "title": "Little Miss Sunshine",
+        "tmdb_id": 773,
+        "imdb_id": "tt0449059"
+      }
     ],
     "won": true
   },
@@ -109094,7 +110342,11 @@
       "Paul Haggis"
     ],
     "movies": [
-      "Letters from Iwo Jima"
+      {
+        "title": "Letters from Iwo Jima",
+        "tmdb_id": 1251,
+        "imdb_id": "tt0498380"
+      }
     ],
     "won": false
   },
@@ -109491,7 +110743,11 @@
       "Lifted"
     ],
     "movies": [
-      "Lifted"
+      {
+        "title": "Lifted",
+        "tmdb_id": 13060,
+        "imdb_id": "tt0945571"
+      }
     ],
     "won": false
   },
@@ -109513,7 +110769,11 @@
       "Maestro"
     ],
     "movies": [
-      "Maestro"
+      {
+        "title": "Maestro",
+        "tmdb_id": 50550,
+        "imdb_id": "tt0951144"
+      }
     ],
     "won": false
   },
@@ -109922,7 +111182,11 @@
       "Alan Robert Murray"
     ],
     "movies": [
-      "Letters from Iwo Jima"
+      {
+        "title": "Letters from Iwo Jima",
+        "tmdb_id": 1251,
+        "imdb_id": "tt0498380"
+      }
     ],
     "won": true
   },
@@ -110225,7 +111489,11 @@
       "Marion Cotillard"
     ],
     "movies": [
-      "La Vie en Rose"
+      {
+        "title": "La Vie en Rose",
+        "tmdb_id": 1407,
+        "imdb_id": "tt0450188"
+      }
     ],
     "won": true
   },
@@ -110565,7 +111833,11 @@
       "Nancy Oliver"
     ],
     "movies": [
-      "Lars and the Real Girl"
+      {
+        "title": "Lars and the Real Girl",
+        "tmdb_id": 6615,
+        "imdb_id": "tt0805564"
+      }
     ],
     "won": false
   },
@@ -110879,10 +112151,14 @@
     "category": "Best Documentary Short",
     "year": "2007",
     "nominees": [
-      "La Corona"
+      "The Crown"
     ],
     "movies": [
-      "La Corona"
+      {
+        "title": "The Crown",
+        "tmdb_id": 40535,
+        "imdb_id": "tt1157626"
+      }
     ],
     "won": false
   },
@@ -110974,7 +112250,11 @@
       "Madame Tutli-Putli"
     ],
     "movies": [
-      "Madame Tutli-Putli"
+      {
+        "title": "Madame Tutli-Putli",
+        "tmdb_id": 35253,
+        "imdb_id": "tt1029440"
+      }
     ],
     "won": false
   },
@@ -111008,10 +112288,14 @@
     "category": "Best Live Action Short (Comedy or One Reel or Regular)",
     "year": "2007",
     "nominees": [
-      "Le Mozart des Pickpockets (The Mozart of Pickpockets)"
+      "The Mozart of Pickpockets"
     ],
     "movies": [
-      "Le Mozart des Pickpockets (The Mozart of Pickpockets)"
+      {
+        "title": "The Mozart of Pickpockets",
+        "tmdb_id": 116604,
+        "imdb_id": "tt0820971"
+      }
     ],
     "won": true
   },
@@ -111429,7 +112713,11 @@
       "Jan Archibald"
     ],
     "movies": [
-      "La Vie en Rose"
+      {
+        "title": "La Vie en Rose",
+        "tmdb_id": 1407,
+        "imdb_id": "tt0450188"
+      }
     ],
     "won": true
   },
@@ -111509,7 +112797,11 @@
       "Marit Allen"
     ],
     "movies": [
-      "La Vie en Rose"
+      {
+        "title": "La Vie en Rose",
+        "tmdb_id": 1407,
+        "imdb_id": "tt0450188"
+      }
     ],
     "won": false
   },
@@ -112325,7 +113617,11 @@
       "La Maison en Petits Cubes"
     ],
     "movies": [
-      "La Maison en Petits Cubes"
+      {
+        "title": "La Maison en Petits Cubes",
+        "tmdb_id": 20722,
+        "imdb_id": "tt1361566"
+      }
     ],
     "won": true
   },
@@ -112333,10 +113629,14 @@
     "category": "Best Animated Short",
     "year": "2008",
     "nominees": [
-      "Lavatory-Lovestory"
+      "Lavatory Lovestory"
     ],
     "movies": [
-      "Lavatory-Lovestory"
+      {
+        "title": "Lavatory Lovestory",
+        "tmdb_id": 149117,
+        "imdb_id": "tt0983242"
+      }
     ],
     "won": false
   },
@@ -113846,7 +115146,11 @@
       "Logorama"
     ],
     "movies": [
-      "Logorama"
+      {
+        "title": "Logorama",
+        "tmdb_id": 32389,
+        "imdb_id": "tt1563725"
+      }
     ],
     "won": true
   },
@@ -115417,7 +116721,11 @@
       "Let's Pollute"
     ],
     "movies": [
-      "Let's Pollute"
+      {
+        "title": "Let's Pollute",
+        "tmdb_id": 159523,
+        "imdb_id": "tt1470652"
+      }
     ],
     "won": false
   },
@@ -115428,7 +116736,11 @@
       "Madagascar, a Journey Diary"
     ],
     "movies": [
-      "Madagascar, a Journey Diary"
+      {
+        "title": "Madagascar, a Journey Diary",
+        "tmdb_id": 150298,
+        "imdb_id": "tt1590114"
+      }
     ],
     "won": false
   },
@@ -116934,10 +118246,14 @@
     "category": "Best Animated Short",
     "year": "2011",
     "nominees": [
-      "La Luna"
+      "La luna"
     ],
     "movies": [
-      "La Luna"
+      {
+        "title": "La luna",
+        "tmdb_id": 83564,
+        "imdb_id": "tt1957945"
+      }
     ],
     "won": false
   },
@@ -117604,10 +118920,14 @@
     "category": "Best Picture",
     "year": "2012",
     "nominees": [
-      "Les Miserables"
+      "Les Misérables"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 82695,
+        "imdb_id": "tt1707386"
+      }
     ],
     "won": false
   },
@@ -117618,7 +118938,11 @@
       "Life of Pi"
     ],
     "movies": [
-      "Life of Pi"
+      {
+        "title": "Life of Pi",
+        "tmdb_id": 87827,
+        "imdb_id": "tt0454876"
+      }
     ],
     "won": false
   },
@@ -117629,7 +118953,11 @@
       "Lincoln"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": false
   },
@@ -117662,7 +118990,11 @@
       "Daniel Day-Lewis"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": true
   },
@@ -117684,7 +119016,11 @@
       "Hugh Jackman"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 82695,
+        "imdb_id": "tt1707386"
+      }
     ],
     "won": false
   },
@@ -117836,7 +119172,11 @@
       "Tommy Lee Jones"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": false
   },
@@ -117847,7 +119187,11 @@
       "Anne Hathaway"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 82695,
+        "imdb_id": "tt1707386"
+      }
     ],
     "won": true
   },
@@ -117869,7 +119213,11 @@
       "Sally Field"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": false
   },
@@ -117902,7 +119250,11 @@
       "Ang Lee"
     ],
     "movies": [
-      "Life of Pi"
+      {
+        "title": "Life of Pi",
+        "tmdb_id": 87827,
+        "imdb_id": "tt0454876"
+      }
     ],
     "won": true
   },
@@ -117939,7 +119291,11 @@
       "Steven Spielberg"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": false
   },
@@ -117996,7 +119352,11 @@
       "David Magee"
     ],
     "movies": [
-      "Life of Pi"
+      {
+        "title": "Life of Pi",
+        "tmdb_id": 87827,
+        "imdb_id": "tt0454876"
+      }
     ],
     "won": false
   },
@@ -118007,7 +119367,11 @@
       "Tony Kushner"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": false
   },
@@ -118097,7 +119461,11 @@
       "Mychael Danna"
     ],
     "movies": [
-      "Life of Pi"
+      {
+        "title": "Life of Pi",
+        "tmdb_id": 87827,
+        "imdb_id": "tt0454876"
+      }
     ],
     "won": true
   },
@@ -118138,7 +119506,11 @@
       "John Williams"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": false
   },
@@ -118197,7 +119569,11 @@
       "Pi's Lullaby"
     ],
     "movies": [
-      "Life of Pi"
+      {
+        "title": "Life of Pi",
+        "tmdb_id": 87827,
+        "imdb_id": "tt0454876"
+      }
     ],
     "won": false
   },
@@ -118208,7 +119584,11 @@
       "Suddenly"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 82695,
+        "imdb_id": "tt1707386"
+      }
     ],
     "won": false
   },
@@ -118618,7 +119998,11 @@
       "Jim Erickson"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": true
   },
@@ -118659,7 +120043,11 @@
       "Anna Lynch-Robinson"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 82695,
+        "imdb_id": "tt1707386"
+      }
     ],
     "won": false
   },
@@ -118671,7 +120059,11 @@
       "Anna Pinnock"
     ],
     "movies": [
-      "Life of Pi"
+      {
+        "title": "Life of Pi",
+        "tmdb_id": 87827,
+        "imdb_id": "tt0454876"
+      }
     ],
     "won": false
   },
@@ -118682,7 +120074,11 @@
       "Claudio Miranda"
     ],
     "movies": [
-      "Life of Pi"
+      {
+        "title": "Life of Pi",
+        "tmdb_id": 87827,
+        "imdb_id": "tt0454876"
+      }
     ],
     "won": true
   },
@@ -118723,7 +120119,11 @@
       "Janusz Kaminski"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": false
   },
@@ -118760,7 +120160,11 @@
       "Tim Squyres"
     ],
     "movies": [
-      "Life of Pi"
+      {
+        "title": "Life of Pi",
+        "tmdb_id": 87827,
+        "imdb_id": "tt0454876"
+      }
     ],
     "won": false
   },
@@ -118771,7 +120175,11 @@
       "Michael Kahn"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": false
   },
@@ -118809,7 +120217,11 @@
       "Donald R. Elliott"
     ],
     "movies": [
-      "Life of Pi"
+      {
+        "title": "Life of Pi",
+        "tmdb_id": 87827,
+        "imdb_id": "tt0454876"
+      }
     ],
     "won": true
   },
@@ -118878,7 +120290,11 @@
       "Simon Hayes"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 82695,
+        "imdb_id": "tt1707386"
+      }
     ],
     "won": true
   },
@@ -118908,7 +120324,11 @@
       "Drew Kunin"
     ],
     "movies": [
-      "Life of Pi"
+      {
+        "title": "Life of Pi",
+        "tmdb_id": 87827,
+        "imdb_id": "tt0454876"
+      }
     ],
     "won": false
   },
@@ -118921,7 +120341,11 @@
       "Ronald Judkins"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": false
   },
@@ -119000,7 +120424,11 @@
       "Philip Stockton"
     ],
     "movies": [
-      "Life of Pi"
+      {
+        "title": "Life of Pi",
+        "tmdb_id": 87827,
+        "imdb_id": "tt0454876"
+      }
     ],
     "won": false
   },
@@ -119012,7 +120440,11 @@
       "Julie Dartnell"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 82695,
+        "imdb_id": "tt1707386"
+      }
     ],
     "won": true
   },
@@ -119068,7 +120500,11 @@
       "Paco Delgado"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 82695,
+        "imdb_id": "tt1707386"
+      }
     ],
     "won": false
   },
@@ -119079,7 +120515,11 @@
       "Joanna Johnston"
     ],
     "movies": [
-      "Lincoln"
+      {
+        "title": "Lincoln",
+        "tmdb_id": 72976,
+        "imdb_id": "tt0443272"
+      }
     ],
     "won": false
   },
@@ -120612,7 +122052,11 @@
       "David Brownlow"
     ],
     "movies": [
-      "Lone Survivor"
+      {
+        "title": "Lone Survivor",
+        "tmdb_id": 193756,
+        "imdb_id": "tt1091191"
+      }
     ],
     "won": false
   },
@@ -120681,7 +122125,11 @@
       "Wylie Stateman"
     ],
     "movies": [
-      "Lone Survivor"
+      {
+        "title": "Lone Survivor",
+        "tmdb_id": 193756,
+        "imdb_id": "tt1091191"
+      }
     ],
     "won": false
   },
@@ -121501,7 +122949,11 @@
       "Leviathan"
     ],
     "movies": [
-      "Leviathan"
+      {
+        "title": "Leviathan",
+        "tmdb_id": 265180,
+        "imdb_id": "tt2802154"
+      }
     ],
     "won": false
   },
@@ -121560,7 +123012,11 @@
       "Last Days in Vietnam"
     ],
     "movies": [
-      "Last Days in Vietnam"
+      {
+        "title": "Last Days in Vietnam",
+        "tmdb_id": 250761,
+        "imdb_id": "tt3279124"
+      }
     ],
     "won": false
   },
@@ -122453,7 +123909,11 @@
       "Mad Max: Fury Road"
     ],
     "movies": [
-      "Mad Max: Fury Road"
+      {
+        "title": "Mad Max: Fury Road",
+        "tmdb_id": 76341,
+        "imdb_id": "tt1392190"
+      }
     ],
     "won": false
   },
@@ -122789,7 +124249,11 @@
       "George Miller"
     ],
     "movies": [
-      "Mad Max: Fury Road"
+      {
+        "title": "Mad Max: Fury Road",
+        "tmdb_id": 76341,
+        "imdb_id": "tt1392190"
+      }
     ],
     "won": false
   },
@@ -123248,7 +124712,11 @@
       "Last Day of Freedom"
     ],
     "movies": [
-      "Last Day of Freedom"
+      {
+        "title": "Last Day of Freedom",
+        "tmdb_id": 369366,
+        "imdb_id": "tt4172096"
+      }
     ],
     "won": false
   },
@@ -123453,7 +124921,11 @@
       "Lisa Thompson"
     ],
     "movies": [
-      "Mad Max: Fury Road"
+      {
+        "title": "Mad Max: Fury Road",
+        "tmdb_id": 76341,
+        "imdb_id": "tt1392190"
+      }
     ],
     "won": true
   },
@@ -123554,7 +125026,11 @@
       "John Seale"
     ],
     "movies": [
-      "Mad Max: Fury Road"
+      {
+        "title": "Mad Max: Fury Road",
+        "tmdb_id": 76341,
+        "imdb_id": "tt1392190"
+      }
     ],
     "won": false
   },
@@ -123576,7 +125052,11 @@
       "Margaret Sixel"
     ],
     "movies": [
-      "Mad Max: Fury Road"
+      {
+        "title": "Mad Max: Fury Road",
+        "tmdb_id": 76341,
+        "imdb_id": "tt1392190"
+      }
     ],
     "won": true
   },
@@ -123653,7 +125133,11 @@
       "Andy Williams"
     ],
     "movies": [
-      "Mad Max: Fury Road"
+      {
+        "title": "Mad Max: Fury Road",
+        "tmdb_id": 76341,
+        "imdb_id": "tt1392190"
+      }
     ],
     "won": false
   },
@@ -123708,7 +125192,11 @@
       "Ben Osmo"
     ],
     "movies": [
-      "Mad Max: Fury Road"
+      {
+        "title": "Mad Max: Fury Road",
+        "tmdb_id": 76341,
+        "imdb_id": "tt1392190"
+      }
     ],
     "won": true
   },
@@ -123777,7 +125265,11 @@
       "David White"
     ],
     "movies": [
-      "Mad Max: Fury Road"
+      {
+        "title": "Mad Max: Fury Road",
+        "tmdb_id": 76341,
+        "imdb_id": "tt1392190"
+      }
     ],
     "won": true
   },
@@ -123836,7 +125328,11 @@
       "Damian Martin"
     ],
     "movies": [
-      "Mad Max: Fury Road"
+      {
+        "title": "Mad Max: Fury Road",
+        "tmdb_id": 76341,
+        "imdb_id": "tt1392190"
+      }
     ],
     "won": true
   },
@@ -123872,7 +125368,11 @@
       "Jenny Beavan"
     ],
     "movies": [
-      "Mad Max: Fury Road"
+      {
+        "title": "Mad Max: Fury Road",
+        "tmdb_id": 76341,
+        "imdb_id": "tt1392190"
+      }
     ],
     "won": true
   },
@@ -124021,7 +125521,11 @@
       "La La Land"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": false
   },
@@ -124032,7 +125536,11 @@
       "Lion"
     ],
     "movies": [
-      "Lion"
+      {
+        "title": "Lion",
+        "tmdb_id": 334543,
+        "imdb_id": "tt3741834"
+      }
     ],
     "won": false
   },
@@ -124080,7 +125588,11 @@
       "Ryan Gosling"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": false
   },
@@ -124121,7 +125633,11 @@
       "Emma Stone"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": true
   },
@@ -124147,7 +125663,11 @@
       "Ruth Negga"
     ],
     "movies": [
-      "Loving"
+      {
+        "title": "Loving",
+        "tmdb_id": 339419,
+        "imdb_id": "tt4669986"
+      }
     ],
     "won": false
   },
@@ -124214,7 +125734,11 @@
       "Dev Patel"
     ],
     "movies": [
-      "Lion"
+      {
+        "title": "Lion",
+        "tmdb_id": 334543,
+        "imdb_id": "tt3741834"
+      }
     ],
     "won": false
   },
@@ -124273,7 +125797,11 @@
       "Nicole Kidman"
     ],
     "movies": [
-      "Lion"
+      {
+        "title": "Lion",
+        "tmdb_id": 334543,
+        "imdb_id": "tt3741834"
+      }
     ],
     "won": false
   },
@@ -124310,7 +125838,11 @@
       "Damien Chazelle"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": true
   },
@@ -124431,7 +125963,11 @@
       "Luke Davis"
     ],
     "movies": [
-      "Lion"
+      {
+        "title": "Lion",
+        "tmdb_id": 334543,
+        "imdb_id": "tt3741834"
+      }
     ],
     "won": false
   },
@@ -124453,7 +125989,11 @@
       "Damien Chazelle"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": false
   },
@@ -124506,7 +126046,11 @@
       "Justin Hurwitz"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": true
   },
@@ -124533,7 +126077,11 @@
       "Hauschka"
     ],
     "movies": [
-      "Lion"
+      {
+        "title": "Lion",
+        "tmdb_id": 334543,
+        "imdb_id": "tt3741834"
+      }
     ],
     "won": false
   },
@@ -124566,7 +126114,11 @@
       "City of Stars"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": true
   },
@@ -124577,7 +126129,11 @@
       "Audition (The Fools Who Dream)"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": false
   },
@@ -124636,7 +126192,11 @@
       "Land of Mine"
     ],
     "movies": [
-      "Land of Mine"
+      {
+        "title": "Land of Mine",
+        "tmdb_id": 335578,
+        "imdb_id": "tt3841424"
+      }
     ],
     "won": false
   },
@@ -124725,7 +126285,11 @@
       "Life, Animated"
     ],
     "movies": [
-      "Life, Animated"
+      {
+        "title": "Life, Animated",
+        "tmdb_id": 376233,
+        "imdb_id": "tt3917210"
+      }
     ],
     "won": false
   },
@@ -124963,10 +126527,14 @@
     "category": "Best Live Action Short (Comedy or One Reel or Regular)",
     "year": "2016",
     "nominees": [
-      "La Femme et le TGV"
+      "The Railroad Lady"
     ],
     "movies": [
-      "La Femme et le TGV"
+      {
+        "title": "The Railroad Lady",
+        "tmdb_id": 403252,
+        "imdb_id": "tt4661660"
+      }
     ],
     "won": false
   },
@@ -125000,7 +126568,11 @@
       "David Wasco"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": true
   },
@@ -125071,7 +126643,11 @@
       "Linus Sandgren"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": true
   },
@@ -125097,7 +126673,11 @@
       "Greig Fraser"
     ],
     "movies": [
-      "Lion"
+      {
+        "title": "Lion",
+        "tmdb_id": 334543,
+        "imdb_id": "tt3741834"
+      }
     ],
     "won": false
   },
@@ -125160,7 +126740,11 @@
       "Tom Cross"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": false
   },
@@ -125316,7 +126900,11 @@
       "Steve A. Morrow"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": false
   },
@@ -125406,7 +126994,11 @@
       "Mildred Iatrou Morgan"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": false
   },
@@ -125530,7 +127122,11 @@
       "Mary Zophres"
     ],
     "movies": [
-      "La La Land"
+      {
+        "title": "La La Land",
+        "tmdb_id": 313369,
+        "imdb_id": "tt3783958"
+      }
     ],
     "won": false
   },
@@ -125612,7 +127208,11 @@
       "Lady Bird"
     ],
     "movies": [
-      "Lady Bird"
+      {
+        "title": "Lady Bird",
+        "tmdb_id": 391713,
+        "imdb_id": "tt4925292"
+      }
     ],
     "won": false
   },
@@ -125760,7 +127360,11 @@
       "Saorise Ronan"
     ],
     "movies": [
-      "Lady Bird"
+      {
+        "title": "Lady Bird",
+        "tmdb_id": 391713,
+        "imdb_id": "tt4925292"
+      }
     ],
     "won": false
   },
@@ -125878,7 +127482,11 @@
       "Laurie Metcalf"
     ],
     "movies": [
-      "Lady Bird"
+      {
+        "title": "Lady Bird",
+        "tmdb_id": 391713,
+        "imdb_id": "tt4925292"
+      }
     ],
     "won": false
   },
@@ -125941,7 +127549,11 @@
       "Greta Gerwig"
     ],
     "movies": [
-      "Lady Bird"
+      {
+        "title": "Lady Bird",
+        "tmdb_id": 391713,
+        "imdb_id": "tt4925292"
+      }
     ],
     "won": false
   },
@@ -125992,7 +127604,11 @@
       "Michael Green"
     ],
     "movies": [
-      "Logan"
+      {
+        "title": "Logan",
+        "tmdb_id": 263115,
+        "imdb_id": "tt3315342"
+      }
     ],
     "won": false
   },
@@ -126064,7 +127680,11 @@
       "Greta Gerwig"
     ],
     "movies": [
-      "Lady Bird"
+      {
+        "title": "Lady Bird",
+        "tmdb_id": 391713,
+        "imdb_id": "tt4925292"
+      }
     ],
     "won": false
   },
@@ -126246,7 +127866,11 @@
       "Loveless"
     ],
     "movies": [
-      "Loveless"
+      {
+        "title": "Loveless",
+        "tmdb_id": 429174,
+        "imdb_id": "tt6304162"
+      }
     ],
     "won": false
   },
@@ -126310,10 +127934,14 @@
     "category": "Best Documentary Feature",
     "year": "2017",
     "nominees": [
-      "Last Man in Aleppo"
+      "Last Men in Aleppo"
     ],
     "movies": [
-      "Last Man in Aleppo"
+      {
+        "title": "Last Men in Aleppo",
+        "tmdb_id": 433085,
+        "imdb_id": "tt6333074"
+      }
     ],
     "won": false
   },
@@ -126458,7 +128086,11 @@
       "Loving Vincent"
     ],
     "movies": [
-      "Loving Vincent"
+      {
+        "title": "Loving Vincent",
+        "tmdb_id": 339877,
+        "imdb_id": "tt3262342"
+      }
     ],
     "won": false
   },
@@ -126499,7 +128131,11 @@
       "Lou"
     ],
     "movies": [
-      "Lou"
+      {
+        "title": "Lou",
+        "tmdb_id": 433471,
+        "imdb_id": "tt6267732"
+      }
     ],
     "won": false
   },
@@ -127999,10 +129635,14 @@
     "category": "Best Documentary Short",
     "year": "2018",
     "nominees": [
-      "LIFEBOAT"
+      "Lifeboat"
     ],
     "movies": [
-      "LIFEBOAT"
+      {
+        "title": "Lifeboat",
+        "tmdb_id": 543809,
+        "imdb_id": "tt7446332"
+      }
     ],
     "won": false
   },
@@ -128136,7 +129776,11 @@
       "Late Afternoon"
     ],
     "movies": [
-      "Late Afternoon"
+      {
+        "title": "Late Afternoon",
+        "tmdb_id": 500688,
+        "imdb_id": "tt7077824"
+      }
     ],
     "won": false
   },
@@ -128854,7 +130498,11 @@
       "Litte Women"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 331482,
+        "imdb_id": "tt3281548"
+      }
     ],
     "won": false
   },
@@ -128987,7 +130635,11 @@
       "Saoirse Ronan"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 331482,
+        "imdb_id": "tt3281548"
+      }
     ],
     "won": false
   },
@@ -129109,7 +130761,11 @@
       "Florence Pugh"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 331482,
+        "imdb_id": "tt3281548"
+      }
     ],
     "won": false
   },
@@ -129240,7 +130896,11 @@
       "Greta Gerwig"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 331482,
+        "imdb_id": "tt3281548"
+      }
     ],
     "won": false
   },
@@ -129342,7 +131002,11 @@
       "Alexandre Desplat"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 331482,
+        "imdb_id": "tt3281548"
+      }
     ],
     "won": false
   },
@@ -129495,10 +131159,14 @@
     "category": "Best International Feature Film",
     "year": "2019",
     "nominees": [
-      "Les Miserables"
+      "Les Misérables"
     ],
     "movies": [
-      "Les Miserables"
+      {
+        "title": "Les Misérables",
+        "tmdb_id": 586863,
+        "imdb_id": "tt10199590"
+      }
     ],
     "won": false
   },
@@ -129587,7 +131255,11 @@
       "Learning to Skateboard in a Warzone (If You're a Girl)"
     ],
     "movies": [
-      "Learning to Skateboard in a Warzone (If You're a Girl)"
+      {
+        "title": "Learning to Skateboard in a Warzone (If You're a Girl)",
+        "tmdb_id": 612074,
+        "imdb_id": "tt10397932"
+      }
     ],
     "won": true
   },
@@ -129613,7 +131285,11 @@
       "Life Overtakes Me"
     ],
     "movies": [
-      "Life Overtakes Me"
+      {
+        "title": "Life Overtakes Me",
+        "tmdb_id": 593280,
+        "imdb_id": "tt9204606"
+      }
     ],
     "won": false
   },
@@ -130346,7 +132022,11 @@
       "Jacqueline Durran"
     ],
     "movies": [
-      "Little Women"
+      {
+        "title": "Little Women",
+        "tmdb_id": 331482,
+        "imdb_id": "tt3281548"
+      }
     ],
     "won": true
   },
@@ -130524,7 +132204,11 @@
       "Chadwick Boseman"
     ],
     "movies": [
-      "Ma Rainey's Black Bottom"
+      {
+        "title": "Ma Rainey's Black Bottom",
+        "tmdb_id": 615667,
+        "imdb_id": "tt10514222"
+      }
     ],
     "won": false
   },
@@ -130568,7 +132252,11 @@
       "Viola Davis"
     ],
     "movies": [
-      "Ma Rainey's Black Bottom"
+      {
+        "title": "Ma Rainey's Black Bottom",
+        "tmdb_id": 615667,
+        "imdb_id": "tt10514222"
+      }
     ],
     "won": false
   },
@@ -131470,7 +133158,11 @@
       "Diana Sroughton"
     ],
     "movies": [
-      "Ma Rainey's Black Bottom"
+      {
+        "title": "Ma Rainey's Black Bottom",
+        "tmdb_id": 615667,
+        "imdb_id": "tt10514222"
+      }
     ],
     "won": false
   },
@@ -131636,7 +133328,11 @@
       "Brian Cox"
     ],
     "movies": [
-      "Love and Monsters"
+      {
+        "title": "Love and Monsters",
+        "tmdb_id": 590223,
+        "imdb_id": "tt2222042"
+      }
     ],
     "won": false
   },
@@ -131766,7 +133462,11 @@
       "Larry M. Cherry"
     ],
     "movies": [
-      "Ma Rainey's Black Bottom"
+      {
+        "title": "Ma Rainey's Black Bottom",
+        "tmdb_id": 615667,
+        "imdb_id": "tt10514222"
+      }
     ],
     "won": true
   },
@@ -131836,7 +133536,11 @@
       "Ann Roth"
     ],
     "movies": [
-      "Ma Rainey's Black Bottom"
+      {
+        "title": "Ma Rainey's Black Bottom",
+        "tmdb_id": 615667,
+        "imdb_id": "tt10514222"
+      }
     ],
     "won": true
   },
@@ -131985,7 +133689,11 @@
       "Licorice Pizza"
     ],
     "movies": [
-      "Licorice Pizza"
+      {
+        "title": "Licorice Pizza",
+        "tmdb_id": 718032,
+        "imdb_id": "tt11271038"
+      }
     ],
     "won": false
   },
@@ -132322,7 +134030,11 @@
       "Paul Thomas Anderson"
     ],
     "movies": [
-      "Licorice Pizza"
+      {
+        "title": "Licorice Pizza",
+        "tmdb_id": 718032,
+        "imdb_id": "tt11271038"
+      }
     ],
     "won": false
   },
@@ -132460,7 +134172,11 @@
       "Paul Thomas Anderson"
     ],
     "movies": [
-      "Licorice Pizza"
+      {
+        "title": "Licorice Pizza",
+        "tmdb_id": 718032,
+        "imdb_id": "tt11271038"
+      }
     ],
     "won": false
   },
@@ -132662,7 +134378,11 @@
       "Lunana: A Yak in the Classroom"
     ],
     "movies": [
-      "Lunana: A Yak in the Classroom"
+      {
+        "title": "Lunana: A Yak in the Classroom",
+        "tmdb_id": 627087,
+        "imdb_id": "tt10189300"
+      }
     ],
     "won": false
   },
@@ -132777,7 +134497,11 @@
       "Lead Me Home"
     ],
     "movies": [
-      "Lead Me Home"
+      {
+        "title": "Lead Me Home",
+        "tmdb_id": 869602,
+        "imdb_id": "tt15339848"
+      }
     ],
     "won": false
   },
@@ -132840,7 +134564,11 @@
       "Luca"
     ],
     "movies": [
-      "Luca"
+      {
+        "title": "Luca",
+        "tmdb_id": 508943,
+        "imdb_id": "tt12801262"
+      }
     ],
     "won": false
   },
@@ -133675,7 +135403,11 @@
       "Bill Nighy"
     ],
     "movies": [
-      "Living"
+      {
+        "title": "Living",
+        "tmdb_id": 760099,
+        "imdb_id": "tt9051908"
+      }
     ],
     "won": false
   },
@@ -133980,7 +135712,11 @@
       "Kazuo Ishiguro"
     ],
     "movies": [
-      "Living"
+      {
+        "title": "Living",
+        "tmdb_id": 760099,
+        "imdb_id": "tt9051908"
+      }
     ],
     "won": false
   },
@@ -134552,7 +136288,11 @@
       "Le Pupille"
     ],
     "movies": [
-      "Le Pupille"
+      {
+        "title": "Le Pupille",
+        "tmdb_id": 974586,
+        "imdb_id": "tt20215392"
+      }
     ],
     "won": false
   },
@@ -136072,7 +137812,11 @@
       "Letter to a Pig"
     ],
     "movies": [
-      "Letter to a Pig"
+      {
+        "title": "Letter to a Pig",
+        "tmdb_id": 950810,
+        "imdb_id": "tt10346066"
+      }
     ],
     "won": false
   },
