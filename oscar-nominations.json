@@ -127,7 +127,11 @@
       "Gloria Swanson"
     ],
     "movies": [
-      "Sadie Thompson"
+      {
+        "title": "Sadie Thompson",
+        "tmdb_id": 42538,
+        "imdb_id": "tt0019344"
+      }
     ],
     "won": false
   },
@@ -353,7 +357,11 @@
       "George Barnes"
     ],
     "movies": [
-      "Sadie Thompson"
+      {
+        "title": "Sadie Thompson",
+        "tmdb_id": 42538,
+        "imdb_id": "tt0019344"
+      }
     ],
     "won": false
   },
@@ -745,7 +753,11 @@
       "Elliott Clawson"
     ],
     "movies": [
-      "Sal of Singapore"
+      {
+        "title": "Sal of Singapore",
+        "tmdb_id": 173568,
+        "imdb_id": "tt0019348"
+      }
     ],
     "won": false
   },
@@ -1182,7 +1194,11 @@
       "Greta Garbo"
     ],
     "movies": [
-      "Romance"
+      {
+        "title": "Romance",
+        "tmdb_id": 77412,
+        "imdb_id": "tt0021310"
+      }
     ],
     "won": false
   },
@@ -1245,7 +1261,11 @@
       "Clarence Brown"
     ],
     "movies": [
-      "Romance"
+      {
+        "title": "Romance",
+        "tmdb_id": 77412,
+        "imdb_id": "tt0021310"
+      }
     ],
     "won": false
   },
@@ -1399,7 +1419,11 @@
       "Jack Okey"
     ],
     "movies": [
-      "Sally"
+      {
+        "title": "Sally",
+        "tmdb_id": 134914,
+        "imdb_id": "tt0020358"
+      }
     ],
     "won": false
   },
@@ -1523,7 +1547,11 @@
       "Oscar Lagerstrom"
     ],
     "movies": [
-      "Raffles"
+      {
+        "title": "Raffles",
+        "tmdb_id": 104439,
+        "imdb_id": "tt0021281"
+      }
     ],
     "won": false
   },
@@ -3058,7 +3086,11 @@
       "Charles MacArthur"
     ],
     "movies": [
-      "Rasputin and the Empress"
+      {
+        "title": "Rasputin and the Empress",
+        "tmdb_id": 43132,
+        "imdb_id": "tt0023374"
+      }
     ],
     "won": false
   },
@@ -3246,7 +3278,11 @@
       "George J. Folsey"
     ],
     "movies": [
-      "Reunion in Vienna"
+      {
+        "title": "Reunion in Vienna",
+        "tmdb_id": 174116,
+        "imdb_id": "tt0024496"
+      }
     ],
     "won": false
   },
@@ -4302,7 +4338,11 @@
       "Ruggles of Red Gap"
     ],
     "movies": [
-      "Ruggles of Red Gap"
+      {
+        "title": "Ruggles of Red Gap",
+        "tmdb_id": 36006,
+        "imdb_id": "tt0026955"
+      }
     ],
     "won": false
   },
@@ -4425,7 +4465,11 @@
       "Claudette Colbert"
     ],
     "movies": [
-      "Private Worlds"
+      {
+        "title": "Private Worlds",
+        "tmdb_id": 107876,
+        "imdb_id": "tt0026893"
+      }
     ],
     "won": false
   },
@@ -4842,7 +4886,11 @@
       "Peter Ibbetson"
     ],
     "movies": [
-      "Peter Ibbetson"
+      {
+        "title": "Peter Ibbetson",
+        "tmdb_id": 57412,
+        "imdb_id": "tt0026866"
+      }
     ],
     "won": false
   },
@@ -4879,7 +4927,11 @@
       "Lovely to Look At"
     ],
     "movies": [
-      "Roberta"
+      {
+        "title": "Roberta",
+        "tmdb_id": 31798,
+        "imdb_id": "tt0026942"
+      }
     ],
     "won": false
   },
@@ -5372,7 +5424,11 @@
       "Romeo and Juliet"
     ],
     "movies": [
-      "Romeo and Juliet"
+      {
+        "title": "Romeo and Juliet",
+        "tmdb_id": 43879,
+        "imdb_id": "tt0028203"
+      }
     ],
     "won": false
   },
@@ -5546,7 +5602,11 @@
       "Norma Shearer"
     ],
     "movies": [
-      "Romeo and Juliet"
+      {
+        "title": "Romeo and Juliet",
+        "tmdb_id": 43879,
+        "imdb_id": "tt0028203"
+      }
     ],
     "won": false
   },
@@ -5587,7 +5647,11 @@
       "Stuart Erwin"
     ],
     "movies": [
-      "Pigskin Parade"
+      {
+        "title": "Pigskin Parade",
+        "tmdb_id": 83633,
+        "imdb_id": "tt0028103"
+      }
     ],
     "won": false
   },
@@ -5598,7 +5662,11 @@
       "Basil Rathbone"
     ],
     "movies": [
-      "Romeo and Juliet"
+      {
+        "title": "Romeo and Juliet",
+        "tmdb_id": 43879,
+        "imdb_id": "tt0028203"
+      }
     ],
     "won": false
   },
@@ -6189,10 +6257,14 @@
     "category": "Best Animated Short",
     "year": "1936",
     "nominees": [
-      "Popeye the Sailor Meets Sinbad the Sailor"
+      "Popeye the Sailor Meets Sindbad the Sailor"
     ],
     "movies": [
-      "Popeye the Sailor Meets Sinbad the Sailor"
+      {
+        "title": "Popeye the Sailor Meets Sindbad the Sailor",
+        "tmdb_id": 67713,
+        "imdb_id": "tt0028119"
+      }
     ],
     "won": false
   },
@@ -6312,10 +6384,14 @@
     "category": "Best Live Action Short (Color)",
     "year": "1936",
     "nominees": [
-      "Popular Science J-6-2"
+      "Popular Science J6-2"
     ],
     "movies": [
-      "Popular Science J-6-2"
+      {
+        "title": "Popular Science J6-2",
+        "tmdb_id": 233695,
+        "imdb_id": "tt0026880"
+      }
     ],
     "won": false
   },
@@ -6398,7 +6474,11 @@
       "Edwin B. Willis"
     ],
     "movies": [
-      "Romeo and Juliet"
+      {
+        "title": "Romeo and Juliet",
+        "tmdb_id": 43879,
+        "imdb_id": "tt0028203"
+      }
     ],
     "won": false
   },
@@ -7208,7 +7288,11 @@
       "Bobby Connolly"
     ],
     "movies": [
-      "Ready, Willing and Able"
+      {
+        "title": "Ready, Willing and Able",
+        "tmdb_id": 190076,
+        "imdb_id": "tt0029467"
+      }
     ],
     "won": false
   },
@@ -7518,7 +7602,11 @@
       "Portia on Trial"
     ],
     "movies": [
-      "Portia on Trial"
+      {
+        "title": "Portia on Trial",
+        "tmdb_id": 218342,
+        "imdb_id": "tt0029433"
+      }
     ],
     "won": false
   },
@@ -7529,7 +7617,11 @@
       "Quality Street"
     ],
     "movies": [
-      "Quality Street"
+      {
+        "title": "Quality Street",
+        "tmdb_id": 52237,
+        "imdb_id": "tt0029454"
+      }
     ],
     "won": false
   },
@@ -7714,7 +7806,11 @@
       "Romance of Radium"
     ],
     "movies": [
-      "Romance of Radium"
+      {
+        "title": "Romance of Radium",
+        "tmdb_id": 170636,
+        "imdb_id": "tt0029497"
+      }
     ],
     "won": false
   },
@@ -7762,7 +7858,11 @@
       "Penny Wisdom"
     ],
     "movies": [
-      "Penny Wisdom"
+      {
+        "title": "Penny Wisdom",
+        "tmdb_id": 233708,
+        "imdb_id": "tt0029385"
+      }
     ],
     "won": true
   },
@@ -7784,7 +7884,11 @@
       "Popular Science J-7-1"
     ],
     "movies": [
-      "Popular Science J-7-1"
+      {
+        "title": "Popular Science J-7-1",
+        "tmdb_id": 233713,
+        "imdb_id": "tt0029416"
+      }
     ],
     "won": false
   },
@@ -8312,7 +8416,11 @@
       "Pygmalion"
     ],
     "movies": [
-      "Pygmalion"
+      {
+        "title": "Pygmalion",
+        "tmdb_id": 25016,
+        "imdb_id": "tt0030637"
+      }
     ],
     "won": false
   },
@@ -8390,7 +8498,11 @@
       "Leslie Howard"
     ],
     "movies": [
-      "Pygmalion"
+      {
+        "title": "Pygmalion",
+        "tmdb_id": 25016,
+        "imdb_id": "tt0030637"
+      }
     ],
     "won": false
   },
@@ -8427,7 +8539,11 @@
       "Wendy Hiller"
     ],
     "movies": [
-      "Pygmalion"
+      {
+        "title": "Pygmalion",
+        "tmdb_id": 25016,
+        "imdb_id": "tt0030637"
+      }
     ],
     "won": false
   },
@@ -8676,7 +8792,11 @@
       "W. P. Lipscomb"
     ],
     "movies": [
-      "Pygmalion"
+      {
+        "title": "Pygmalion",
+        "tmdb_id": 25016,
+        "imdb_id": "tt0030637"
+      }
     ],
     "won": true
   },
@@ -10960,7 +11080,11 @@
       "Peace on Earth"
     ],
     "movies": [
-      "Peace on Earth"
+      {
+        "title": "Peace on Earth",
+        "tmdb_id": 46242,
+        "imdb_id": "tt0031790"
+      }
     ],
     "won": false
   },
@@ -11012,7 +11136,11 @@
       "Prophet Without Honor"
     ],
     "movies": [
-      "Prophet Without Honor"
+      {
+        "title": "Prophet Without Honor",
+        "tmdb_id": 235659,
+        "imdb_id": "tt0031827"
+      }
     ],
     "won": false
   },
@@ -11761,7 +11889,11 @@
       "Rebecca"
     ],
     "movies": [
-      "Rebecca"
+      {
+        "title": "Rebecca",
+        "tmdb_id": 223,
+        "imdb_id": "tt0032976"
+      }
     ],
     "won": true
   },
@@ -11935,7 +12067,11 @@
       "Laurence Olivier"
     ],
     "movies": [
-      "Rebecca"
+      {
+        "title": "Rebecca",
+        "tmdb_id": 223,
+        "imdb_id": "tt0032976"
+      }
     ],
     "won": false
   },
@@ -11972,7 +12108,11 @@
       "Joan Fontaine"
     ],
     "movies": [
-      "Rebecca"
+      {
+        "title": "Rebecca",
+        "tmdb_id": 223,
+        "imdb_id": "tt0032976"
+      }
     ],
     "won": false
   },
@@ -12079,7 +12219,11 @@
       "Judith Anderson"
     ],
     "movies": [
-      "Rebecca"
+      {
+        "title": "Rebecca",
+        "tmdb_id": 223,
+        "imdb_id": "tt0032976"
+      }
     ],
     "won": false
   },
@@ -12116,7 +12260,11 @@
       "Marjorie Rambeau"
     ],
     "movies": [
-      "Primrose Path"
+      {
+        "title": "Primrose Path",
+        "tmdb_id": 80054,
+        "imdb_id": "tt0032946"
+      }
     ],
     "won": false
   },
@@ -12149,7 +12297,11 @@
       "Alfred Hitchcock"
     ],
     "movies": [
-      "Rebecca"
+      {
+        "title": "Rebecca",
+        "tmdb_id": 223,
+        "imdb_id": "tt0032976"
+      }
     ],
     "won": false
   },
@@ -12220,7 +12372,11 @@
       "Joan Harrison"
     ],
     "movies": [
-      "Rebecca"
+      {
+        "title": "Rebecca",
+        "tmdb_id": 223,
+        "imdb_id": "tt0032976"
+      }
     ],
     "won": false
   },
@@ -12392,7 +12548,11 @@
       "Paul J. Smith"
     ],
     "movies": [
-      "Pinocchio"
+      {
+        "title": "Pinocchio",
+        "tmdb_id": 10895,
+        "imdb_id": "tt0032910"
+      }
     ],
     "won": true
   },
@@ -12521,7 +12681,11 @@
       "Franz Waxman"
     ],
     "movies": [
-      "Rebecca"
+      {
+        "title": "Rebecca",
+        "tmdb_id": 223,
+        "imdb_id": "tt0032976"
+      }
     ],
     "won": false
   },
@@ -12715,7 +12879,11 @@
       "When You Wish upon a Star"
     ],
     "movies": [
-      "Pinocchio"
+      {
+        "title": "Pinocchio",
+        "tmdb_id": 10895,
+        "imdb_id": "tt0032910"
+      }
     ],
     "won": true
   },
@@ -12778,7 +12946,11 @@
       "Only Forever"
     ],
     "movies": [
-      "Rhythm on the River"
+      {
+        "title": "Rhythm on the River",
+        "tmdb_id": 128669,
+        "imdb_id": "tt0032986"
+      }
     ],
     "won": false
   },
@@ -12837,7 +13009,11 @@
       "Puss Gets the Boot"
     ],
     "movies": [
-      "Puss Gets the Boot"
+      {
+        "title": "Puss Gets the Boot",
+        "tmdb_id": 40372,
+        "imdb_id": "tt0032953"
+      }
     ],
     "won": false
   },
@@ -12863,7 +13039,11 @@
       "Quicker'n a Wink"
     ],
     "movies": [
-      "Quicker'n a Wink"
+      {
+        "title": "Quicker'n a Wink",
+        "tmdb_id": 236799,
+        "imdb_id": "tt0032960"
+      }
     ],
     "won": true
   },
@@ -12953,7 +13133,11 @@
       "Paul Groesse"
     ],
     "movies": [
-      "Pride and Prejudice"
+      {
+        "title": "Pride and Prejudice",
+        "tmdb_id": 43818,
+        "imdb_id": "tt0032943"
+      }
     ],
     "won": true
   },
@@ -13117,7 +13301,11 @@
       "Lyle Wheeler"
     ],
     "movies": [
-      "Rebecca"
+      {
+        "title": "Rebecca",
+        "tmdb_id": 223,
+        "imdb_id": "tt0032976"
+      }
     ],
     "won": false
   },
@@ -13198,7 +13386,11 @@
       "George Barnes"
     ],
     "movies": [
-      "Rebecca"
+      {
+        "title": "Rebecca",
+        "tmdb_id": 223,
+        "imdb_id": "tt0032976"
+      }
     ],
     "won": true
   },
@@ -13430,7 +13622,11 @@
       "Hal C. Kern"
     ],
     "movies": [
-      "Rebecca"
+      {
+        "title": "Rebecca",
+        "tmdb_id": 223,
+        "imdb_id": "tt0032976"
+      }
     ],
     "won": false
   },
@@ -13487,7 +13683,11 @@
       "Arthur Johns"
     ],
     "movies": [
-      "Rebecca"
+      {
+        "title": "Rebecca",
+        "tmdb_id": 223,
+        "imdb_id": "tt0032976"
+      }
     ],
     "won": false
   },
@@ -13950,7 +14150,11 @@
       "Cary Grant"
     ],
     "movies": [
-      "Penny Serenade"
+      {
+        "title": "Penny Serenade",
+        "tmdb_id": 43795,
+        "imdb_id": "tt0034012"
+      }
     ],
     "won": false
   },
@@ -14960,7 +15164,11 @@
       "Be Honest With Me"
     ],
     "movies": [
-      "Ridin' on a Rainbow"
+      {
+        "title": "Ridin' on a Rainbow",
+        "tmdb_id": 216554,
+        "imdb_id": "tt0034106"
+      }
     ],
     "won": false
   },
@@ -15113,7 +15321,11 @@
       "Russian Soil"
     ],
     "movies": [
-      "Russian Soil"
+      {
+        "title": "Russian Soil",
+        "tmdb_id": 236822,
+        "imdb_id": "tt1847681"
+      }
     ],
     "won": false
   },
@@ -15217,7 +15429,11 @@
       "Rhapsody in Rivets"
     ],
     "movies": [
-      "Rhapsody in Rivets"
+      {
+        "title": "Rhapsody in Rivets",
+        "tmdb_id": 163052,
+        "imdb_id": "tt0034097"
+      }
     ],
     "won": false
   },
@@ -15228,7 +15444,11 @@
       "Rhythm in the Ranks"
     ],
     "movies": [
-      "Rhythm in the Ranks"
+      {
+        "title": "Rhythm in the Ranks",
+        "tmdb_id": 236819,
+        "imdb_id": "tt0034098"
+      }
     ],
     "won": false
   },
@@ -15362,7 +15582,11 @@
       "Sagebrush and Silver"
     ],
     "movies": [
-      "Sagebrush and Silver"
+      {
+        "title": "Sagebrush and Silver",
+        "tmdb_id": 236815,
+        "imdb_id": "tt0034143"
+      }
     ],
     "won": false
   },
@@ -16266,7 +16490,11 @@
       "Random Harvest"
     ],
     "movies": [
-      "Random Harvest"
+      {
+        "title": "Random Harvest",
+        "tmdb_id": 22387,
+        "imdb_id": "tt0035238"
+      }
     ],
     "won": false
   },
@@ -16321,7 +16549,11 @@
       "Ronald Colman"
     ],
     "movies": [
-      "Random Harvest"
+      {
+        "title": "Random Harvest",
+        "tmdb_id": 22387,
+        "imdb_id": "tt0035238"
+      }
     ],
     "won": false
   },
@@ -16540,7 +16772,11 @@
       "Susan Peters"
     ],
     "movies": [
-      "Random Harvest"
+      {
+        "title": "Random Harvest",
+        "tmdb_id": 22387,
+        "imdb_id": "tt0035238"
+      }
     ],
     "won": false
   },
@@ -16603,7 +16839,11 @@
       "Mervyn LeRoy"
     ],
     "movies": [
-      "Random Harvest"
+      {
+        "title": "Random Harvest",
+        "tmdb_id": 22387,
+        "imdb_id": "tt0035238"
+      }
     ],
     "won": false
   },
@@ -16673,7 +16913,11 @@
       "Arthur Wimperis"
     ],
     "movies": [
-      "Random Harvest"
+      {
+        "title": "Random Harvest",
+        "tmdb_id": 22387,
+        "imdb_id": "tt0035238"
+      }
     ],
     "won": false
   },
@@ -16721,7 +16965,11 @@
       "Don Hartman"
     ],
     "movies": [
-      "Road to Morocco"
+      {
+        "title": "Road to Morocco",
+        "tmdb_id": 31805,
+        "imdb_id": "tt0035262"
+      }
     ],
     "won": false
   },
@@ -16954,7 +17202,11 @@
       "Herbert Stothart"
     ],
     "movies": [
-      "Random Harvest"
+      {
+        "title": "Random Harvest",
+        "tmdb_id": 22387,
+        "imdb_id": "tt0035238"
+      }
     ],
     "won": false
   },
@@ -17321,7 +17573,11 @@
         "tmdb_id": 93333,
         "imdb_id": "tt0035085"
       },
-      "Prelude to War"
+      {
+        "title": "Prelude to War",
+        "tmdb_id": 23336,
+        "imdb_id": "tt0035209"
+      }
     ],
     "won": true
   },
@@ -17526,7 +17782,11 @@
       "Pigs in a Polka"
     ],
     "movies": [
-      "Pigs in a Polka"
+      {
+        "title": "Pigs in a Polka",
+        "tmdb_id": 100323,
+        "imdb_id": "tt0036264"
+      }
     ],
     "won": false
   },
@@ -17630,7 +17890,11 @@
       "Private Smith of the U.S.A."
     ],
     "movies": [
-      "Private Smith of the U.S.A."
+      {
+        "title": "Private Smith of the U.S.A.",
+        "tmdb_id": 236837,
+        "imdb_id": "tt0035219"
+      }
     ],
     "won": false
   },
@@ -17720,7 +17984,11 @@
       "Jack Moore"
     ],
     "movies": [
-      "Random Harvest"
+      {
+        "title": "Random Harvest",
+        "tmdb_id": 22387,
+        "imdb_id": "tt0035238"
+      }
     ],
     "won": false
   },
@@ -17792,7 +18060,11 @@
       "George Sawley"
     ],
     "movies": [
-      "Reap the Wild Wind"
+      {
+        "title": "Reap the Wild Wind",
+        "tmdb_id": 63617,
+        "imdb_id": "tt0035244"
+      }
     ],
     "won": false
   },
@@ -18031,7 +18303,11 @@
       "William V. Skall"
     ],
     "movies": [
-      "Reap the Wild Wind"
+      {
+        "title": "Reap the Wild Wind",
+        "tmdb_id": 63617,
+        "imdb_id": "tt0035244"
+      }
     ],
     "won": false
   },
@@ -18119,7 +18395,11 @@
       "Louis Mesenko"
     ],
     "movies": [
-      "Reap the Wild Wind"
+      {
+        "title": "Reap the Wild Wind",
+        "tmdb_id": 63617,
+        "imdb_id": "tt0035244"
+      }
     ],
     "won": true
   },
@@ -18388,7 +18668,11 @@
       "Loren Ryder"
     ],
     "movies": [
-      "Road to Morocco"
+      {
+        "title": "Road to Morocco",
+        "tmdb_id": 31805,
+        "imdb_id": "tt0035262"
+      }
     ],
     "won": false
   },
@@ -18703,7 +18987,11 @@
       "J. Carrol Naish"
     ],
     "movies": [
-      "Sahara"
+      {
+        "title": "Sahara",
+        "tmdb_id": 18783,
+        "imdb_id": "tt0036323"
+      }
     ],
     "won": false
   },
@@ -18935,7 +19223,11 @@
       "Norman Krasna"
     ],
     "movies": [
-      "Princess O'Rourke"
+      {
+        "title": "Princess O'Rourke",
+        "tmdb_id": 33039,
+        "imdb_id": "tt0036277"
+      }
     ],
     "won": true
   },
@@ -19388,7 +19680,11 @@
       "Edward Ward"
     ],
     "movies": [
-      "Phantom of the Opera"
+      {
+        "title": "Phantom of the Opera",
+        "tmdb_id": 15855,
+        "imdb_id": "tt0036261"
+      }
     ],
     "won": false
   },
@@ -19566,7 +19862,11 @@
       "Report from the Aleutians"
     ],
     "movies": [
-      "Report from the Aleutians"
+      {
+        "title": "Report from the Aleutians",
+        "tmdb_id": 23388,
+        "imdb_id": "tt0036301"
+      }
     ],
     "won": false
   },
@@ -19618,7 +19918,11 @@
       "Plan for Destruction"
     ],
     "movies": [
-      "Plan for Destruction"
+      {
+        "title": "Plan for Destruction",
+        "tmdb_id": 100823,
+        "imdb_id": "tt0036268"
+      }
     ],
     "won": false
   },
@@ -19736,7 +20040,11 @@
       "Reason and Emotion"
     ],
     "movies": [
-      "Reason and Emotion"
+      {
+        "title": "Reason and Emotion",
+        "tmdb_id": 64693,
+        "imdb_id": "tt0036294"
+      }
     ],
     "won": false
   },
@@ -19971,7 +20279,11 @@
       "Ira S. Webb"
     ],
     "movies": [
-      "Phantom of the Opera"
+      {
+        "title": "Phantom of the Opera",
+        "tmdb_id": 15855,
+        "imdb_id": "tt0036261"
+      }
     ],
     "won": true
   },
@@ -20118,7 +20430,11 @@
       "Rudolph Mate"
     ],
     "movies": [
-      "Sahara"
+      {
+        "title": "Sahara",
+        "tmdb_id": 18783,
+        "imdb_id": "tt0036323"
+      }
     ],
     "won": false
   },
@@ -20171,7 +20487,11 @@
       "W. Howard Greene"
     ],
     "movies": [
-      "Phantom of the Opera"
+      {
+        "title": "Phantom of the Opera",
+        "tmdb_id": 15855,
+        "imdb_id": "tt0036261"
+      }
     ],
     "won": true
   },
@@ -20482,7 +20802,11 @@
       "Bernard B. Brown"
     ],
     "movies": [
-      "Phantom of the Opera"
+      {
+        "title": "Phantom of the Opera",
+        "tmdb_id": 15855,
+        "imdb_id": "tt0036261"
+      }
     ],
     "won": false
   },
@@ -20493,7 +20817,11 @@
       "Loren L. Ryder"
     ],
     "movies": [
-      "Riding High"
+      {
+        "title": "Riding High",
+        "tmdb_id": 218116,
+        "imdb_id": "tt0036313"
+      }
     ],
     "won": false
   },
@@ -20504,7 +20832,11 @@
       "John Livadary"
     ],
     "movies": [
-      "Sahara"
+      {
+        "title": "Sahara",
+        "tmdb_id": 18783,
+        "imdb_id": "tt0036323"
+      }
     ],
     "won": false
   },
@@ -21812,7 +22144,11 @@
       "Resisting Enemy Interrogation"
     ],
     "movies": [
-      "Resisting Enemy Interrogation"
+      {
+        "title": "Resisting Enemy Interrogation",
+        "tmdb_id": 114459,
+        "imdb_id": "tt0037215"
+      }
     ],
     "won": false
   },
@@ -23295,7 +23631,11 @@
       "Albert Malts"
     ],
     "movies": [
-      "Pride of the Marines"
+      {
+        "title": "Pride of the Marines",
+        "tmdb_id": 52337,
+        "imdb_id": "tt0038000"
+      }
     ],
     "won": false
   },
@@ -23661,7 +24001,11 @@
       "Alexandre Tansman"
     ],
     "movies": [
-      "Paris Underground"
+      {
+        "title": "Paris Underground",
+        "tmdb_id": 217162,
+        "imdb_id": "tt0037972"
+      }
     ],
     "won": false
   },
@@ -23767,7 +24111,11 @@
       "Max Steiner"
     ],
     "movies": [
-      "Rhapsody in Blue"
+      {
+        "title": "Rhapsody in Blue",
+        "tmdb_id": 43491,
+        "imdb_id": "tt0038026"
+      }
     ],
     "won": false
   },
@@ -24111,7 +24459,11 @@
       "Quiet Please!"
     ],
     "movies": [
-      "Quiet Please!"
+      {
+        "title": "Quiet Please!",
+        "tmdb_id": 40164,
+        "imdb_id": "tt0038011"
+      }
     ],
     "won": true
   },
@@ -24193,7 +24545,11 @@
       "Rippling Romance"
     ],
     "movies": [
-      "Rippling Romance"
+      {
+        "title": "Rippling Romance",
+        "tmdb_id": 240398,
+        "imdb_id": "tt0038028"
+      }
     ],
     "won": false
   },
@@ -24810,7 +25166,11 @@
       "Nathan Levinson"
     ],
     "movies": [
-      "Rhapsody in Blue"
+      {
+        "title": "Rhapsody in Blue",
+        "tmdb_id": 43491,
+        "imdb_id": "tt0038026"
+      }
     ],
     "won": false
   },
@@ -25288,7 +25648,11 @@
       "Federico Fellini"
     ],
     "movies": [
-      "Rome, Open City"
+      {
+        "title": "Rome, Open City",
+        "tmdb_id": 307,
+        "imdb_id": "tt0038890"
+      }
     ],
     "won": false
   },
@@ -25382,7 +25746,11 @@
       "Melvin Frank"
     ],
     "movies": [
-      "Road to Utopia"
+      {
+        "title": "Road to Utopia",
+        "tmdb_id": 29021,
+        "imdb_id": "tt0038032"
+      }
     ],
     "won": false
   },
@@ -25708,7 +26076,11 @@
       "Paramount News Issue #37"
     ],
     "movies": [
-      "Paramount News Issue #37"
+      {
+        "title": "Paramount News Issue #37",
+        "tmdb_id": 240420,
+        "imdb_id": "tt0038825"
+      }
     ],
     "won": false
   },
@@ -26343,7 +26715,11 @@
       "Joan Crawford"
     ],
     "movies": [
-      "Possessed"
+      {
+        "title": "Possessed",
+        "tmdb_id": 20849,
+        "imdb_id": "tt0039725"
+      }
     ],
     "won": false
   },
@@ -26421,7 +26797,11 @@
       "Thomas Gomez"
     ],
     "movies": [
-      "Ride the Pink Horse"
+      {
+        "title": "Ride the Pink Horse",
+        "tmdb_id": 18871,
+        "imdb_id": "tt0039768"
+      }
     ],
     "won": false
   },
@@ -26921,7 +27301,11 @@
       "Robert Emmett Dolan"
     ],
     "movies": [
-      "Road to Rio"
+      {
+        "title": "Road to Rio",
+        "tmdb_id": 31980,
+        "imdb_id": "tt0039776"
+      }
     ],
     "won": false
   },
@@ -27093,7 +27477,11 @@
       "Passport to Nowhere"
     ],
     "movies": [
-      "Passport to Nowhere"
+      {
+        "title": "Passport to Nowhere",
+        "tmdb_id": 240436,
+        "imdb_id": "tt0039697"
+      }
     ],
     "won": false
   },
@@ -27156,7 +27544,11 @@
       "Pluto's Blue Note"
     ],
     "movies": [
-      "Pluto's Blue Note"
+      {
+        "title": "Pluto's Blue Note",
+        "tmdb_id": 164954,
+        "imdb_id": "tt0039711"
+      }
     ],
     "won": false
   },
@@ -28110,7 +28502,11 @@
       "Borden Chase"
     ],
     "movies": [
-      "Red River"
+      {
+        "title": "Red River",
+        "tmdb_id": 3089,
+        "imdb_id": "tt0040724"
+      }
     ],
     "won": false
   },
@@ -28237,7 +28633,11 @@
       "Ray Heindorf"
     ],
     "movies": [
-      "Romance on the High Seas"
+      {
+        "title": "Romance on the High Seas",
+        "tmdb_id": 43449,
+        "imdb_id": "tt0040745"
+      }
     ],
     "won": false
   },
@@ -28286,7 +28686,11 @@
       "It's Magic"
     ],
     "movies": [
-      "Romance on the High Seas"
+      {
+        "title": "Romance on the High Seas",
+        "tmdb_id": 43449,
+        "imdb_id": "tt0040745"
+      }
     ],
     "won": false
   },
@@ -28438,7 +28842,11 @@
       "Robin Hoodlum"
     ],
     "movies": [
-      "Robin Hoodlum"
+      {
+        "title": "Robin Hoodlum",
+        "tmdb_id": 103978,
+        "imdb_id": "tt0040741"
+      }
     ],
     "won": false
   },
@@ -28703,7 +29111,11 @@
       "Joseph H. August"
     ],
     "movies": [
-      "Portrait of Jennie"
+      {
+        "title": "Portrait of Jennie",
+        "tmdb_id": 32558,
+        "imdb_id": "tt0040705"
+      }
     ],
     "won": false
   },
@@ -28809,7 +29221,11 @@
       "Christian Nyby"
     ],
     "movies": [
-      "Red River"
+      {
+        "title": "Red River",
+        "tmdb_id": 3089,
+        "imdb_id": "tt0040724"
+      }
     ],
     "won": false
   },
@@ -28834,7 +29250,11 @@
       "Clarence Slifer"
     ],
     "movies": [
-      "Portrait of Jennie"
+      {
+        "title": "Portrait of Jennie",
+        "tmdb_id": 32558,
+        "imdb_id": "tt0040705"
+      }
     ],
     "won": true
   },
@@ -29103,7 +29523,11 @@
       "Jeanne Crain"
     ],
     "movies": [
-      "Pinky"
+      {
+        "title": "Pinky",
+        "tmdb_id": 62727,
+        "imdb_id": "tt0041746"
+      }
     ],
     "won": false
   },
@@ -29241,7 +29665,11 @@
       "Ethel Barrymore"
     ],
     "movies": [
-      "Pinky"
+      {
+        "title": "Pinky",
+        "tmdb_id": 62727,
+        "imdb_id": "tt0041746"
+      }
     ],
     "won": false
   },
@@ -29282,7 +29710,11 @@
       "Ethel Waters"
     ],
     "movies": [
-      "Pinky"
+      {
+        "title": "Pinky",
+        "tmdb_id": 62727,
+        "imdb_id": "tt0041746"
+      }
     ],
     "won": false
   },
@@ -29457,7 +29889,11 @@
       "T. E. B. Clarke"
     ],
     "movies": [
-      "Passport to Pimlico"
+      {
+        "title": "Passport to Pimlico",
+        "tmdb_id": 30095,
+        "imdb_id": "tt0041737"
+      }
     ],
     "won": false
   },
@@ -29472,7 +29908,11 @@
       "Roberto Rossellini"
     ],
     "movies": [
-      "Paisa"
+      {
+        "title": "Jevel Katz y sus paisanos",
+        "tmdb_id": 923007,
+        "imdb_id": "tt0455570"
+      }
     ],
     "won": false
   },
@@ -29887,7 +30327,11 @@
       "Roller Derby Girl"
     ],
     "movies": [
-      "Roller Derby Girl"
+      {
+        "title": "Roller Derby Girl",
+        "tmdb_id": 240462,
+        "imdb_id": "tt0041817"
+      }
     ],
     "won": false
   },
@@ -30131,7 +30575,11 @@
       "Leon Shamroy"
     ],
     "movies": [
-      "Prince of Foxes"
+      {
+        "title": "Prince of Foxes",
+        "tmdb_id": 44533,
+        "imdb_id": "tt0041767"
+      }
     ],
     "won": false
   },
@@ -30360,7 +30808,11 @@
       "Vittorio Nino Novarese"
     ],
     "movies": [
-      "Prince of Foxes"
+      {
+        "title": "Prince of Foxes",
+        "tmdb_id": 44533,
+        "imdb_id": "tt0041767"
+      }
     ],
     "won": false
   },
@@ -30959,7 +31411,11 @@
       "Edward Anhalt"
     ],
     "movies": [
-      "Panic in the Streets"
+      {
+        "title": "Panic in the Streets",
+        "tmdb_id": 32078,
+        "imdb_id": "tt0042832"
+      }
     ],
     "won": true
   },
@@ -31924,7 +32380,11 @@
       "Quo Vadis"
     ],
     "movies": [
-      "Quo Vadis"
+      {
+        "title": "Quo Vadis",
+        "tmdb_id": 11620,
+        "imdb_id": "tt0043949"
+      }
     ],
     "won": false
   },
@@ -32103,7 +32563,11 @@
       "Leo Genn"
     ],
     "movies": [
-      "Quo Vadis"
+      {
+        "title": "Quo Vadis",
+        "tmdb_id": 11620,
+        "imdb_id": "tt0043949"
+      }
     ],
     "won": false
   },
@@ -32129,7 +32593,11 @@
       "Peter Ustinov"
     ],
     "movies": [
-      "Quo Vadis"
+      {
+        "title": "Quo Vadis",
+        "tmdb_id": 11620,
+        "imdb_id": "tt0043949"
+      }
     ],
     "won": false
   },
@@ -32565,7 +33033,11 @@
       "Miklos Rozsa"
     ],
     "movies": [
-      "Quo Vadis"
+      {
+        "title": "Quo Vadis",
+        "tmdb_id": 11620,
+        "imdb_id": "tt0043949"
+      }
     ],
     "won": false
   },
@@ -32689,7 +33161,11 @@
       "Too Late Now"
     ],
     "movies": [
-      "Royal"
+      {
+        "title": "Royal Wedding",
+        "tmdb_id": 18646,
+        "imdb_id": "tt0043983"
+      }
     ],
     "won": false
   },
@@ -32700,7 +33176,11 @@
       "Wonder Why"
     ],
     "movies": [
-      "Rich, Young, and Pretty"
+      {
+        "title": "Rich, Young and Pretty",
+        "tmdb_id": 131781,
+        "imdb_id": "tt0043968"
+      }
     ],
     "won": false
   },
@@ -32711,7 +33191,11 @@
       "Rashomon"
     ],
     "movies": [
-      "Rashomon"
+      {
+        "title": "Rashomon",
+        "tmdb_id": 548,
+        "imdb_id": "tt0042876"
+      }
     ],
     "won": true
   },
@@ -32819,7 +33303,11 @@
       "Rooty Toot Toot"
     ],
     "movies": [
-      "Rooty Toot Toot"
+      {
+        "title": "Rooty Toot Toot",
+        "tmdb_id": 103956,
+        "imdb_id": "tt0043980"
+      }
     ],
     "won": false
   },
@@ -32841,7 +33329,11 @@
       "Ridin' the Rails"
     ],
     "movies": [
-      "Ridin' the Rails"
+      {
+        "title": "Ridin' the Rails",
+        "tmdb_id": 242976,
+        "imdb_id": "tt0043969"
+      }
     ],
     "won": false
   },
@@ -33021,7 +33513,11 @@
       "Hugh Hunt"
     ],
     "movies": [
-      "Quo Vadis"
+      {
+        "title": "Quo Vadis",
+        "tmdb_id": 11620,
+        "imdb_id": "tt0043949"
+      }
     ],
     "won": false
   },
@@ -33190,7 +33686,11 @@
       "William V. Skall"
     ],
     "movies": [
-      "Quo Vadis"
+      {
+        "title": "Quo Vadis",
+        "tmdb_id": 11620,
+        "imdb_id": "tt0043949"
+      }
     ],
     "won": false
   },
@@ -33257,7 +33757,11 @@
       "Ralph E. Winters"
     ],
     "movies": [
-      "Quo Vadis"
+      {
+        "title": "Quo Vadis",
+        "tmdb_id": 11620,
+        "imdb_id": "tt0043949"
+      }
     ],
     "won": false
   },
@@ -33460,7 +33964,11 @@
       "Herschel McCoy"
     ],
     "movies": [
-      "Quo Vadis"
+      {
+        "title": "Quo Vadis",
+        "tmdb_id": 11620,
+        "imdb_id": "tt0043949"
+      }
     ],
     "won": false
   },
@@ -33964,7 +34472,11 @@
       "Garson Kanin"
     ],
     "movies": [
-      "Pat and Mike"
+      {
+        "title": "Pat and Mike",
+        "tmdb_id": 33575,
+        "imdb_id": "tt0045012"
+      }
     ],
     "won": false
   },
@@ -34397,7 +34909,11 @@
       "Pink and Blue Blues"
     ],
     "movies": [
-      "Pink and Blue Blues"
+      {
+        "title": "Pink and Blue Blues",
+        "tmdb_id": 242995,
+        "imdb_id": "tt0045033"
+      }
     ],
     "won": false
   },
@@ -34479,7 +34995,11 @@
       "Royal Scotland"
     ],
     "movies": [
-      "Royal Scotland"
+      {
+        "title": "Royal Scotland",
+        "tmdb_id": 242991,
+        "imdb_id": "tt0045108"
+      }
     ],
     "won": false
   },
@@ -34591,7 +35111,11 @@
       "H. Matsumoto"
     ],
     "movies": [
-      "Rashomon"
+      {
+        "title": "Rashomon",
+        "tmdb_id": 548,
+        "imdb_id": "tt0042876"
+      }
     ],
     "won": false
   },
@@ -34893,7 +35417,11 @@
       "Metro Goldwyn Mayer Studio"
     ],
     "movies": [
-      "Plymouth Adventure"
+      {
+        "title": "Plymouth Adventure",
+        "tmdb_id": 90968,
+        "imdb_id": "tt0045039"
+      }
     ],
     "won": true
   },
@@ -35140,7 +35668,11 @@
       "Roman Holiday"
     ],
     "movies": [
-      "Roman Holiday"
+      {
+        "title": "Roman Holiday",
+        "tmdb_id": 804,
+        "imdb_id": "tt0046250"
+      }
     ],
     "won": false
   },
@@ -35229,7 +35761,11 @@
       "Audrey Hepburn"
     ],
     "movies": [
-      "Roman Holiday"
+      {
+        "title": "Roman Holiday",
+        "tmdb_id": 804,
+        "imdb_id": "tt0046250"
+      }
     ],
     "won": true
   },
@@ -35311,7 +35847,11 @@
       "Eddie Albert"
     ],
     "movies": [
-      "Roman Holiday"
+      {
+        "title": "Roman Holiday",
+        "tmdb_id": 804,
+        "imdb_id": "tt0046250"
+      }
     ],
     "won": false
   },
@@ -35411,7 +35951,11 @@
       "Thelma Ritter"
     ],
     "movies": [
-      "Pickup on South Street"
+      {
+        "title": "Pickup on South Street",
+        "tmdb_id": 25955,
+        "imdb_id": "tt0046187"
+      }
     ],
     "won": false
   },
@@ -35474,7 +36018,11 @@
       "William Wyler"
     ],
     "movies": [
-      "Roman Holiday"
+      {
+        "title": "Roman Holiday",
+        "tmdb_id": 804,
+        "imdb_id": "tt0046250"
+      }
     ],
     "won": false
   },
@@ -35527,7 +36075,11 @@
       "John Dighton (Dalton Trumbo)"
     ],
     "movies": [
-      "Roman Holiday"
+      {
+        "title": "Roman Holiday",
+        "tmdb_id": 804,
+        "imdb_id": "tt0046250"
+      }
     ],
     "won": false
   },
@@ -35608,7 +36160,11 @@
       "Ian McLellan Hunter (Dalton Trumbo)"
     ],
     "movies": [
-      "Roman Holiday"
+      {
+        "title": "Roman Holiday",
+        "tmdb_id": 804,
+        "imdb_id": "tt0046250"
+      }
     ],
     "won": true
   },
@@ -36018,7 +36574,11 @@
       "Rugged Bear"
     ],
     "movies": [
-      "Rugged Bear"
+      {
+        "title": "Rugged Bear",
+        "tmdb_id": 67165,
+        "imdb_id": "tt0046256"
+      }
     ],
     "won": false
   },
@@ -36134,10 +36694,14 @@
     "category": "Best Live Action Short (Two-Reel or Novelty)",
     "year": "1953",
     "nominees": [
-      "Return to Glennascaul"
+      "Return to Glennascaul: A Story That Is Told in Dublin"
     ],
     "movies": [
-      "Return to Glennascaul"
+      {
+        "title": "Return to Glennascaul: A Story That Is Told in Dublin",
+        "tmdb_id": 183841,
+        "imdb_id": "tt0043964"
+      }
     ],
     "won": false
   },
@@ -36218,7 +36782,11 @@
       "Walter Tyler"
     ],
     "movies": [
-      "Roman Holiday"
+      {
+        "title": "Roman Holiday",
+        "tmdb_id": 804,
+        "imdb_id": "tt0046250"
+      }
     ],
     "won": false
   },
@@ -36380,7 +36948,11 @@
       "Henri Alekan"
     ],
     "movies": [
-      "Roman Holiday"
+      {
+        "title": "Roman Holiday",
+        "tmdb_id": 804,
+        "imdb_id": "tt0046250"
+      }
     ],
     "won": false
   },
@@ -36499,7 +37071,11 @@
       "Robert Swink"
     ],
     "movies": [
-      "Roman Holiday"
+      {
+        "title": "Roman Holiday",
+        "tmdb_id": 804,
+        "imdb_id": "tt0046250"
+      }
     ],
     "won": false
   },
@@ -36599,7 +37175,11 @@
       "Edith Head"
     ],
     "movies": [
-      "Roman Holiday"
+      {
+        "title": "Roman Holiday",
+        "tmdb_id": 804,
+        "imdb_id": "tt0046250"
+      }
     ],
     "won": true
   },
@@ -36840,7 +37420,11 @@
       "Dan O'Herlihy"
     ],
     "movies": [
-      "Robinson Crusoe"
+      {
+        "title": "Robinson Crusoe",
+        "tmdb_id": 54979,
+        "imdb_id": "tt0044386"
+      }
     ],
     "won": false
   },
@@ -36892,7 +37476,11 @@
       "Audrey Hepburn"
     ],
     "movies": [
-      "Sabrina"
+      {
+        "title": "Sabrina",
+        "tmdb_id": 6620,
+        "imdb_id": "tt0047437"
+      }
     ],
     "won": false
   },
@@ -37067,7 +37655,11 @@
       "Alfred Hitchcock"
     ],
     "movies": [
-      "Rear Window"
+      {
+        "title": "Rear Window",
+        "tmdb_id": 567,
+        "imdb_id": "tt0047396"
+      }
     ],
     "won": false
   },
@@ -37100,7 +37692,11 @@
       "Billy Wilder"
     ],
     "movies": [
-      "Sabrina"
+      {
+        "title": "Sabrina",
+        "tmdb_id": 6620,
+        "imdb_id": "tt0047437"
+      }
     ],
     "won": false
   },
@@ -37133,7 +37729,11 @@
       "John Michael Hayes"
     ],
     "movies": [
-      "Rear Window"
+      {
+        "title": "Rear Window",
+        "tmdb_id": 567,
+        "imdb_id": "tt0047396"
+      }
     ],
     "won": false
   },
@@ -37146,7 +37746,11 @@
       "Ernest Lehman"
     ],
     "movies": [
-      "Sabrina"
+      {
+        "title": "Sabrina",
+        "tmdb_id": 6620,
+        "imdb_id": "tt0047437"
+      }
     ],
     "won": false
   },
@@ -37563,7 +38167,11 @@
       "Rembrandt: A Self-Portrait"
     ],
     "movies": [
-      "Rembrandt: A Self-Portrait"
+      {
+        "title": "Rembrandt: A Self-Portrait",
+        "tmdb_id": 243024,
+        "imdb_id": "tt0047404"
+      }
     ],
     "won": false
   },
@@ -37600,7 +38208,11 @@
       "Pigs Is Pigs"
     ],
     "movies": [
-      "Pigs Is Pigs"
+      {
+        "title": "Pigs Is Pigs",
+        "tmdb_id": 56011,
+        "imdb_id": "tt0047353"
+      }
     ],
     "won": false
   },
@@ -37787,7 +38399,11 @@
       "Ray Moyer"
     ],
     "movies": [
-      "Sabrina"
+      {
+        "title": "Sabrina",
+        "tmdb_id": 6620,
+        "imdb_id": "tt0047437"
+      }
     ],
     "won": false
   },
@@ -37853,7 +38469,11 @@
       "Ray Moyer"
     ],
     "movies": [
-      "Red Garters"
+      {
+        "title": "Red Garters",
+        "tmdb_id": 156566,
+        "imdb_id": "tt0047400"
+      }
     ],
     "won": false
   },
@@ -37923,7 +38543,11 @@
       "John Seitz"
     ],
     "movies": [
-      "Rogue Cop"
+      {
+        "title": "Rogue Cop",
+        "tmdb_id": 30036,
+        "imdb_id": "tt0047424"
+      }
     ],
     "won": false
   },
@@ -37934,7 +38558,11 @@
       "Charles Lang Jr."
     ],
     "movies": [
-      "Sabrina"
+      {
+        "title": "Sabrina",
+        "tmdb_id": 6620,
+        "imdb_id": "tt0047437"
+      }
     ],
     "won": false
   },
@@ -37967,7 +38595,11 @@
       "Robert Burks"
     ],
     "movies": [
-      "Rear Window"
+      {
+        "title": "Rear Window",
+        "tmdb_id": 567,
+        "imdb_id": "tt0047396"
+      }
     ],
     "won": false
   },
@@ -38142,7 +38774,11 @@
       "Loren L. Ryder"
     ],
     "movies": [
-      "Rear Window"
+      {
+        "title": "Rear Window",
+        "tmdb_id": 567,
+        "imdb_id": "tt0047396"
+      }
     ],
     "won": false
   },
@@ -38164,7 +38800,11 @@
       "Edith Head"
     ],
     "movies": [
-      "Sabrina"
+      {
+        "title": "Sabrina",
+        "tmdb_id": 6620,
+        "imdb_id": "tt0047437"
+      }
     ],
     "won": true
   },
@@ -38353,7 +38993,11 @@
       "Picnic"
     ],
     "movies": [
-      "Picnic"
+      {
+        "title": "Picnic",
+        "tmdb_id": 39940,
+        "imdb_id": "tt0048491"
+      }
     ],
     "won": false
   },
@@ -38554,7 +39198,11 @@
       "Sal Mineo"
     ],
     "movies": [
-      "Rebel Without a Cause"
+      {
+        "title": "Rebel Without a Cause",
+        "tmdb_id": 221,
+        "imdb_id": "tt0048545"
+      }
     ],
     "won": false
   },
@@ -38565,7 +39213,11 @@
       "Arthur O'Connell"
     ],
     "movies": [
-      "Picnic"
+      {
+        "title": "Picnic",
+        "tmdb_id": 39940,
+        "imdb_id": "tt0048491"
+      }
     ],
     "won": false
   },
@@ -38606,7 +39258,11 @@
       "Peggy Lee"
     ],
     "movies": [
-      "Pete Kelly's Blues"
+      {
+        "title": "Pete Kelly's Blues",
+        "tmdb_id": 43321,
+        "imdb_id": "tt0048484"
+      }
     ],
     "won": false
   },
@@ -38628,7 +39284,11 @@
       "Natalie Wood"
     ],
     "movies": [
-      "Rebel Without a Cause"
+      {
+        "title": "Rebel Without a Cause",
+        "tmdb_id": 221,
+        "imdb_id": "tt0048545"
+      }
     ],
     "won": false
   },
@@ -38680,7 +39340,11 @@
       "Joshua Logan"
     ],
     "movies": [
-      "Picnic"
+      {
+        "title": "Picnic",
+        "tmdb_id": 39940,
+        "imdb_id": "tt0048491"
+      }
     ],
     "won": false
   },
@@ -38881,7 +39545,11 @@
       "Nicholas Ray"
     ],
     "movies": [
-      "Rebel Without a Cause"
+      {
+        "title": "Rebel Without a Cause",
+        "tmdb_id": 221,
+        "imdb_id": "tt0048545"
+      }
     ],
     "won": false
   },
@@ -38959,7 +39627,11 @@
       "George Duning"
     ],
     "movies": [
-      "Picnic"
+      {
+        "title": "Picnic",
+        "tmdb_id": 39940,
+        "imdb_id": "tt0048491"
+      }
     ],
     "won": false
   },
@@ -39453,7 +40125,11 @@
       "Robert Priestley"
     ],
     "movies": [
-      "Picnic"
+      {
+        "title": "Picnic",
+        "tmdb_id": 39940,
+        "imdb_id": "tt0048491"
+      }
     ],
     "won": true
   },
@@ -39587,7 +40263,11 @@
       "Charles Lang"
     ],
     "movies": [
-      "Queen Bee"
+      {
+        "title": "Queen Bee",
+        "tmdb_id": 28296,
+        "imdb_id": "tt0048527"
+      }
     ],
     "won": false
   },
@@ -39670,7 +40350,11 @@
       "William A. Lyon"
     ],
     "movies": [
-      "Picnic"
+      {
+        "title": "Picnic",
+        "tmdb_id": 39940,
+        "imdb_id": "tt0048491"
+      }
     ],
     "won": true
   },
@@ -39869,7 +40553,11 @@
       "Jean Louis"
     ],
     "movies": [
-      "Queen Bee"
+      {
+        "title": "Queen Bee",
+        "tmdb_id": 28296,
+        "imdb_id": "tt0048527"
+      }
     ],
     "won": false
   },
@@ -40093,7 +40781,11 @@
       "Laurence Olivier"
     ],
     "movies": [
-      "Richard III"
+      {
+        "title": "Richard III",
+        "tmdb_id": 43323,
+        "imdb_id": "tt0049674"
+      }
     ],
     "won": false
   },
@@ -40134,7 +40826,11 @@
       "Katharine Hepburn"
     ],
     "movies": [
-      "Rainmaker"
+      {
+        "title": "The Rainmaker",
+        "tmdb_id": 43542,
+        "imdb_id": "tt0049653"
+      }
     ],
     "won": false
   },
@@ -40829,7 +41525,11 @@
       "Qivitoq"
     ],
     "movies": [
-      "Qivitoq"
+      {
+        "title": "Qivitoq",
+        "tmdb_id": 72519,
+        "imdb_id": "tt0048523"
+      }
     ],
     "won": false
   },
@@ -41635,7 +42335,11 @@
       "Peyton Place"
     ],
     "movies": [
-      "Peyton Place"
+      {
+        "title": "Peyton Place",
+        "tmdb_id": 43236,
+        "imdb_id": "tt0050839"
+      }
     ],
     "won": false
   },
@@ -41764,7 +42468,11 @@
       "Elizabeth Taylor"
     ],
     "movies": [
-      "Raintree County"
+      {
+        "title": "Raintree County",
+        "tmdb_id": 65488,
+        "imdb_id": "tt0050882"
+      }
     ],
     "won": false
   },
@@ -41775,7 +42483,11 @@
       "Lana Turner"
     ],
     "movies": [
-      "Peyton Place"
+      {
+        "title": "Peyton Place",
+        "tmdb_id": 43236,
+        "imdb_id": "tt0050839"
+      }
     ],
     "won": false
   },
@@ -41823,7 +42535,11 @@
       "Arthur Kennedy"
     ],
     "movies": [
-      "Peyton Place"
+      {
+        "title": "Peyton Place",
+        "tmdb_id": 43236,
+        "imdb_id": "tt0050839"
+      }
     ],
     "won": false
   },
@@ -41834,7 +42550,11 @@
       "Russ Tamblyn"
     ],
     "movies": [
-      "Peyton Place"
+      {
+        "title": "Peyton Place",
+        "tmdb_id": 43236,
+        "imdb_id": "tt0050839"
+      }
     ],
     "won": false
   },
@@ -41878,7 +42598,11 @@
       "Hope Lange"
     ],
     "movies": [
-      "Peyton Place"
+      {
+        "title": "Peyton Place",
+        "tmdb_id": 43236,
+        "imdb_id": "tt0050839"
+      }
     ],
     "won": false
   },
@@ -41889,7 +42613,11 @@
       "Diane Varsi"
     ],
     "movies": [
-      "Peyton Place"
+      {
+        "title": "Peyton Place",
+        "tmdb_id": 43236,
+        "imdb_id": "tt0050839"
+      }
     ],
     "won": false
   },
@@ -41948,7 +42676,11 @@
       "Mark Robson"
     ],
     "movies": [
-      "Peyton Place"
+      {
+        "title": "Peyton Place",
+        "tmdb_id": 43236,
+        "imdb_id": "tt0050839"
+      }
     ],
     "won": false
   },
@@ -41986,7 +42718,11 @@
       "John Michael Hayes"
     ],
     "movies": [
-      "Peyton Place"
+      {
+        "title": "Peyton Place",
+        "tmdb_id": 43236,
+        "imdb_id": "tt0050839"
+      }
     ],
     "won": false
   },
@@ -42143,7 +42879,11 @@
       "Paul J. Smith"
     ],
     "movies": [
-      "Perri"
+      {
+        "title": "Perri",
+        "tmdb_id": 162139,
+        "imdb_id": "tt0050837"
+      }
     ],
     "won": false
   },
@@ -42154,7 +42894,11 @@
       "Johnny Green"
     ],
     "movies": [
-      "Raintree County"
+      {
+        "title": "Raintree County",
+        "tmdb_id": 65488,
+        "imdb_id": "tt0050882"
+      }
     ],
     "won": false
   },
@@ -42459,7 +43203,11 @@
       "Portugal"
     ],
     "movies": [
-      "Portugal"
+      {
+        "title": "Portugal",
+        "tmdb_id": 243164,
+        "imdb_id": "tt0050851"
+      }
     ],
     "won": false
   },
@@ -42503,7 +43251,11 @@
       "Hugh Hunt"
     ],
     "movies": [
-      "Raintree County"
+      {
+        "title": "Raintree County",
+        "tmdb_id": 65488,
+        "imdb_id": "tt0050882"
+      }
     ],
     "won": false
   },
@@ -42534,7 +43286,11 @@
       "Louis Diage"
     ],
     "movies": [
-      "Pal Joey"
+      {
+        "title": "Pal Joey",
+        "tmdb_id": 33734,
+        "imdb_id": "tt0050815"
+      }
     ],
     "won": false
   },
@@ -42556,7 +43312,11 @@
       "William C. Mellor"
     ],
     "movies": [
-      "Peyton Place"
+      {
+        "title": "Peyton Place",
+        "tmdb_id": 43236,
+        "imdb_id": "tt0050839"
+      }
     ],
     "won": false
   },
@@ -42632,7 +43392,11 @@
       "Jerome Thoms"
     ],
     "movies": [
-      "Pal Joey"
+      {
+        "title": "Pal Joey",
+        "tmdb_id": 33734,
+        "imdb_id": "tt0050815"
+      }
     ],
     "won": false
   },
@@ -42732,7 +43496,11 @@
       "John P. Livadary"
     ],
     "movies": [
-      "Pal Joey"
+      {
+        "title": "Pal Joey",
+        "tmdb_id": 33734,
+        "imdb_id": "tt0050815"
+      }
     ],
     "won": false
   },
@@ -42800,7 +43568,11 @@
       "Jean Louis"
     ],
     "movies": [
-      "Pal Joey"
+      {
+        "title": "Pal Joey",
+        "tmdb_id": 33734,
+        "imdb_id": "tt0050815"
+      }
     ],
     "won": false
   },
@@ -42811,7 +43583,11 @@
       "Walter Plunkett"
     ],
     "movies": [
-      "Raintree County"
+      {
+        "title": "Raintree County",
+        "tmdb_id": 65488,
+        "imdb_id": "tt0050882"
+      }
     ],
     "won": false
   },
@@ -43633,7 +44409,11 @@
       "Psychiatric Nursing"
     ],
     "movies": [
-      "Psychiatric Nursing"
+      {
+        "title": "Psychiatric Nursing",
+        "tmdb_id": 149272,
+        "imdb_id": "tt0052098"
+      }
     ],
     "won": false
   },
@@ -43730,7 +44510,11 @@
       "Paul Bunyan"
     ],
     "movies": [
-      "Paul Bunyan"
+      {
+        "title": "Paul Bunyan",
+        "tmdb_id": 44293,
+        "imdb_id": "tt0052056"
+      }
     ],
     "won": false
   },
@@ -44307,7 +45091,11 @@
       "Room at the Top"
     ],
     "movies": [
-      "Room at the Top"
+      {
+        "title": "Room at the Top",
+        "tmdb_id": 43103,
+        "imdb_id": "tt0053226"
+      }
     ],
     "won": false
   },
@@ -44333,7 +45121,11 @@
       "Laurence Harvey"
     ],
     "movies": [
-      "Room at the Top"
+      {
+        "title": "Room at the Top",
+        "tmdb_id": 43103,
+        "imdb_id": "tt0053226"
+      }
     ],
     "won": false
   },
@@ -44381,7 +45173,11 @@
       "Simone Signoret"
     ],
     "movies": [
-      "Room at the Top"
+      {
+        "title": "Room at the Top",
+        "tmdb_id": 43103,
+        "imdb_id": "tt0053226"
+      }
     ],
     "won": true
   },
@@ -44392,7 +45188,11 @@
       "Doris Day"
     ],
     "movies": [
-      "Pillow Talk"
+      {
+        "title": "Pillow Talk",
+        "tmdb_id": 4952,
+        "imdb_id": "tt0053172"
+      }
     ],
     "won": false
   },
@@ -44514,7 +45314,11 @@
       "Hermione Baddeley"
     ],
     "movies": [
-      "Room at the Top"
+      {
+        "title": "Room at the Top",
+        "tmdb_id": 43103,
+        "imdb_id": "tt0053226"
+      }
     ],
     "won": false
   },
@@ -44555,7 +45359,11 @@
       "Thelma Ritter"
     ],
     "movies": [
-      "Pillow Talk"
+      {
+        "title": "Pillow Talk",
+        "tmdb_id": 4952,
+        "imdb_id": "tt0053172"
+      }
     ],
     "won": false
   },
@@ -44581,7 +45389,11 @@
       "Jack Clayton"
     ],
     "movies": [
-      "Room at the Top"
+      {
+        "title": "Room at the Top",
+        "tmdb_id": 43103,
+        "imdb_id": "tt0053226"
+      }
     ],
     "won": false
   },
@@ -44625,7 +45437,11 @@
       "Neil Paterson"
     ],
     "movies": [
-      "Room at the Top"
+      {
+        "title": "Room at the Top",
+        "tmdb_id": 43103,
+        "imdb_id": "tt0053226"
+      }
     ],
     "won": true
   },
@@ -44692,7 +45508,11 @@
       "Stanley Shapiro"
     ],
     "movies": [
-      "Pillow Talk"
+      {
+        "title": "Pillow Talk",
+        "tmdb_id": 4952,
+        "imdb_id": "tt0053172"
+      }
     ],
     "won": true
   },
@@ -44789,7 +45609,11 @@
       "Frank DeVol"
     ],
     "movies": [
-      "Pillow Talk"
+      {
+        "title": "Pillow Talk",
+        "tmdb_id": 4952,
+        "imdb_id": "tt0053172"
+      }
     ],
     "won": false
   },
@@ -44823,7 +45647,11 @@
       "Ken Darby"
     ],
     "movies": [
-      "Porgy and Bess"
+      {
+        "title": "Porgy and Bess",
+        "tmdb_id": 1940,
+        "imdb_id": "tt0053182"
+      }
     ],
     "won": true
   },
@@ -44976,10 +45804,14 @@
     "category": "Best International Feature Film",
     "year": "1959",
     "nominees": [
-      "Paw"
+      "Boy of Two Worlds"
     ],
     "movies": [
-      "Paw"
+      {
+        "title": "Boy of Two Worlds",
+        "tmdb_id": 160413,
+        "imdb_id": "tt0053158"
+      }
     ],
     "won": false
   },
@@ -45313,7 +46145,11 @@
       "Ruby R. Levitt"
     ],
     "movies": [
-      "Pillow Talk"
+      {
+        "title": "Pillow Talk",
+        "tmdb_id": 4952,
+        "imdb_id": "tt0053172"
+      }
     ],
     "won": false
   },
@@ -45414,7 +46250,11 @@
       "Leon Shamroy"
     ],
     "movies": [
-      "Porgy and Bess"
+      {
+        "title": "Porgy and Bess",
+        "tmdb_id": 1940,
+        "imdb_id": "tt0053182"
+      }
     ],
     "won": false
   },
@@ -45620,7 +46460,11 @@
       "Fred Hynes"
     ],
     "movies": [
-      "Porgy and Bess"
+      {
+        "title": "Porgy and Bess",
+        "tmdb_id": 1940,
+        "imdb_id": "tt0053182"
+      }
     ],
     "won": false
   },
@@ -45706,7 +46550,11 @@
       "Irene Sharaff"
     ],
     "movies": [
-      "Porgy and Bess"
+      {
+        "title": "Porgy and Bess",
+        "tmdb_id": 1940,
+        "imdb_id": "tt0053182"
+      }
     ],
     "won": false
   },
@@ -46035,7 +46883,11 @@
       "Janet Leigh"
     ],
     "movies": [
-      "Psycho"
+      {
+        "title": "Psycho",
+        "tmdb_id": 539,
+        "imdb_id": "tt0054215"
+      }
     ],
     "won": false
   },
@@ -46068,7 +46920,11 @@
       "Alfred Hitchcock"
     ],
     "movies": [
-      "Psycho"
+      {
+        "title": "Psycho",
+        "tmdb_id": 539,
+        "imdb_id": "tt0054215"
+      }
     ],
     "won": false
   },
@@ -46353,7 +47209,11 @@
       "Johnny Green"
     ],
     "movies": [
-      "Pepe"
+      {
+        "title": "Pepe",
+        "tmdb_id": 82792,
+        "imdb_id": "tt0054172"
+      }
     ],
     "won": false
   },
@@ -46410,7 +47270,11 @@
       "Faraway Part of Town"
     ],
     "movies": [
-      "Pepe"
+      {
+        "title": "Pepe",
+        "tmdb_id": 82792,
+        "imdb_id": "tt0054172"
+      }
     ],
     "won": false
   },
@@ -46521,7 +47385,11 @@
       "Rebel in Paradise"
     ],
     "movies": [
-      "Rebel in Paradise"
+      {
+        "title": "Rebel in Paradise",
+        "tmdb_id": 149279,
+        "imdb_id": "tt0054235"
+      }
     ],
     "won": false
   },
@@ -46748,7 +47616,11 @@
       "George Milo"
     ],
     "movies": [
-      "Psycho"
+      {
+        "title": "Psycho",
+        "tmdb_id": 539,
+        "imdb_id": "tt0054215"
+      }
     ],
     "won": false
   },
@@ -46850,7 +47722,11 @@
       "William Kiernan"
     ],
     "movies": [
-      "Pepe"
+      {
+        "title": "Pepe",
+        "tmdb_id": 82792,
+        "imdb_id": "tt0054172"
+      }
     ],
     "won": false
   },
@@ -46899,7 +47775,11 @@
       "John L. Russell"
     ],
     "movies": [
-      "Psycho"
+      {
+        "title": "Psycho",
+        "tmdb_id": 539,
+        "imdb_id": "tt0054215"
+      }
     ],
     "won": false
   },
@@ -46974,7 +47854,11 @@
       "Joseph MacDonald"
     ],
     "movies": [
-      "Pepe"
+      {
+        "title": "Pepe",
+        "tmdb_id": 82792,
+        "imdb_id": "tt0054172"
+      }
     ],
     "won": false
   },
@@ -47023,7 +47907,11 @@
       "Al Clark"
     ],
     "movies": [
-      "Pepe"
+      {
+        "title": "Pepe",
+        "tmdb_id": 82792,
+        "imdb_id": "tt0054172"
+      }
     ],
     "won": false
   },
@@ -47117,7 +48005,11 @@
       "Charles Rice"
     ],
     "movies": [
-      "Pepe"
+      {
+        "title": "Pepe",
+        "tmdb_id": 82792,
+        "imdb_id": "tt0054172"
+      }
     ],
     "won": false
   },
@@ -47241,7 +48133,11 @@
       "Edith Head"
     ],
     "movies": [
-      "Pepe"
+      {
+        "title": "Pepe",
+        "tmdb_id": 82792,
+        "imdb_id": "tt0054172"
+      }
     ],
     "won": false
   },
@@ -47478,7 +48374,11 @@
       "Peter Falk"
     ],
     "movies": [
-      "Pocketful of Miracles"
+      {
+        "title": "Pocketful of Miracles",
+        "tmdb_id": 248,
+        "imdb_id": "tt0055312"
+      }
     ],
     "won": false
   },
@@ -47903,7 +48803,11 @@
       "Duke Ellington"
     ],
     "movies": [
-      "Paris Blues"
+      {
+        "title": "Paris Blues",
+        "tmdb_id": 33710,
+        "imdb_id": "tt0055278"
+      }
     ],
     "won": false
   },
@@ -47959,7 +48863,11 @@
       "Pocketful of Miracles"
     ],
     "movies": [
-      "Pocketful of Miracles"
+      {
+        "title": "Pocketful of Miracles",
+        "tmdb_id": 248,
+        "imdb_id": "tt0055312"
+      }
     ],
     "won": false
   },
@@ -48033,7 +48941,11 @@
       "Placido"
     ],
     "movies": [
-      "Placido"
+      {
+        "title": "Placido",
+        "tmdb_id": 51317,
+        "imdb_id": "tt0055310"
+      }
     ],
     "won": false
   },
@@ -48070,7 +48982,11 @@
       "Project Hope"
     ],
     "movies": [
-      "Project Hope"
+      {
+        "title": "Project Hope",
+        "tmdb_id": 243209,
+        "imdb_id": "tt0055333"
+      }
     ],
     "won": true
   },
@@ -48194,10 +49110,14 @@
     "category": "Best Animated Short",
     "year": "1961",
     "nominees": [
-      "Pied Piper of Guadalupe"
+      "The Pied Piper of Guadalupe"
     ],
     "movies": [
-      "Pied Piper of Guadalupe"
+      {
+        "title": "The Pied Piper of Guadalupe",
+        "tmdb_id": 234707,
+        "imdb_id": "tt0055298"
+      }
     ],
     "won": false
   },
@@ -48219,7 +49139,11 @@
       "Play Ball!"
     ],
     "movies": [
-      "Play Ball!"
+      {
+        "title": "Play Ball!",
+        "tmdb_id": 243204,
+        "imdb_id": "tt0054658"
+      }
     ],
     "won": false
   },
@@ -48241,7 +49165,11 @@
       "Rooftops of New York"
     ],
     "movies": [
-      "Rooftops of New York"
+      {
+        "title": "Rooftops of New York",
+        "tmdb_id": 243207,
+        "imdb_id": "tt0055384"
+      }
     ],
     "won": false
   },
@@ -48813,7 +49741,11 @@
       "Walter Plunkett"
     ],
     "movies": [
-      "Pocketful of Miracles"
+      {
+        "title": "Pocketful of Miracles",
+        "tmdb_id": 248,
+        "imdb_id": "tt0055312"
+      }
     ],
     "won": false
   },
@@ -49795,7 +50727,11 @@
       "Pan"
     ],
     "movies": [
-      "Pan"
+      {
+        "title": "Pan",
+        "tmdb_id": 243229,
+        "imdb_id": "tt1534484"
+      }
     ],
     "won": false
   },
@@ -49822,7 +50758,11 @@
       "Dick Pefferle"
     ],
     "movies": [
-      "Period of Adjustment"
+      {
+        "title": "Period of Adjustment",
+        "tmdb_id": 43007,
+        "imdb_id": "tt0056341"
+      }
     ],
     "won": false
   },
@@ -50284,7 +51224,11 @@
       "Denny Vachlioti"
     ],
     "movies": [
-      "Phaedra"
+      {
+        "title": "Phaedra",
+        "tmdb_id": 48110,
+        "imdb_id": "tt0056346"
+      }
     ],
     "won": false
   },
@@ -51044,7 +51988,11 @@
       "Call Me Irresponsible"
     ],
     "movies": [
-      "Papa's Delicate Condition"
+      {
+        "title": "Papa's Delicate Condition",
+        "tmdb_id": 74088,
+        "imdb_id": "tt0057400"
+      }
     ],
     "won": true
   },
@@ -51185,7 +52133,11 @@
       "Robert Frost: A Lover's Quarrel with the World"
     ],
     "movies": [
-      "Robert Frost: A Lover's Quarrel with the World"
+      {
+        "title": "Robert Frost: A Lover's Quarrel with the World",
+        "tmdb_id": 114509,
+        "imdb_id": "tt0057459"
+      }
     ],
     "won": true
   },
@@ -51344,7 +52296,11 @@
       "Pianissimo"
     ],
     "movies": [
-      "Pianissimo"
+      {
+        "title": "Pianissimo",
+        "tmdb_id": 147793,
+        "imdb_id": "tt0057410"
+      }
     ],
     "won": false
   },
@@ -52723,7 +53679,11 @@
       "Nelson Riddle"
     ],
     "movies": [
-      "Robin and the 7 Hoods"
+      {
+        "title": "Robin and the 7 Hoods",
+        "tmdb_id": 17696,
+        "imdb_id": "tt0058529"
+      }
     ],
     "won": false
   },
@@ -52796,7 +53756,11 @@
       "My Kind of Town"
     ],
     "movies": [
-      "Robin and the 7 Hoods"
+      {
+        "title": "Robin and the 7 Hoods",
+        "tmdb_id": 17696,
+        "imdb_id": "tt0058529"
+      }
     ],
     "won": false
   },
@@ -52829,7 +53793,11 @@
       "Raven's End"
     ],
     "movies": [
-      "Raven's End"
+      {
+        "title": "Raven's End",
+        "tmdb_id": 47206,
+        "imdb_id": "tt0057237"
+      }
     ],
     "won": false
   },
@@ -52840,7 +53808,11 @@
       "Sallah"
     ],
     "movies": [
-      "Sallah"
+      {
+        "title": "Sallah",
+        "tmdb_id": 116762,
+        "imdb_id": "tt0058541"
+      }
     ],
     "won": false
   },
@@ -53053,10 +54025,14 @@
     "category": "Best Animated Short",
     "year": "1964",
     "nominees": [
-      "Nudnik #2"
+      "Here's Nudnik"
     ],
     "movies": [
-      "Nudnik #2"
+      {
+        "title": "Here's Nudnik",
+        "tmdb_id": 220906,
+        "imdb_id": "tt0058416"
+      }
     ],
     "won": false
   },
@@ -54637,7 +55613,11 @@
       "Point of View"
     ],
     "movies": [
-      "Point of View"
+      {
+        "title": "Point of View",
+        "tmdb_id": 243286,
+        "imdb_id": "tt0059609"
+      }
     ],
     "won": false
   },
@@ -55950,7 +56930,11 @@
       "Elmer Bernstein"
     ],
     "movies": [
-      "Return of the Seven"
+      {
+        "title": "Return of the Seven",
+        "tmdb_id": 12639,
+        "imdb_id": "tt0060897"
+      }
     ],
     "won": false
   },
@@ -56099,7 +57083,11 @@
       "Pharaoh"
     ],
     "movies": [
-      "Pharaoh"
+      {
+        "title": "Pharaoh",
+        "tmdb_id": 5040,
+        "imdb_id": "tt0060401"
+      }
     ],
     "won": false
   },
@@ -56237,10 +57225,14 @@
     "category": "Best Documentary Short",
     "year": "1966",
     "nominees": [
-      "Reszletek J.S. Bach Mate passiojabol"
+      "Saint Matthew Passion"
     ],
     "movies": [
-      "Reszletek J.S. Bach Mate passiojabol"
+      {
+        "title": "Saint Matthew Passion",
+        "tmdb_id": 243303,
+        "imdb_id": "tt0060927"
+      }
     ],
     "won": false
   },
@@ -57754,7 +58746,11 @@
       "Portrait of Chieko"
     ],
     "movies": [
-      "Portrait of Chieko"
+      {
+        "title": "Portrait of Chieko",
+        "tmdb_id": 202773,
+        "imdb_id": "tt0061471"
+      }
     ],
     "won": false
   },
@@ -58437,7 +59433,11 @@
       "Rachel, Rachel"
     ],
     "movies": [
-      "Rachel, Rachel"
+      {
+        "title": "Rachel, Rachel",
+        "tmdb_id": 42635,
+        "imdb_id": "tt0063483"
+      }
     ],
     "won": false
   },
@@ -58448,7 +59448,11 @@
       "Romeo and Juliet"
     ],
     "movies": [
-      "Romeo and Juliet"
+      {
+        "title": "Romeo and Juliet",
+        "tmdb_id": 6003,
+        "imdb_id": "tt0063518"
+      }
     ],
     "won": false
   },
@@ -58574,7 +59578,11 @@
       "Joanne Woodward"
     ],
     "movies": [
-      "Rachel, Rachel"
+      {
+        "title": "Rachel, Rachel",
+        "tmdb_id": 42635,
+        "imdb_id": "tt0063483"
+      }
     ],
     "won": false
   },
@@ -58648,7 +59656,11 @@
       "Ruth Gordon"
     ],
     "movies": [
-      "Rosemary's Baby"
+      {
+        "title": "Rosemary's Baby",
+        "tmdb_id": 805,
+        "imdb_id": "tt0063522"
+      }
     ],
     "won": true
   },
@@ -58700,7 +59712,11 @@
       "Estelle Parsons"
     ],
     "movies": [
-      "Rachel, Rachel"
+      {
+        "title": "Rachel, Rachel",
+        "tmdb_id": 42635,
+        "imdb_id": "tt0063483"
+      }
     ],
     "won": false
   },
@@ -58763,7 +59779,11 @@
       "Franco Zeffirelli"
     ],
     "movies": [
-      "Romeo and Juliet"
+      {
+        "title": "Romeo and Juliet",
+        "tmdb_id": 6003,
+        "imdb_id": "tt0063518"
+      }
     ],
     "won": false
   },
@@ -58800,7 +59820,11 @@
       "Roman Polanski"
     ],
     "movies": [
-      "Rosemary's Baby"
+      {
+        "title": "Rosemary's Baby",
+        "tmdb_id": 805,
+        "imdb_id": "tt0063522"
+      }
     ],
     "won": false
   },
@@ -58822,7 +59846,11 @@
       "Stewart Stern"
     ],
     "movies": [
-      "Rachel, Rachel"
+      {
+        "title": "Rachel, Rachel",
+        "tmdb_id": 42635,
+        "imdb_id": "tt0063483"
+      }
     ],
     "won": false
   },
@@ -58914,7 +59942,11 @@
       "Jerry Goldsmith"
     ],
     "movies": [
-      "Planet of the Apes"
+      {
+        "title": "Planet of the Apes",
+        "tmdb_id": 871,
+        "imdb_id": "tt0063442"
+      }
     ],
     "won": false
   },
@@ -59317,7 +60349,11 @@
       "Robert Kennedy Remembered"
     ],
     "movies": [
-      "Robert Kennedy Remembered"
+      {
+        "title": "Robert Kennedy Remembered",
+        "tmdb_id": 243319,
+        "imdb_id": "tt0063514"
+      }
     ],
     "won": true
   },
@@ -59354,7 +60390,11 @@
       "Prelude"
     ],
     "movies": [
-      "Prelude"
+      {
+        "title": "Prelude",
+        "tmdb_id": 243321,
+        "imdb_id": "tt0063454"
+      }
     ],
     "won": false
   },
@@ -59439,7 +60479,11 @@
       "Pasqualino De Santis"
     ],
     "movies": [
-      "Romeo and Juliet"
+      {
+        "title": "Romeo and Juliet",
+        "tmdb_id": 6003,
+        "imdb_id": "tt0063518"
+      }
     ],
     "won": true
   },
@@ -59678,7 +60722,11 @@
       "John Chambers"
     ],
     "movies": [
-      "Planet of the Apes"
+      {
+        "title": "Planet of the Apes",
+        "tmdb_id": 871,
+        "imdb_id": "tt0063442"
+      }
     ],
     "won": true
   },
@@ -59689,7 +60737,11 @@
       "Danilo Donati"
     ],
     "movies": [
-      "Romeo and Juliet"
+      {
+        "title": "Romeo and Juliet",
+        "tmdb_id": 6003,
+        "imdb_id": "tt0063518"
+      }
     ],
     "won": true
   },
@@ -59737,7 +60789,11 @@
       "Morton Haack"
     ],
     "movies": [
-      "Planet of the Apes"
+      {
+        "title": "Planet of the Apes",
+        "tmdb_id": 871,
+        "imdb_id": "tt0063442"
+      }
     ],
     "won": false
   },
@@ -60763,7 +61819,11 @@
       "People Soup"
     ],
     "movies": [
-      "People Soup"
+      {
+        "title": "People Soup",
+        "tmdb_id": 243332,
+        "imdb_id": "tt0064799"
+      }
     ],
     "won": false
   },
@@ -61170,7 +62230,11 @@
       "Patton"
     ],
     "movies": [
-      "Patton"
+      {
+        "title": "Patton",
+        "tmdb_id": 11202,
+        "imdb_id": "tt0066206"
+      }
     ],
     "won": true
   },
@@ -61241,7 +62305,11 @@
       "George C. Scott"
     ],
     "movies": [
-      "Patton"
+      {
+        "title": "Patton",
+        "tmdb_id": 11202,
+        "imdb_id": "tt0066206"
+      }
     ],
     "won": true
   },
@@ -61345,7 +62413,11 @@
       "Sarah Miles"
     ],
     "movies": [
-      "Ryan's Daughter"
+      {
+        "title": "Ryan's Daughter",
+        "tmdb_id": 38953,
+        "imdb_id": "tt0066319"
+      }
     ],
     "won": false
   },
@@ -61371,7 +62443,11 @@
       "John Mills"
     ],
     "movies": [
-      "Ryan's Daughter"
+      {
+        "title": "Ryan's Daughter",
+        "tmdb_id": 38953,
+        "imdb_id": "tt0066319"
+      }
     ],
     "won": true
   },
@@ -61513,7 +62589,11 @@
       "Franklin J. Schaffner"
     ],
     "movies": [
-      "Patton"
+      {
+        "title": "Patton",
+        "tmdb_id": 11202,
+        "imdb_id": "tt0066206"
+      }
     ],
     "won": true
   },
@@ -61650,7 +62730,11 @@
       "Edmund H. North"
     ],
     "movies": [
-      "Patton"
+      {
+        "title": "Patton",
+        "tmdb_id": 11202,
+        "imdb_id": "tt0066206"
+      }
     ],
     "won": true
   },
@@ -61766,7 +62850,11 @@
       "Jerry Goldsmith"
     ],
     "movies": [
-      "Patton"
+      {
+        "title": "Patton",
+        "tmdb_id": 11202,
+        "imdb_id": "tt0066206"
+      }
     ],
     "won": false
   },
@@ -61912,7 +63000,11 @@
       "Pieces of Dreams"
     ],
     "movies": [
-      "Pieces of Dreams"
+      {
+        "title": "Pieces of Dreams",
+        "tmdb_id": 94468,
+        "imdb_id": "tt0066222"
+      }
     ],
     "won": false
   },
@@ -61976,10 +63068,14 @@
     "category": "Best International Feature Film",
     "year": "1970",
     "nominees": [
-      "Paix Sur Les Champs"
+      "Peace in the Fields"
     ],
     "movies": [
-      "Paix Sur Les Champs"
+      {
+        "title": "Peace in the Fields",
+        "tmdb_id": 202777,
+        "imdb_id": "tt0066198"
+      }
     ],
     "won": false
   },
@@ -62208,7 +63304,11 @@
       "Pierre-Louis Thevenet"
     ],
     "movies": [
-      "Patton"
+      {
+        "title": "Patton",
+        "tmdb_id": 11202,
+        "imdb_id": "tt0066206"
+      }
     ],
     "won": true
   },
@@ -62276,7 +63376,11 @@
       "Freddie Young"
     ],
     "movies": [
-      "Ryan's Daughter"
+      {
+        "title": "Ryan's Daughter",
+        "tmdb_id": 38953,
+        "imdb_id": "tt0066319"
+      }
     ],
     "won": true
   },
@@ -62287,7 +63391,11 @@
       "Fred J. Koenekamp"
     ],
     "movies": [
-      "Patton"
+      {
+        "title": "Patton",
+        "tmdb_id": 11202,
+        "imdb_id": "tt0066206"
+      }
     ],
     "won": false
   },
@@ -62335,7 +63443,11 @@
       "Hugh S. Fowler"
     ],
     "movies": [
-      "Patton"
+      {
+        "title": "Patton",
+        "tmdb_id": 11202,
+        "imdb_id": "tt0066206"
+      }
     ],
     "won": true
   },
@@ -62412,7 +63524,11 @@
       "Alex Weldon"
     ],
     "movies": [
-      "Patton"
+      {
+        "title": "Patton",
+        "tmdb_id": 11202,
+        "imdb_id": "tt0066206"
+      }
     ],
     "won": false
   },
@@ -62424,7 +63540,11 @@
       "Don Bassman"
     ],
     "movies": [
-      "Patton"
+      {
+        "title": "Patton",
+        "tmdb_id": 11202,
+        "imdb_id": "tt0066206"
+      }
     ],
     "won": true
   },
@@ -62452,7 +63572,11 @@
       "John Bramall"
     ],
     "movies": [
-      "Ryan's Daughter"
+      {
+        "title": "Ryan's Daughter",
+        "tmdb_id": 38953,
+        "imdb_id": "tt0066319"
+      }
     ],
     "won": false
   },
@@ -63374,10 +64498,14 @@
     "category": "Best Documentary Feature",
     "year": "1971",
     "nominees": [
-      "Ra"
+      "The Ra Expeditions"
     ],
     "movies": [
-      "Ra"
+      {
+        "title": "The Ra Expeditions",
+        "tmdb_id": 149325,
+        "imdb_id": "tt0069151"
+      }
     ],
     "won": false
   },
@@ -64180,7 +65308,11 @@
       "Geraldine Page"
     ],
     "movies": [
-      "Pete 'n' Tillie"
+      {
+        "title": "Pete 'n' Tillie",
+        "tmdb_id": 107774,
+        "imdb_id": "tt0069080"
+      }
     ],
     "won": false
   },
@@ -64319,7 +65451,11 @@
       "Julius J. Epstein"
     ],
     "movies": [
-      "Pete 'n' Tillie"
+      {
+        "title": "Pete 'n' Tillie",
+        "tmdb_id": 107774,
+        "imdb_id": "tt0069080"
+      }
     ],
     "won": false
   },
@@ -65456,7 +66592,11 @@
       "Tatum O'Neal"
     ],
     "movies": [
-      "Paper Moon"
+      {
+        "title": "Paper Moon",
+        "tmdb_id": 11293,
+        "imdb_id": "tt0070510"
+      }
     ],
     "won": true
   },
@@ -65493,7 +66633,11 @@
       "Madeline Kahn"
     ],
     "movies": [
-      "Paper Moon"
+      {
+        "title": "Paper Moon",
+        "tmdb_id": 11293,
+        "imdb_id": "tt0070510"
+      }
     ],
     "won": false
   },
@@ -65615,7 +66759,11 @@
       "Alvin Sargent"
     ],
     "movies": [
-      "Paper Moon"
+      {
+        "title": "Paper Moon",
+        "tmdb_id": 11293,
+        "imdb_id": "tt0070510"
+      }
     ],
     "won": false
   },
@@ -65745,7 +66893,11 @@
       "Jerry Goldsmith"
     ],
     "movies": [
-      "Papillon"
+      {
+        "title": "Papillon",
+        "tmdb_id": 5924,
+        "imdb_id": "tt0070511"
+      }
     ],
     "won": false
   },
@@ -65854,7 +67006,11 @@
       "Love"
     ],
     "movies": [
-      "Robin Hood"
+      {
+        "title": "Robin Hood",
+        "tmdb_id": 11886,
+        "imdb_id": "tt0070608"
+      }
     ],
     "won": false
   },
@@ -66006,7 +67162,11 @@
       "Princeton: A Search for Answers"
     ],
     "movies": [
-      "Princeton: A Search for Answers"
+      {
+        "title": "Princeton: A Search for Answers",
+        "tmdb_id": 243380,
+        "imdb_id": "tt0070561"
+      }
     ],
     "won": true
   },
@@ -66059,10 +67219,14 @@
     "category": "Best Documentary Short",
     "year": "1973",
     "nominees": [
-      "Paisti ag obair"
+      "Children at Work"
     ],
     "movies": [
-      "Paisti ag obair"
+      {
+        "title": "Children at Work",
+        "tmdb_id": 243384,
+        "imdb_id": "tt0070500"
+      }
     ],
     "won": false
   },
@@ -66099,7 +67263,11 @@
       "Pulcinella"
     ],
     "movies": [
-      "Pulcinella"
+      {
+        "title": "Pulcinella",
+        "tmdb_id": 243373,
+        "imdb_id": "tt0070574"
+      }
     ],
     "won": false
   },
@@ -66384,7 +67552,11 @@
       "Les Frescholtz"
     ],
     "movies": [
-      "Paper Moon"
+      {
+        "title": "Paper Moon",
+        "tmdb_id": 11293,
+        "imdb_id": "tt0070510"
+      }
     ],
     "won": false
   },
@@ -67107,7 +68279,11 @@
       "George Aliceson Tipton"
     ],
     "movies": [
-      "Phantom of the Paradise"
+      {
+        "title": "Phantom of the Paradise",
+        "tmdb_id": 27327,
+        "imdb_id": "tt0071994"
+      }
     ],
     "won": false
   },
@@ -67494,7 +68670,11 @@
       "Planet Ocean"
     ],
     "movies": [
-      "Planet Ocean"
+      {
+        "title": "Planet Ocean",
+        "tmdb_id": 243392,
+        "imdb_id": "tt0072001"
+      }
     ],
     "won": false
   },
@@ -68346,7 +69526,11 @@
       "Dino Risi"
     ],
     "movies": [
-      "Produmo di donna"
+      {
+        "title": "Scent of a Woman",
+        "tmdb_id": 47848,
+        "imdb_id": "tt0072037"
+      }
     ],
     "won": false
   },
@@ -68784,7 +69968,11 @@
       "Probes in Space"
     ],
     "movies": [
-      "Probes in Space"
+      {
+        "title": "Probes in Space",
+        "tmdb_id": 243414,
+        "imdb_id": "tt0073578"
+      }
     ],
     "won": false
   },
@@ -69314,7 +70502,11 @@
       "Rocky"
     ],
     "movies": [
-      "Rocky"
+      {
+        "title": "Rocky",
+        "tmdb_id": 1366,
+        "imdb_id": "tt0075148"
+      }
     ],
     "won": true
   },
@@ -69433,7 +70625,11 @@
       "Sylvester Stallone"
     ],
     "movies": [
-      "Rocky"
+      {
+        "title": "Rocky",
+        "tmdb_id": 1366,
+        "imdb_id": "tt0075148"
+      }
     ],
     "won": false
   },
@@ -69474,7 +70670,11 @@
       "Talia Shire"
     ],
     "movies": [
-      "Rocky"
+      {
+        "title": "Rocky",
+        "tmdb_id": 1366,
+        "imdb_id": "tt0075148"
+      }
     ],
     "won": false
   },
@@ -69545,7 +70745,11 @@
       "Burgess Meredith"
     ],
     "movies": [
-      "Rocky"
+      {
+        "title": "Rocky",
+        "tmdb_id": 1366,
+        "imdb_id": "tt0075148"
+      }
     ],
     "won": false
   },
@@ -69571,7 +70775,11 @@
       "Burt Young"
     ],
     "movies": [
-      "Rocky"
+      {
+        "title": "Rocky",
+        "tmdb_id": 1366,
+        "imdb_id": "tt0075148"
+      }
     ],
     "won": false
   },
@@ -69649,7 +70857,11 @@
       "John G. Avildsen"
     ],
     "movies": [
-      "Rocky"
+      {
+        "title": "Rocky",
+        "tmdb_id": 1366,
+        "imdb_id": "tt0075148"
+      }
     ],
     "won": true
   },
@@ -69827,7 +71039,11 @@
       "Sylvester Stallone"
     ],
     "movies": [
-      "Rocky"
+      {
+        "title": "Rocky",
+        "tmdb_id": 1366,
+        "imdb_id": "tt0075148"
+      }
     ],
     "won": false
   },
@@ -70005,7 +71221,11 @@
       "Gonna Fly Now"
     ],
     "movies": [
-      "Rocky"
+      {
+        "title": "Rocky",
+        "tmdb_id": 1366,
+        "imdb_id": "tt0075148"
+      }
     ],
     "won": false
   },
@@ -70132,7 +71352,11 @@
       "People of the Wind"
     ],
     "movies": [
-      "People of the Wind"
+      {
+        "title": "People of the Wind",
+        "tmdb_id": 149347,
+        "imdb_id": "tt0075052"
+      }
     ],
     "won": false
   },
@@ -70478,7 +71702,11 @@
       "Scott Conrad"
     ],
     "movies": [
-      "Rocky"
+      {
+        "title": "Rocky",
+        "tmdb_id": 1366,
+        "imdb_id": "tt0075148"
+      }
     ],
     "won": true
   },
@@ -70620,7 +71848,11 @@
       "Bud Alper"
     ],
     "movies": [
-      "Rocky"
+      {
+        "title": "Rocky",
+        "tmdb_id": 1366,
+        "imdb_id": "tt0075148"
+      }
     ],
     "won": false
   },
@@ -71337,7 +72569,11 @@
       "Irwin Kostal"
     ],
     "movies": [
-      "Pete's Dragon"
+      {
+        "title": "Pete's Dragon",
+        "tmdb_id": 11114,
+        "imdb_id": "tt0076538"
+      }
     ],
     "won": false
   },
@@ -71372,7 +72608,11 @@
       "Candle on the Water"
     ],
     "movies": [
-      "Pete's Dragon"
+      {
+        "title": "Pete's Dragon",
+        "tmdb_id": 11114,
+        "imdb_id": "tt0076538"
+      }
     ],
     "won": false
   },
@@ -72812,7 +74052,11 @@
       "Jerry Wexler"
     ],
     "movies": [
-      "Pretty Baby"
+      {
+        "title": "Pretty Baby",
+        "tmdb_id": 26973,
+        "imdb_id": "tt0078111"
+      }
     ],
     "won": false
   },
@@ -72975,7 +74219,11 @@
       "Raoni"
     ],
     "movies": [
-      "Raoni"
+      {
+        "title": "Raoni",
+        "tmdb_id": 149352,
+        "imdb_id": "tt0078140"
+      }
     ],
     "won": false
   },
@@ -73101,7 +74349,11 @@
       "Rip Van Winkle"
     ],
     "movies": [
-      "Rip Van Winkle"
+      {
+        "title": "Rip Van Winkle",
+        "tmdb_id": 186868,
+        "imdb_id": "tt0078168"
+      }
     ],
     "won": false
   },
@@ -74404,10 +75656,14 @@
     "category": "Best Documentary Short",
     "year": "1979",
     "nominees": [
-      "Paul Robeson:Tribute to an Artist"
+      "Paul Robeson: Tribute to an Artist"
     ],
     "movies": [
-      "Paul Robeson:Tribute to an Artist"
+      {
+        "title": "Paul Robeson: Tribute to an Artist",
+        "tmdb_id": 113745,
+        "imdb_id": "tt0079704"
+      }
     ],
     "won": true
   },
@@ -74463,7 +75719,11 @@
       "Remember Me"
     ],
     "movies": [
-      "Remember Me"
+      {
+        "title": "Remember Me",
+        "tmdb_id": 244355,
+        "imdb_id": "tt0079791"
+      }
     ],
     "won": false
   },
@@ -75099,7 +76359,11 @@
       "Raging Bull"
     ],
     "movies": [
-      "Raging Bull"
+      {
+        "title": "Raging Bull",
+        "tmdb_id": 1578,
+        "imdb_id": "tt0081398"
+      }
     ],
     "won": false
   },
@@ -75121,7 +76385,11 @@
       "Robert De Niro"
     ],
     "movies": [
-      "Raging Bull"
+      {
+        "title": "Raging Bull",
+        "tmdb_id": 1578,
+        "imdb_id": "tt0081398"
+      }
     ],
     "won": true
   },
@@ -75191,7 +76459,11 @@
       "Ellen Burstyn"
     ],
     "movies": [
-      "Resurrection"
+      {
+        "title": "Resurrection",
+        "tmdb_id": 98864,
+        "imdb_id": "tt0081414"
+      }
     ],
     "won": false
   },
@@ -75202,7 +76474,11 @@
       "Goldie Hawn"
     ],
     "movies": [
-      "Private Benjamin"
+      {
+        "title": "Private Benjamin",
+        "tmdb_id": 10765,
+        "imdb_id": "tt0081375"
+      }
     ],
     "won": false
   },
@@ -75284,7 +76560,11 @@
       "Joe Pesci"
     ],
     "movies": [
-      "Raging Bull"
+      {
+        "title": "Raging Bull",
+        "tmdb_id": 1578,
+        "imdb_id": "tt0081398"
+      }
     ],
     "won": false
   },
@@ -75325,7 +76605,11 @@
       "Eileen Brennan"
     ],
     "movies": [
-      "Private Benjamin"
+      {
+        "title": "Private Benjamin",
+        "tmdb_id": 10765,
+        "imdb_id": "tt0081375"
+      }
     ],
     "won": false
   },
@@ -75336,7 +76620,11 @@
       "Eva Le Gallienne"
     ],
     "movies": [
-      "Resurrection"
+      {
+        "title": "Resurrection",
+        "tmdb_id": 98864,
+        "imdb_id": "tt0081414"
+      }
     ],
     "won": false
   },
@@ -75347,7 +76635,11 @@
       "Cathy Moriarty"
     ],
     "movies": [
-      "Raging Bull"
+      {
+        "title": "Raging Bull",
+        "tmdb_id": 1578,
+        "imdb_id": "tt0081398"
+      }
     ],
     "won": false
   },
@@ -75399,7 +76691,11 @@
       "Martin Scorsese"
     ],
     "movies": [
-      "Raging Bull"
+      {
+        "title": "Raging Bull",
+        "tmdb_id": 1578,
+        "imdb_id": "tt0081398"
+      }
     ],
     "won": false
   },
@@ -75567,7 +76863,11 @@
       "Harvey Miller"
     ],
     "movies": [
-      "Private Benjamin"
+      {
+        "title": "Private Benjamin",
+        "tmdb_id": 10765,
+        "imdb_id": "tt0081375"
+      }
     ],
     "won": false
   },
@@ -76119,7 +77419,11 @@
       "Michael Chapman"
     ],
     "movies": [
-      "Raging Bull"
+      {
+        "title": "Raging Bull",
+        "tmdb_id": 1578,
+        "imdb_id": "tt0081398"
+      }
     ],
     "won": false
   },
@@ -76130,7 +77434,11 @@
       "Thelma Schoonmaker"
     ],
     "movies": [
-      "Raging Bull"
+      {
+        "title": "Raging Bull",
+        "tmdb_id": 1578,
+        "imdb_id": "tt0081398"
+      }
     ],
     "won": true
   },
@@ -76277,7 +77585,11 @@
       "Les Lazarowitz"
     ],
     "movies": [
-      "Raging Bull"
+      {
+        "title": "Raging Bull",
+        "tmdb_id": 1578,
+        "imdb_id": "tt0081398"
+      }
     ],
     "won": false
   },
@@ -76392,7 +77704,11 @@
       "Raiders of the Lost Ark"
     ],
     "movies": [
-      "Raiders of the Lost Ark"
+      {
+        "title": "Raiders of the Lost Ark",
+        "tmdb_id": 85,
+        "imdb_id": "tt0082971"
+      }
     ],
     "won": false
   },
@@ -76403,7 +77719,11 @@
       "Reds"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": false
   },
@@ -76429,7 +77749,11 @@
       "Warren Beatty"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": false
   },
@@ -76500,7 +77824,11 @@
       "Diane Keaton"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": false
   },
@@ -76597,7 +77925,11 @@
       "Jack Nicholson"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": false
   },
@@ -76608,7 +77940,11 @@
       "Howard E. Rollins Jr."
     ],
     "movies": [
-      "Ragtime"
+      {
+        "title": "Ragtime",
+        "tmdb_id": 25566,
+        "imdb_id": "tt0082970"
+      }
     ],
     "won": false
   },
@@ -76619,7 +77955,11 @@
       "Maureen Stapleton"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": true
   },
@@ -76675,7 +78015,11 @@
       "Elizabeth McGovern"
     ],
     "movies": [
-      "Ragtime"
+      {
+        "title": "Ragtime",
+        "tmdb_id": 25566,
+        "imdb_id": "tt0082970"
+      }
     ],
     "won": false
   },
@@ -76686,7 +78030,11 @@
       "Warren Beatty"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": true
   },
@@ -76742,7 +78090,11 @@
       "Steven Spielberg"
     ],
     "movies": [
-      "Raiders of the Lost Ark"
+      {
+        "title": "Raiders of the Lost Ark",
+        "tmdb_id": 85,
+        "imdb_id": "tt0082971"
+      }
     ],
     "won": false
   },
@@ -76779,7 +78131,11 @@
       "Dennis Potter"
     ],
     "movies": [
-      "Pennies from Heaven"
+      {
+        "title": "Pennies from Heaven",
+        "tmdb_id": 17450,
+        "imdb_id": "tt0082894"
+      }
     ],
     "won": false
   },
@@ -76791,7 +78147,11 @@
       "Sidney Lumet"
     ],
     "movies": [
-      "Prince of the City"
+      {
+        "title": "Prince of the City",
+        "tmdb_id": 32047,
+        "imdb_id": "tt0082945"
+      }
     ],
     "won": false
   },
@@ -76802,7 +78162,11 @@
       "Michael Weller"
     ],
     "movies": [
-      "Ragtime"
+      {
+        "title": "Ragtime",
+        "tmdb_id": 25566,
+        "imdb_id": "tt0082970"
+      }
     ],
     "won": false
   },
@@ -76874,7 +78238,11 @@
       "Trevor Griffiths"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": false
   },
@@ -76930,7 +78298,11 @@
       "Randy Newman"
     ],
     "movies": [
-      "Ragtime"
+      {
+        "title": "Ragtime",
+        "tmdb_id": 25566,
+        "imdb_id": "tt0082970"
+      }
     ],
     "won": false
   },
@@ -76941,7 +78313,11 @@
       "John Williams"
     ],
     "movies": [
-      "Raiders of the Lost Ark"
+      {
+        "title": "Raiders of the Lost Ark",
+        "tmdb_id": 85,
+        "imdb_id": "tt0082971"
+      }
     ],
     "won": false
   },
@@ -77008,7 +78384,11 @@
       "One More Hour"
     ],
     "movies": [
-      "Ragtime"
+      {
+        "title": "Ragtime",
+        "tmdb_id": 25566,
+        "imdb_id": "tt0082970"
+      }
     ],
     "won": false
   },
@@ -77310,7 +78690,11 @@
       "Michael D. Ford"
     ],
     "movies": [
-      "Raiders of the Lost Ark"
+      {
+        "title": "Raiders of the Lost Ark",
+        "tmdb_id": 85,
+        "imdb_id": "tt0082971"
+      }
     ],
     "won": true
   },
@@ -77354,7 +78738,11 @@
       "Peter Howitt"
     ],
     "movies": [
-      "Ragtime"
+      {
+        "title": "Ragtime",
+        "tmdb_id": 25566,
+        "imdb_id": "tt0082970"
+      }
     ],
     "won": false
   },
@@ -77366,7 +78754,11 @@
       "Michael Seaton"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": false
   },
@@ -77377,7 +78769,11 @@
       "Vittorio Storaro"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": true
   },
@@ -77418,7 +78814,11 @@
       "Miroslav Ondricek"
     ],
     "movies": [
-      "Ragtime"
+      {
+        "title": "Ragtime",
+        "tmdb_id": 25566,
+        "imdb_id": "tt0082970"
+      }
     ],
     "won": false
   },
@@ -77429,7 +78829,11 @@
       "Douglas Slocombe"
     ],
     "movies": [
-      "Raiders of the Lost Ark"
+      {
+        "title": "Raiders of the Lost Ark",
+        "tmdb_id": 85,
+        "imdb_id": "tt0082971"
+      }
     ],
     "won": false
   },
@@ -77440,7 +78844,11 @@
       "Michael Kahn"
     ],
     "movies": [
-      "Raiders of the Lost Ark"
+      {
+        "title": "Raiders of the Lost Ark",
+        "tmdb_id": 85,
+        "imdb_id": "tt0082971"
+      }
     ],
     "won": true
   },
@@ -77493,7 +78901,11 @@
       "Craig McKay"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": false
   },
@@ -77507,7 +78919,11 @@
       "Joe Johnston"
     ],
     "movies": [
-      "Raiders of the Lost Ark"
+      {
+        "title": "Raiders of the Lost Ark",
+        "tmdb_id": 85,
+        "imdb_id": "tt0082971"
+      }
     ],
     "won": true
   },
@@ -77539,7 +78955,11 @@
       "Roy Charman"
     ],
     "movies": [
-      "Raiders of the Lost Ark"
+      {
+        "title": "Raiders of the Lost Ark",
+        "tmdb_id": 85,
+        "imdb_id": "tt0082971"
+      }
     ],
     "won": true
   },
@@ -77587,7 +79007,11 @@
       "Al Overton Jr."
     ],
     "movies": [
-      "Pennies from Heaven"
+      {
+        "title": "Pennies from Heaven",
+        "tmdb_id": 17450,
+        "imdb_id": "tt0082894"
+      }
     ],
     "won": false
   },
@@ -77600,7 +79024,11 @@
       "Simon Kaye"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": false
   },
@@ -77612,7 +79040,11 @@
       "Richard Anderson"
     ],
     "movies": [
-      "Raiders of the Lost Ark"
+      {
+        "title": "Raiders of the Lost Ark",
+        "tmdb_id": 85,
+        "imdb_id": "tt0082971"
+      }
     ],
     "won": true
   },
@@ -77679,7 +79111,11 @@
       "Anna Hill Johnstone"
     ],
     "movies": [
-      "Ragtime"
+      {
+        "title": "Ragtime",
+        "tmdb_id": 25566,
+        "imdb_id": "tt0082970"
+      }
     ],
     "won": false
   },
@@ -77690,7 +79126,11 @@
       "Shirley Russell"
     ],
     "movies": [
-      "Reds"
+      {
+        "title": "Reds",
+        "tmdb_id": 18254,
+        "imdb_id": "tt0082979"
+      }
     ],
     "won": false
   },
@@ -77701,7 +79141,11 @@
       "Bob Mackie"
     ],
     "movies": [
-      "Pennies from Heaven"
+      {
+        "title": "Pennies from Heaven",
+        "tmdb_id": 17450,
+        "imdb_id": "tt0082894"
+      }
     ],
     "won": false
   },
@@ -78281,7 +79725,11 @@
       "Jerry Goldsmith"
     ],
     "movies": [
-      "Poltergeist"
+      {
+        "title": "Poltergeist",
+        "tmdb_id": 609,
+        "imdb_id": "tt0084516"
+      }
     ],
     "won": false
   },
@@ -78360,7 +79808,11 @@
       "Eye of the Tiger"
     ],
     "movies": [
-      "Rocky III"
+      {
+        "title": "Rocky III",
+        "tmdb_id": 1371,
+        "imdb_id": "tt0084602"
+      }
     ],
     "won": false
   },
@@ -78460,7 +79912,11 @@
       "Private Life"
     ],
     "movies": [
-      "Private Life"
+      {
+        "title": "Private Life",
+        "tmdb_id": 202783,
+        "imdb_id": "tt0083732"
+      }
     ],
     "won": false
   },
@@ -78961,7 +80417,11 @@
       "Bruce Nicholson"
     ],
     "movies": [
-      "Poltergeist"
+      {
+        "title": "Poltergeist",
+        "tmdb_id": 609,
+        "imdb_id": "tt0084516"
+      }
     ],
     "won": false
   },
@@ -79085,7 +80545,11 @@
       "Richard Anderson"
     ],
     "movies": [
-      "Poltergeist"
+      {
+        "title": "Poltergeist",
+        "tmdb_id": 609,
+        "imdb_id": "tt0084516"
+      }
     ],
     "won": false
   },
@@ -79097,7 +80561,11 @@
       "Michele Burke"
     ],
     "movies": [
-      "Quest for Fire"
+      {
+        "title": "Quest for Fire",
+        "tmdb_id": 62204,
+        "imdb_id": "tt0082484"
+      }
     ],
     "won": true
   },
@@ -79269,7 +80737,11 @@
       "Tom Conti"
     ],
     "movies": [
-      "Reuben, Reuben"
+      {
+        "title": "Reuben, Reuben",
+        "tmdb_id": 31944,
+        "imdb_id": "tt0084591"
+      }
     ],
     "won": false
   },
@@ -79590,7 +81062,11 @@
       "Julius J. Epstein"
     ],
     "movies": [
-      "Reuben, Reuben"
+      {
+        "title": "Reuben, Reuben",
+        "tmdb_id": 31944,
+        "imdb_id": "tt0084591"
+      }
     ],
     "won": false
   },
@@ -79689,7 +81165,11 @@
       "John Williams"
     ],
     "movies": [
-      "Return of the Jedi"
+      {
+        "title": "Return of the Jedi",
+        "tmdb_id": 1892,
+        "imdb_id": "tt0086190"
+      }
     ],
     "won": false
   },
@@ -80135,7 +81615,11 @@
       "Michael D. Ford"
     ],
     "movies": [
-      "Return of the Jedi"
+      {
+        "title": "Return of the Jedi",
+        "tmdb_id": 1892,
+        "imdb_id": "tt0086190"
+      }
     ],
     "won": false
   },
@@ -80324,7 +81808,11 @@
       "Phil Tippett"
     ],
     "movies": [
-      "Return of the Jedi"
+      {
+        "title": "Return of the Jedi",
+        "tmdb_id": 1892,
+        "imdb_id": "tt0086190"
+      }
     ],
     "won": true
   },
@@ -80370,7 +81858,11 @@
       "Tony Dawe"
     ],
     "movies": [
-      "Return of the Jedi"
+      {
+        "title": "Return of the Jedi",
+        "tmdb_id": 1892,
+        "imdb_id": "tt0086190"
+      }
     ],
     "won": false
   },
@@ -80420,7 +81912,11 @@
       "Ben Burtt"
     ],
     "movies": [
-      "Return of the Jedi"
+      {
+        "title": "Return of the Jedi",
+        "tmdb_id": 1892,
+        "imdb_id": "tt0086190"
+      }
     ],
     "won": false
   },
@@ -80539,7 +82035,11 @@
       "Places in the Heart"
     ],
     "movies": [
-      "Places in the Heart"
+      {
+        "title": "Places in the Heart",
+        "tmdb_id": 13681,
+        "imdb_id": "tt0087921"
+      }
     ],
     "won": false
   },
@@ -80628,7 +82128,11 @@
       "Sally Field"
     ],
     "movies": [
-      "Places in the Heart"
+      {
+        "title": "Places in the Heart",
+        "tmdb_id": 13681,
+        "imdb_id": "tt0087921"
+      }
     ],
     "won": true
   },
@@ -80717,7 +82221,11 @@
       "John Malkovich"
     ],
     "movies": [
-      "Places in the Heart"
+      {
+        "title": "Places in the Heart",
+        "tmdb_id": 13681,
+        "imdb_id": "tt0087921"
+      }
     ],
     "won": false
   },
@@ -80780,7 +82288,11 @@
       "Lindsay Crouse"
     ],
     "movies": [
-      "Places in the Heart"
+      {
+        "title": "Places in the Heart",
+        "tmdb_id": 13681,
+        "imdb_id": "tt0087921"
+      }
     ],
     "won": false
   },
@@ -80843,7 +82355,11 @@
       "Robert Benton"
     ],
     "movies": [
-      "Places in the Heart"
+      {
+        "title": "Places in the Heart",
+        "tmdb_id": 13681,
+        "imdb_id": "tt0087921"
+      }
     ],
     "won": false
   },
@@ -80952,7 +82468,11 @@
       "Robert Benton"
     ],
     "movies": [
-      "Places in the Heart"
+      {
+        "title": "Places in the Heart",
+        "tmdb_id": 13681,
+        "imdb_id": "tt0087921"
+      }
     ],
     "won": true
   },
@@ -81083,7 +82603,11 @@
       "Prince"
     ],
     "movies": [
-      "Purple Rain"
+      {
+        "title": "Purple Rain",
+        "tmdb_id": 13763,
+        "imdb_id": "tt0087957"
+      }
     ],
     "won": true
   },
@@ -81373,7 +82897,11 @@
       "Recollections of Pavlovsk"
     ],
     "movies": [
-      "Recollections of Pavlovsk"
+      {
+        "title": "Recollections of Pavlovsk",
+        "tmdb_id": 244662,
+        "imdb_id": "tt0087984"
+      }
     ],
     "won": false
   },
@@ -81414,7 +82942,11 @@
       "Paradise"
     ],
     "movies": [
-      "Paradise"
+      {
+        "title": "Paradise",
+        "tmdb_id": 209548,
+        "imdb_id": "tt0087880"
+      }
     ],
     "won": false
   },
@@ -81649,7 +83181,11 @@
       "Frank Morriss"
     ],
     "movies": [
-      "Romancing the Stone"
+      {
+        "title": "Romancing the Stone",
+        "tmdb_id": 9326,
+        "imdb_id": "tt0088011"
+      }
     ],
     "won": false
   },
@@ -81915,7 +83451,11 @@
       "Ann Roth"
     ],
     "movies": [
-      "Places in the Heart"
+      {
+        "title": "Places in the Heart",
+        "tmdb_id": 13681,
+        "imdb_id": "tt0087921"
+      }
     ],
     "won": false
   },
@@ -81967,7 +83507,11 @@
       "Prizzi's Honor"
     ],
     "movies": [
-      "Prizzi's Honor"
+      {
+        "title": "Prizzi's Honor",
+        "tmdb_id": 2075,
+        "imdb_id": "tt0089841"
+      }
     ],
     "won": false
   },
@@ -82030,7 +83574,11 @@
       "Jack Nicholson"
     ],
     "movies": [
-      "Prizzi's Honor"
+      {
+        "title": "Prizzi's Honor",
+        "tmdb_id": 2075,
+        "imdb_id": "tt0089841"
+      }
     ],
     "won": false
   },
@@ -82041,7 +83589,11 @@
       "Jon Voight"
     ],
     "movies": [
-      "Runaway Train"
+      {
+        "title": "Runaway Train",
+        "tmdb_id": 11893,
+        "imdb_id": "tt0089941"
+      }
     ],
     "won": false
   },
@@ -82145,7 +83697,11 @@
       "William Hickey"
     ],
     "movies": [
-      "Prizzi's Honor"
+      {
+        "title": "Prizzi's Honor",
+        "tmdb_id": 2075,
+        "imdb_id": "tt0089841"
+      }
     ],
     "won": false
   },
@@ -82171,7 +83727,11 @@
       "Eric Roberts"
     ],
     "movies": [
-      "Runaway Train"
+      {
+        "title": "Runaway Train",
+        "tmdb_id": 11893,
+        "imdb_id": "tt0089941"
+      }
     ],
     "won": false
   },
@@ -82182,7 +83742,11 @@
       "Anjelica Huston"
     ],
     "movies": [
-      "Prizzi's Honor"
+      {
+        "title": "Prizzi's Honor",
+        "tmdb_id": 2075,
+        "imdb_id": "tt0089841"
+      }
     ],
     "won": true
   },
@@ -82271,7 +83835,11 @@
       "John Huston"
     ],
     "movies": [
-      "Prizzi's Honor"
+      {
+        "title": "Prizzi's Honor",
+        "tmdb_id": 2075,
+        "imdb_id": "tt0089841"
+      }
     ],
     "won": false
   },
@@ -82282,7 +83850,11 @@
       "Akira Kurosawa"
     ],
     "movies": [
-      "Ran"
+      {
+        "title": "Ran",
+        "tmdb_id": 11645,
+        "imdb_id": "tt0089881"
+      }
     ],
     "won": false
   },
@@ -82346,7 +83918,11 @@
       "Janet Roach"
     ],
     "movies": [
-      "Prizzi's Honor"
+      {
+        "title": "Prizzi's Honor",
+        "tmdb_id": 2075,
+        "imdb_id": "tt0089841"
+      }
     ],
     "won": false
   },
@@ -82827,7 +84403,11 @@
       "Rainbow War"
     ],
     "movies": [
-      "Rainbow War"
+      {
+        "title": "Rainbow War",
+        "tmdb_id": 213614,
+        "imdb_id": "tt0089878"
+      }
     ],
     "won": false
   },
@@ -82884,7 +84464,11 @@
       "Shinobu Muraki"
     ],
     "movies": [
-      "Ran"
+      {
+        "title": "Ran",
+        "tmdb_id": 11645,
+        "imdb_id": "tt0089881"
+      }
     ],
     "won": false
   },
@@ -82950,7 +84534,11 @@
       "Asakazu Nakai"
     ],
     "movies": [
-      "Ran"
+      {
+        "title": "Ran",
+        "tmdb_id": 11645,
+        "imdb_id": "tt0089881"
+      }
     ],
     "won": false
   },
@@ -83017,7 +84605,11 @@
       "Kaja Fehr"
     ],
     "movies": [
-      "Prizzi's Honor"
+      {
+        "title": "Prizzi's Honor",
+        "tmdb_id": 2075,
+        "imdb_id": "tt0089841"
+      }
     ],
     "won": false
   },
@@ -83028,7 +84620,11 @@
       "Henry Richardson"
     ],
     "movies": [
-      "Runaway Train"
+      {
+        "title": "Runaway Train",
+        "tmdb_id": 11893,
+        "imdb_id": "tt0089941"
+      }
     ],
     "won": false
   },
@@ -83060,7 +84656,11 @@
       "Michael Lloyd"
     ],
     "movies": [
-      "Return to Oz"
+      {
+        "title": "Return to Oz",
+        "tmdb_id": 13155,
+        "imdb_id": "tt0089908"
+      }
     ],
     "won": false
   },
@@ -83203,7 +84803,11 @@
       "Frederick Brown"
     ],
     "movies": [
-      "Rambo: First Blood Part II"
+      {
+        "title": "Rambo: First Blood Part II",
+        "tmdb_id": 1369,
+        "imdb_id": "tt0089880"
+      }
     ],
     "won": false
   },
@@ -83241,7 +84845,11 @@
       "Carl Fullerton"
     ],
     "movies": [
-      "Remo Williams: The Adventure Begins"
+      {
+        "title": "Remo Williams: The Adventure Begins",
+        "tmdb_id": 10553,
+        "imdb_id": "tt0089901"
+      }
     ],
     "won": false
   },
@@ -83252,7 +84860,11 @@
       "Emi Wada"
     ],
     "movies": [
-      "Ran"
+      {
+        "title": "Ran",
+        "tmdb_id": 11645,
+        "imdb_id": "tt0089881"
+      }
     ],
     "won": true
   },
@@ -83300,7 +84912,11 @@
       "Donfeld"
     ],
     "movies": [
-      "Prizzi's Honor"
+      {
+        "title": "Prizzi's Honor",
+        "tmdb_id": 2075,
+        "imdb_id": "tt0089841"
+      }
     ],
     "won": false
   },
@@ -83311,7 +84927,11 @@
       "Platoon"
     ],
     "movies": [
-      "Platoon"
+      {
+        "title": "Platoon",
+        "tmdb_id": 792,
+        "imdb_id": "tt0091763"
+      }
     ],
     "won": true
   },
@@ -83389,7 +85009,11 @@
       "Dexter Gordon"
     ],
     "movies": [
-      "Round Midnight"
+      {
+        "title": "'Round Midnight",
+        "tmdb_id": 14670,
+        "imdb_id": "tt0090557"
+      }
     ],
     "won": false
   },
@@ -83482,7 +85106,11 @@
       "Kathleen Turner"
     ],
     "movies": [
-      "Peggy Sue Got Married"
+      {
+        "title": "Peggy Sue Got Married",
+        "tmdb_id": 10013,
+        "imdb_id": "tt0091738"
+      }
     ],
     "won": false
   },
@@ -83523,7 +85151,11 @@
       "Tom Berenger"
     ],
     "movies": [
-      "Platoon"
+      {
+        "title": "Platoon",
+        "tmdb_id": 792,
+        "imdb_id": "tt0091763"
+      }
     ],
     "won": false
   },
@@ -83534,7 +85166,11 @@
       "Willem Dafoe"
     ],
     "movies": [
-      "Platoon"
+      {
+        "title": "Platoon",
+        "tmdb_id": 792,
+        "imdb_id": "tt0091763"
+      }
     ],
     "won": false
   },
@@ -83646,7 +85282,11 @@
       "Oliver Stone"
     ],
     "movies": [
-      "Platoon"
+      {
+        "title": "Platoon",
+        "tmdb_id": 792,
+        "imdb_id": "tt0091763"
+      }
     ],
     "won": true
   },
@@ -83829,7 +85469,11 @@
       "Oliver Stone"
     ],
     "movies": [
-      "Platoon"
+      {
+        "title": "Platoon",
+        "tmdb_id": 792,
+        "imdb_id": "tt0091763"
+      }
     ],
     "won": false
   },
@@ -83852,7 +85496,11 @@
       "Herbie Hancock"
     ],
     "movies": [
-      "Round Midnight"
+      {
+        "title": "'Round Midnight",
+        "tmdb_id": 14670,
+        "imdb_id": "tt0090557"
+      }
     ],
     "won": true
   },
@@ -84144,7 +85792,11 @@
       "Red Grooms: Sunflower in a Hothouse"
     ],
     "movies": [
-      "Red Grooms: Sunflower in a Hothouse"
+      {
+        "title": "Red Grooms: Sunflower in a Hothouse",
+        "tmdb_id": 244681,
+        "imdb_id": "tt0091833"
+      }
     ],
     "won": false
   },
@@ -84207,7 +85859,11 @@
       "Precious Images"
     ],
     "movies": [
-      "Precious Images"
+      {
+        "title": "Precious Images",
+        "tmdb_id": 147081,
+        "imdb_id": "tt0091787"
+      }
     ],
     "won": true
   },
@@ -84333,7 +85989,11 @@
       "Jordan Cronenweth"
     ],
     "movies": [
-      "Peggy Sue Got Married"
+      {
+        "title": "Peggy Sue Got Married",
+        "tmdb_id": 10013,
+        "imdb_id": "tt0091738"
+      }
     ],
     "won": false
   },
@@ -84344,7 +86004,11 @@
       "Robert Richardson"
     ],
     "movies": [
-      "Platoon"
+      {
+        "title": "Platoon",
+        "tmdb_id": 792,
+        "imdb_id": "tt0091763"
+      }
     ],
     "won": false
   },
@@ -84381,7 +86045,11 @@
       "Claire Simpson"
     ],
     "movies": [
-      "Platoon"
+      {
+        "title": "Platoon",
+        "tmdb_id": 792,
+        "imdb_id": "tt0091763"
+      }
     ],
     "won": true
   },
@@ -84482,7 +86150,11 @@
       "William Neil"
     ],
     "movies": [
-      "Poltergeist II: The Other Side"
+      {
+        "title": "Poltergeist II: The Other Side",
+        "tmdb_id": 11133,
+        "imdb_id": "tt0091778"
+      }
     ],
     "won": false
   },
@@ -84496,7 +86168,11 @@
       "Simon Kaye"
     ],
     "movies": [
-      "Platoon"
+      {
+        "title": "Platoon",
+        "tmdb_id": 792,
+        "imdb_id": "tt0091763"
+      }
     ],
     "won": true
   },
@@ -84692,7 +86368,11 @@
       "Theadora Van Runkle"
     ],
     "movies": [
-      "Peggy Sue Got Married"
+      {
+        "title": "Peggy Sue Got Married",
+        "tmdb_id": 10013,
+        "imdb_id": "tt0091738"
+      }
     ],
     "won": false
   },
@@ -84703,7 +86383,11 @@
       "Anthony Powell"
     ],
     "movies": [
-      "Pirates"
+      {
+        "title": "Pirates",
+        "tmdb_id": 11483,
+        "imdb_id": "tt0091757"
+      }
     ],
     "won": false
   },
@@ -85269,7 +86953,11 @@
       "Woody Allen"
     ],
     "movies": [
-      "Radio Days"
+      {
+        "title": "Radio Days",
+        "tmdb_id": 30890,
+        "imdb_id": "tt0093818"
+      }
     ],
     "won": false
   },
@@ -85473,7 +87161,11 @@
       "Pathfinder"
     ],
     "movies": [
-      "Pathfinder"
+      {
+        "title": "Pathfinder",
+        "tmdb_id": 2172,
+        "imdb_id": "tt0093668"
+      }
     ],
     "won": false
   },
@@ -85519,7 +87211,11 @@
       "Radio Bikini"
     ],
     "movies": [
-      "Radio Bikini"
+      {
+        "title": "Radio Bikini",
+        "tmdb_id": 244698,
+        "imdb_id": "tt0093817"
+      }
     ],
     "won": false
   },
@@ -85649,7 +87345,11 @@
       "Ray's Male Heterosexual Dance Hall"
     ],
     "movies": [
-      "Ray's Male Heterosexual Dance Hall"
+      {
+        "title": "Ray's Male Heterosexual Dance Hall",
+        "tmdb_id": 211375,
+        "imdb_id": "tt0093826"
+      }
     ],
     "won": true
   },
@@ -85734,7 +87434,11 @@
       "George DeTitta Jr."
     ],
     "movies": [
-      "Radio Days"
+      {
+        "title": "Radio Days",
+        "tmdb_id": 30890,
+        "imdb_id": "tt0093818"
+      }
     ],
     "won": false
   },
@@ -85886,7 +87590,11 @@
       "Frank J. Urioste"
     ],
     "movies": [
-      "RoboCop"
+      {
+        "title": "RoboCop",
+        "tmdb_id": 5548,
+        "imdb_id": "tt0093870"
+      }
     ],
     "won": false
   },
@@ -85918,7 +87626,11 @@
       "Stan Winston"
     ],
     "movies": [
-      "Predator"
+      {
+        "title": "Predator",
+        "tmdb_id": 106,
+        "imdb_id": "tt0093773"
+      }
     ],
     "won": false
   },
@@ -85980,7 +87692,11 @@
       "Robert Wald"
     ],
     "movies": [
-      "RoboCop"
+      {
+        "title": "RoboCop",
+        "tmdb_id": 5548,
+        "imdb_id": "tt0093870"
+      }
     ],
     "won": false
   },
@@ -86006,7 +87722,11 @@
       "John Pospisil"
     ],
     "movies": [
-      "RoboCop"
+      {
+        "title": "RoboCop",
+        "tmdb_id": 5548,
+        "imdb_id": "tt0093870"
+      }
     ],
     "won": true
   },
@@ -86111,7 +87831,11 @@
       "Rain Man"
     ],
     "movies": [
-      "Rain Man"
+      {
+        "title": "Rain Man",
+        "tmdb_id": 380,
+        "imdb_id": "tt0095953"
+      }
     ],
     "won": true
   },
@@ -86174,7 +87898,11 @@
       "Dustin Hoffman"
     ],
     "movies": [
-      "Rain Man"
+      {
+        "title": "Rain Man",
+        "tmdb_id": 380,
+        "imdb_id": "tt0095953"
+      }
     ],
     "won": true
   },
@@ -86226,7 +87954,11 @@
       "Max von Sydow"
     ],
     "movies": [
-      "Pelle the Conqueror"
+      {
+        "title": "Pelle the Conqueror",
+        "tmdb_id": 11174,
+        "imdb_id": "tt0093713"
+      }
     ],
     "won": false
   },
@@ -86345,7 +88077,11 @@
       "River Phoenix"
     ],
     "movies": [
-      "Running on Empty"
+      {
+        "title": "Running on Empty",
+        "tmdb_id": 18197,
+        "imdb_id": "tt0096018"
+      }
     ],
     "won": false
   },
@@ -86434,7 +88170,11 @@
       "Barry Levinson"
     ],
     "movies": [
-      "Rain Man"
+      {
+        "title": "Rain Man",
+        "tmdb_id": 380,
+        "imdb_id": "tt0095953"
+      }
     ],
     "won": true
   },
@@ -86567,7 +88307,11 @@
       "Barry Morrow"
     ],
     "movies": [
-      "Rain Man"
+      {
+        "title": "Rain Man",
+        "tmdb_id": 380,
+        "imdb_id": "tt0095953"
+      }
     ],
     "won": true
   },
@@ -86625,7 +88369,11 @@
       "Naomi Foner"
     ],
     "movies": [
-      "Running on Empty"
+      {
+        "title": "Running on Empty",
+        "tmdb_id": 18197,
+        "imdb_id": "tt0096018"
+      }
     ],
     "won": false
   },
@@ -86688,7 +88436,11 @@
       "Hans Zimmer"
     ],
     "movies": [
-      "Rain Man"
+      {
+        "title": "Rain Man",
+        "tmdb_id": 380,
+        "imdb_id": "tt0095953"
+      }
     ],
     "won": false
   },
@@ -86740,7 +88492,11 @@
       "Pelle the Conqueror"
     ],
     "movies": [
-      "Pelle the Conqueror"
+      {
+        "title": "Pelle the Conqueror",
+        "tmdb_id": 11174,
+        "imdb_id": "tt0093713"
+      }
     ],
     "won": true
   },
@@ -86777,7 +88533,11 @@
       "Salaam Bombay!"
     ],
     "movies": [
-      "Salaam Bombay!"
+      {
+        "title": "Salaam Bombay!",
+        "tmdb_id": 45129,
+        "imdb_id": "tt0096028"
+      }
     ],
     "won": false
   },
@@ -86840,7 +88600,11 @@
       "Promises to Keep"
     ],
     "movies": [
-      "Promises to Keep"
+      {
+        "title": "Promises to Keep",
+        "tmdb_id": 149392,
+        "imdb_id": "tt0095918"
+      }
     ],
     "won": false
   },
@@ -86914,7 +88678,11 @@
       "Portrait of Imogen"
     ],
     "movies": [
-      "Portrait of Imogen"
+      {
+        "title": "Portrait of Imogen",
+        "tmdb_id": 244706,
+        "imdb_id": "tt0095892"
+      }
     ],
     "won": false
   },
@@ -87032,7 +88800,11 @@
       "Linda DeScenna"
     ],
     "movies": [
-      "Rain Man"
+      {
+        "title": "Rain Man",
+        "tmdb_id": 380,
+        "imdb_id": "tt0095953"
+      }
     ],
     "won": false
   },
@@ -87082,7 +88854,11 @@
       "John Seale"
     ],
     "movies": [
-      "Rain Man"
+      {
+        "title": "Rain Man",
+        "tmdb_id": 380,
+        "imdb_id": "tt0095953"
+      }
     ],
     "won": false
   },
@@ -87168,7 +88944,11 @@
       "Stu Linder"
     ],
     "movies": [
-      "Rain Man"
+      {
+        "title": "Rain Man",
+        "tmdb_id": 380,
+        "imdb_id": "tt0095953"
+      }
     ],
     "won": false
   },
@@ -87824,7 +89604,11 @@
       "Dianne Wiest"
     ],
     "movies": [
-      "Parenthood"
+      {
+        "title": "Parenthood",
+        "tmdb_id": 1552,
+        "imdb_id": "tt0098067"
+      }
     ],
     "won": false
   },
@@ -88148,7 +89932,11 @@
       "I Love to See You Smile"
     ],
     "movies": [
-      "Parenthood"
+      {
+        "title": "Parenthood",
+        "tmdb_id": 1552,
+        "imdb_id": "tt0098067"
+      }
     ],
     "won": false
   },
@@ -88999,7 +90787,11 @@
       "Jeremy Irons"
     ],
     "movies": [
-      "Reversal of Fortune"
+      {
+        "title": "Reversal of Fortune",
+        "tmdb_id": 38718,
+        "imdb_id": "tt0100486"
+      }
     ],
     "won": true
   },
@@ -89092,7 +90884,11 @@
       "Julia Roberts"
     ],
     "movies": [
-      "Pretty Woman"
+      {
+        "title": "Pretty Woman",
+        "tmdb_id": 114,
+        "imdb_id": "tt0100405"
+      }
     ],
     "won": false
   },
@@ -89103,7 +90899,11 @@
       "Meryl Streep"
     ],
     "movies": [
-      "Postcards from the Edge"
+      {
+        "title": "Postcards from the Edge",
+        "tmdb_id": 22414,
+        "imdb_id": "tt0100395"
+      }
     ],
     "won": false
   },
@@ -89304,7 +91104,11 @@
       "Barbet Schroeder"
     ],
     "movies": [
-      "Reversal of Fortune"
+      {
+        "title": "Reversal of Fortune",
+        "tmdb_id": 38718,
+        "imdb_id": "tt0100486"
+      }
     ],
     "won": false
   },
@@ -89387,7 +91191,11 @@
       "Nicholas Kazan"
     ],
     "movies": [
-      "Reversal of Fortune"
+      {
+        "title": "Reversal of Fortune",
+        "tmdb_id": 38718,
+        "imdb_id": "tt0100486"
+      }
     ],
     "won": false
   },
@@ -89574,7 +91382,11 @@
       "I'm Checkin' Out"
     ],
     "movies": [
-      "Postcards from the Edge"
+      {
+        "title": "Postcards from the Edge",
+        "tmdb_id": 22414,
+        "imdb_id": "tt0100395"
+      }
     ],
     "won": false
   },
@@ -89813,7 +91625,11 @@
       "Rose Kennedy: A Life to Remember"
     ],
     "movies": [
-      "Rose Kennedy: A Life to Remember"
+      {
+        "title": "Rose Kennedy: A Life to Remember",
+        "tmdb_id": 244728,
+        "imdb_id": "tt0100517"
+      }
     ],
     "won": false
   },
@@ -90563,7 +92379,11 @@
       "Laura Dern"
     ],
     "movies": [
-      "Rambling Rose"
+      {
+        "title": "Rambling Rose",
+        "tmdb_id": 32221,
+        "imdb_id": "tt0102753"
+      }
     ],
     "won": false
   },
@@ -90686,7 +92506,11 @@
       "Diane Ladd"
     ],
     "movies": [
-      "Rambling Rose"
+      {
+        "title": "Rambling Rose",
+        "tmdb_id": 32221,
+        "imdb_id": "tt0102753"
+      }
     ],
     "won": false
   },
@@ -91071,7 +92895,11 @@
       "(Everything I Do) I Do It For You"
     ],
     "movies": [
-      "Robin Hood: Prince of Thieves"
+      {
+        "title": "Robin Hood: Prince of Thieves",
+        "tmdb_id": 8367,
+        "imdb_id": "tt0102798"
+      }
     ],
     "won": false
   },
@@ -91134,7 +92962,11 @@
       "Raise the Red Lantern"
     ],
     "movies": [
-      "Raise the Red Lantern"
+      {
+        "title": "Raise the Red Lantern",
+        "tmdb_id": 10404,
+        "imdb_id": "tt0101640"
+      }
     ],
     "won": false
   },
@@ -92000,7 +93832,11 @@
       "Mary McDonnell"
     ],
     "movies": [
-      "Passion Fish"
+      {
+        "title": "Passion Fish",
+        "tmdb_id": 41768,
+        "imdb_id": "tt0105107"
+      }
     ],
     "won": false
   },
@@ -92351,7 +94187,11 @@
       "John Sayles"
     ],
     "movies": [
-      "Passion Fish"
+      {
+        "title": "Passion Fish",
+        "tmdb_id": 41768,
+        "imdb_id": "tt0105107"
+      }
     ],
     "won": false
   },
@@ -92747,10 +94587,14 @@
     "category": "Best Animated Short",
     "year": "1992",
     "nominees": [
-      "Reci, reci, reci"
+      "Words, Words, Words"
     ],
     "movies": [
-      "Reci, reci, reci"
+      {
+        "title": "Words, Words, Words",
+        "tmdb_id": 116152,
+        "imdb_id": "tt0105224"
+      }
     ],
     "won": false
   },
@@ -93407,7 +95251,11 @@
       "Tom Hanks"
     ],
     "movies": [
-      "Philadelphia"
+      {
+        "title": "Philadelphia",
+        "tmdb_id": 9800,
+        "imdb_id": "tt0107818"
+      }
     ],
     "won": true
   },
@@ -93808,7 +95656,11 @@
       "Ron Nyswaner"
     ],
     "movies": [
-      "Philadelphia"
+      {
+        "title": "Philadelphia",
+        "tmdb_id": 9800,
+        "imdb_id": "tt0107818"
+      }
     ],
     "won": false
   },
@@ -93887,7 +95739,11 @@
       "Streets of Philadelphia"
     ],
     "movies": [
-      "Philadelphia"
+      {
+        "title": "Philadelphia",
+        "tmdb_id": 9800,
+        "imdb_id": "tt0107818"
+      }
     ],
     "won": true
   },
@@ -93898,7 +95754,11 @@
       "Again"
     ],
     "movies": [
-      "Poetic Justice"
+      {
+        "title": "Poetic Justice",
+        "tmdb_id": 8291,
+        "imdb_id": "tt0107840"
+      }
     ],
     "won": false
   },
@@ -93909,7 +95769,11 @@
       "Philadelphia"
     ],
     "movies": [
-      "Philadelphia"
+      {
+        "title": "Philadelphia",
+        "tmdb_id": 9800,
+        "imdb_id": "tt0107818"
+      }
     ],
     "won": false
   },
@@ -94222,7 +96086,11 @@
       "Partners"
     ],
     "movies": [
-      "Partners"
+      {
+        "title": "Partners",
+        "tmdb_id": 244863,
+        "imdb_id": "tt0110781"
+      }
     ],
     "won": false
   },
@@ -94632,7 +96500,11 @@
       "Alan D'Angerio"
     ],
     "movies": [
-      "Philadelphia"
+      {
+        "title": "Philadelphia",
+        "tmdb_id": 9800,
+        "imdb_id": "tt0107818"
+      }
     ],
     "won": false
   },
@@ -94746,7 +96618,11 @@
       "Pulp Fiction"
     ],
     "movies": [
-      "Pulp Fiction"
+      {
+        "title": "Pulp Fiction",
+        "tmdb_id": 680,
+        "imdb_id": "tt0110912"
+      }
     ],
     "won": false
   },
@@ -94757,7 +96633,11 @@
       "Quiz Show"
     ],
     "movies": [
-      "Quiz Show"
+      {
+        "title": "Quiz Show",
+        "tmdb_id": 11450,
+        "imdb_id": "tt0110932"
+      }
     ],
     "won": false
   },
@@ -94831,7 +96711,11 @@
       "John Travolta"
     ],
     "movies": [
-      "Pulp Fiction"
+      {
+        "title": "Pulp Fiction",
+        "tmdb_id": 680,
+        "imdb_id": "tt0110912"
+      }
     ],
     "won": false
   },
@@ -94924,7 +96808,11 @@
       "Samuel L. Jackson"
     ],
     "movies": [
-      "Pulp Fiction"
+      {
+        "title": "Pulp Fiction",
+        "tmdb_id": 680,
+        "imdb_id": "tt0110912"
+      }
     ],
     "won": false
   },
@@ -94950,7 +96838,11 @@
       "Paul Scofield"
     ],
     "movies": [
-      "Quiz Show"
+      {
+        "title": "Quiz Show",
+        "tmdb_id": 11450,
+        "imdb_id": "tt0110932"
+      }
     ],
     "won": false
   },
@@ -95013,7 +96905,11 @@
       "Uma Thurman"
     ],
     "movies": [
-      "Pulp Fiction"
+      {
+        "title": "Pulp Fiction",
+        "tmdb_id": 680,
+        "imdb_id": "tt0110912"
+      }
     ],
     "won": false
   },
@@ -95080,7 +96976,11 @@
       "Robert Redford"
     ],
     "movies": [
-      "Quiz Show"
+      {
+        "title": "Quiz Show",
+        "tmdb_id": 11450,
+        "imdb_id": "tt0110932"
+      }
     ],
     "won": false
   },
@@ -95091,7 +96991,11 @@
       "Quentin Tarantino"
     ],
     "movies": [
-      "Pulp Fiction"
+      {
+        "title": "Pulp Fiction",
+        "tmdb_id": 680,
+        "imdb_id": "tt0110912"
+      }
     ],
     "won": false
   },
@@ -95143,7 +97047,11 @@
       "Paul Attanasio"
     ],
     "movies": [
-      "Quiz Show"
+      {
+        "title": "Quiz Show",
+        "tmdb_id": 11450,
+        "imdb_id": "tt0110932"
+      }
     ],
     "won": false
   },
@@ -95166,7 +97074,11 @@
       "Roger Avary"
     ],
     "movies": [
-      "Pulp Fiction"
+      {
+        "title": "Pulp Fiction",
+        "tmdb_id": 680,
+        "imdb_id": "tt0110912"
+      }
     ],
     "won": true
   },
@@ -95885,7 +97797,11 @@
       "Sally Menke"
     ],
     "movies": [
-      "Pulp Fiction"
+      {
+        "title": "Pulp Fiction",
+        "tmdb_id": 680,
+        "imdb_id": "tt0110912"
+      }
     ],
     "won": false
   },
@@ -96175,7 +98091,11 @@
       "Moidele Bickel"
     ],
     "movies": [
-      "Queen Margot"
+      {
+        "title": "Queen Margot",
+        "tmdb_id": 10452,
+        "imdb_id": "tt0110963"
+      }
     ],
     "won": false
   },
@@ -96451,7 +98371,11 @@
       "Tim Roth"
     ],
     "movies": [
-      "Rob Roy"
+      {
+        "title": "Rob Roy",
+        "tmdb_id": 11780,
+        "imdb_id": "tt0114287"
+      }
     ],
     "won": false
   },
@@ -96832,7 +98756,11 @@
       "Stephen Schwartz"
     ],
     "movies": [
-      "Pocahontas"
+      {
+        "title": "Pocahontas",
+        "tmdb_id": 10530,
+        "imdb_id": "tt0114148"
+      }
     ],
     "won": true
   },
@@ -96843,7 +98771,11 @@
       "John Williams"
     ],
     "movies": [
-      "Sabrina"
+      {
+        "title": "Sabrina",
+        "tmdb_id": 11860,
+        "imdb_id": "tt0114319"
+      }
     ],
     "won": false
   },
@@ -96887,7 +98819,11 @@
       "Colors of the Wind"
     ],
     "movies": [
-      "Pocahontas"
+      {
+        "title": "Pocahontas",
+        "tmdb_id": 10530,
+        "imdb_id": "tt0114148"
+      }
     ],
     "won": true
   },
@@ -96928,7 +98864,11 @@
       "Moonlight"
     ],
     "movies": [
-      "Sabrina"
+      {
+        "title": "Sabrina",
+        "tmdb_id": 11860,
+        "imdb_id": "tt0114319"
+      }
     ],
     "won": false
   },
@@ -97199,7 +99139,11 @@
       "Runaway Brain"
     ],
     "movies": [
-      "Runaway Brain"
+      {
+        "title": "Runaway Brain",
+        "tmdb_id": 67166,
+        "imdb_id": "tt0114308"
+      }
     ],
     "won": false
   },
@@ -97281,7 +99225,11 @@
       "Eugenio Zanetti"
     ],
     "movies": [
-      "Restoration"
+      {
+        "title": "Restoration",
+        "tmdb_id": 35196,
+        "imdb_id": "tt0114272"
+      }
     ],
     "won": true
   },
@@ -97340,7 +99288,11 @@
       "Tony Burrough"
     ],
     "movies": [
-      "Richard III"
+      {
+        "title": "Richard III",
+        "tmdb_id": 31174,
+        "imdb_id": "tt0114279"
+      }
     ],
     "won": false
   },
@@ -97678,7 +99630,11 @@
       "Colleen Callaghan"
     ],
     "movies": [
-      "Roommates"
+      {
+        "title": "Roommates",
+        "tmdb_id": 161495,
+        "imdb_id": "tt0114296"
+      }
     ],
     "won": false
   },
@@ -97705,7 +99661,11 @@
       "James Acheson"
     ],
     "movies": [
-      "Restoration"
+      {
+        "title": "Restoration",
+        "tmdb_id": 35196,
+        "imdb_id": "tt0114272"
+      }
     ],
     "won": true
   },
@@ -97758,7 +99718,11 @@
       "Shuna Harwood"
     ],
     "movies": [
-      "Richard III"
+      {
+        "title": "Richard III",
+        "tmdb_id": 31174,
+        "imdb_id": "tt0114279"
+      }
     ],
     "won": false
   },
@@ -97999,7 +99963,11 @@
       "Edward Norton"
     ],
     "movies": [
-      "Primal Fear"
+      {
+        "title": "Primal Fear",
+        "tmdb_id": 1592,
+        "imdb_id": "tt0117381"
+      }
     ],
     "won": false
   },
@@ -98498,7 +100466,11 @@
       "Prisoner of the Mountains"
     ],
     "movies": [
-      "Prisoner of the Mountains"
+      {
+        "title": "Prisoner of the Mountains",
+        "tmdb_id": 55936,
+        "imdb_id": "tt0116754"
+      }
     ],
     "won": false
   },
@@ -98509,7 +100481,11 @@
       "Ridicule"
     ],
     "movies": [
-      "Ridicule"
+      {
+        "title": "Ridicule",
+        "tmdb_id": 12709,
+        "imdb_id": "tt0117477"
+      }
     ],
     "won": false
   },
@@ -98646,7 +100622,11 @@
       "Quest"
     ],
     "movies": [
-      "Quest"
+      {
+        "title": "Quest",
+        "tmdb_id": 93114,
+        "imdb_id": "tt0117419"
+      }
     ],
     "won": true
   },
@@ -100257,7 +102237,11 @@
       "Redux Riding Hood"
     ],
     "movies": [
-      "Redux Riding Hood"
+      {
+        "title": "Redux Riding Hood",
+        "tmdb_id": 121076,
+        "imdb_id": "tt0141560"
+      }
     ],
     "won": false
   },
@@ -100265,10 +102249,14 @@
     "category": "Best Animated Short",
     "year": "1997",
     "nominees": [
-      "Rusalka"
+      "Rusalka (1909)"
     ],
     "movies": [
-      "Rusalka"
+      {
+        "title": "Rusalka (1909)",
+        "tmdb_id": 1262731,
+        "imdb_id": null
+      }
     ],
     "won": false
   },
@@ -101118,7 +103106,11 @@
       "Kathy Bates"
     ],
     "movies": [
-      "Primary Colors"
+      {
+        "title": "Primary Colors",
+        "tmdb_id": 9440,
+        "imdb_id": "tt0119942"
+      }
     ],
     "won": false
   },
@@ -101263,7 +103255,11 @@
       "Elaine May"
     ],
     "movies": [
-      "Primary Colors"
+      {
+        "title": "Primary Colors",
+        "tmdb_id": 9440,
+        "imdb_id": "tt0119942"
+      }
     ],
     "won": false
   },
@@ -101396,7 +103392,11 @@
       "Randy Newman"
     ],
     "movies": [
-      "Pleasantville"
+      {
+        "title": "Pleasantville",
+        "tmdb_id": 2657,
+        "imdb_id": "tt0120789"
+      }
     ],
     "won": false
   },
@@ -101472,7 +103472,11 @@
       "Marc Shaiman"
     ],
     "movies": [
-      "Patch Adams"
+      {
+        "title": "Patch Adams",
+        "tmdb_id": 10312,
+        "imdb_id": "tt0129290"
+      }
     ],
     "won": false
   },
@@ -101547,7 +103551,11 @@
       "The Prayer"
     ],
     "movies": [
-      "Quest for Camelot"
+      {
+        "title": "Quest for Camelot",
+        "tmdb_id": 18937,
+        "imdb_id": "tt0120800"
+      }
     ],
     "won": false
   },
@@ -101677,7 +103685,11 @@
       "Regret to Inform"
     ],
     "movies": [
-      "Regret to Inform"
+      {
+        "title": "Regret to Inform",
+        "tmdb_id": 113279,
+        "imdb_id": "tt0181786"
+      }
     ],
     "won": false
   },
@@ -101892,7 +103904,11 @@
       "Jay Hart"
     ],
     "movies": [
-      "Pleasantville"
+      {
+        "title": "Pleasantville",
+        "tmdb_id": 2657,
+        "imdb_id": "tt0120789"
+      }
     ],
     "won": false
   },
@@ -102293,7 +104309,11 @@
       "Judianna Makovsky"
     ],
     "movies": [
-      "Pleasantville"
+      {
+        "title": "Pleasantville",
+        "tmdb_id": 2657,
+        "imdb_id": "tt0120789"
+      }
     ],
     "won": false
   },
@@ -103832,7 +105852,11 @@
       "Ed Harris"
     ],
     "movies": [
-      "Pollock"
+      {
+        "title": "Pollock",
+        "tmdb_id": 12509,
+        "imdb_id": "tt0183659"
+      }
     ],
     "won": false
   },
@@ -103843,7 +105867,11 @@
       "Geoffrey Rush"
     ],
     "movies": [
-      "Quills"
+      {
+        "title": "Quills",
+        "tmdb_id": 10876,
+        "imdb_id": "tt0180073"
+      }
     ],
     "won": false
   },
@@ -103895,7 +105923,11 @@
       "Ellen Burstyn"
     ],
     "movies": [
-      "Requiem for a Dream"
+      {
+        "title": "Requiem for a Dream",
+        "tmdb_id": 641,
+        "imdb_id": "tt0180093"
+      }
     ],
     "won": false
   },
@@ -103980,7 +106012,11 @@
       "Marcia Gay Harden"
     ],
     "movies": [
-      "Pollock"
+      {
+        "title": "Pollock",
+        "tmdb_id": 12509,
+        "imdb_id": "tt0183659"
+      }
     ],
     "won": true
   },
@@ -104625,10 +106661,14 @@
     "category": "Best Animated Short",
     "year": "2000",
     "nominees": [
-      "Periwig Maker"
+      "The Periwig-Maker"
     ],
     "movies": [
-      "Periwig Maker"
+      {
+        "title": "The Periwig-Maker",
+        "tmdb_id": 48522,
+        "imdb_id": "tt0239797"
+      }
     ],
     "won": false
   },
@@ -104639,7 +106679,11 @@
       "Rejected"
     ],
     "movies": [
-      "Rejected"
+      {
+        "title": "Rejected",
+        "tmdb_id": 32536,
+        "imdb_id": "tt0234588"
+      }
     ],
     "won": false
   },
@@ -104647,10 +106691,14 @@
     "category": "Best Live Action Short (Comedy or One Reel or Regular)",
     "year": "2000",
     "nominees": [
-      "Quiero ser (I want to be...)"
+      "I Want to Be"
     ],
     "movies": [
-      "Quiero ser (I want to be...)"
+      {
+        "title": "I Want to Be",
+        "tmdb_id": 244954,
+        "imdb_id": "tt0216131"
+      }
     ],
     "won": true
   },
@@ -104765,7 +106813,11 @@
       "Jill Quertier"
     ],
     "movies": [
-      "Quills"
+      {
+        "title": "Quills",
+        "tmdb_id": 10876,
+        "imdb_id": "tt0180073"
+      }
     ],
     "won": false
   },
@@ -105174,7 +107226,11 @@
       "Jacqueline West"
     ],
     "movies": [
-      "Quills"
+      {
+        "title": "Quills",
+        "tmdb_id": 10876,
+        "imdb_id": "tt0180073"
+      }
     ],
     "won": false
   },
@@ -105857,7 +107913,11 @@
       "There You'll Be"
     ],
     "movies": [
-      "Pearl Harbor"
+      {
+        "title": "Pearl Harbor",
+        "tmdb_id": 676,
+        "imdb_id": "tt0213149"
+      }
     ],
     "won": false
   },
@@ -106010,7 +108070,11 @@
       "Promises"
     ],
     "movies": [
-      "Promises"
+      {
+        "title": "Promises",
+        "tmdb_id": 38880,
+        "imdb_id": "tt0282864"
+      }
     ],
     "won": false
   },
@@ -106494,7 +108558,11 @@
       "Ben Snow"
     ],
     "movies": [
-      "Pearl Harbor"
+      {
+        "title": "Pearl Harbor",
+        "tmdb_id": 676,
+        "imdb_id": "tt0213149"
+      }
     ],
     "won": false
   },
@@ -106573,7 +108641,11 @@
       "Kevin O'Connell"
     ],
     "movies": [
-      "Pearl Harbor"
+      {
+        "title": "Pearl Harbor",
+        "tmdb_id": 676,
+        "imdb_id": "tt0213149"
+      }
     ],
     "won": false
   },
@@ -106585,7 +108657,11 @@
       "Christopher Boyes"
     ],
     "movies": [
-      "Pearl Harbor"
+      {
+        "title": "Pearl Harbor",
+        "tmdb_id": 676,
+        "imdb_id": "tt0213149"
+      }
     ],
     "won": true
   },
@@ -106948,7 +109024,11 @@
       "Paul Newman"
     ],
     "movies": [
-      "Road to Perdition"
+      {
+        "title": "Road to Perdition",
+        "tmdb_id": 4147,
+        "imdb_id": "tt0257044"
+      }
     ],
     "won": false
   },
@@ -107319,7 +109399,11 @@
       "Thomas Newman"
     ],
     "movies": [
-      "Road to Perdition"
+      {
+        "title": "Road to Perdition",
+        "tmdb_id": 4147,
+        "imdb_id": "tt0257044"
+      }
     ],
     "won": false
   },
@@ -107495,7 +109579,11 @@
       "Prisoner of Paradise"
     ],
     "movies": [
-      "Prisoner of Paradise"
+      {
+        "title": "Prisoner of Paradise",
+        "tmdb_id": 112902,
+        "imdb_id": "tt0316013"
+      }
     ],
     "won": false
   },
@@ -107843,7 +109931,11 @@
       "Nancy Haigh"
     ],
     "movies": [
-      "Road to Perdition"
+      {
+        "title": "Road to Perdition",
+        "tmdb_id": 4147,
+        "imdb_id": "tt0257044"
+      }
     ],
     "won": false
   },
@@ -107854,7 +109946,11 @@
       "Conrad Hall"
     ],
     "movies": [
-      "Road to Perdition"
+      {
+        "title": "Road to Perdition",
+        "tmdb_id": 4147,
+        "imdb_id": "tt0257044"
+      }
     ],
     "won": true
   },
@@ -108076,7 +110172,11 @@
       "John Pritchett"
     ],
     "movies": [
-      "Road to Perdition"
+      {
+        "title": "Road to Perdition",
+        "tmdb_id": 4147,
+        "imdb_id": "tt0257044"
+      }
     ],
     "won": false
   },
@@ -108128,7 +110228,11 @@
       "Scott Hecker"
     ],
     "movies": [
-      "Road to Perdition"
+      {
+        "title": "Road to Perdition",
+        "tmdb_id": 4147,
+        "imdb_id": "tt0257044"
+      }
     ],
     "won": false
   },
@@ -108316,7 +110420,11 @@
       "Johnny Depp"
     ],
     "movies": [
-      "Pirates of the Caribbean: The Curse of the Black Pearl"
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "tmdb_id": 22,
+        "imdb_id": "tt0325980"
+      }
     ],
     "won": false
   },
@@ -108536,7 +110644,11 @@
       "Patricia Clarkson"
     ],
     "movies": [
-      "Pieces of April"
+      {
+        "title": "Pieces of April",
+        "tmdb_id": 1550,
+        "imdb_id": "tt0311648"
+      }
     ],
     "won": false
   },
@@ -109523,7 +111635,11 @@
       "Terry Frazee"
     ],
     "movies": [
-      "Pirates of the Caribbean: The Curse of the Black Pearl"
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "tmdb_id": 22,
+        "imdb_id": "tt0325980"
+      }
     ],
     "won": false
   },
@@ -109581,7 +111697,11 @@
       "Lee Orloff"
     ],
     "movies": [
-      "Pirates of the Caribbean: The Curse of the Black Pearl"
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "tmdb_id": 22,
+        "imdb_id": "tt0325980"
+      }
     ],
     "won": false
   },
@@ -109637,7 +111757,11 @@
       "George Watters"
     ],
     "movies": [
-      "Pirates of the Caribbean: The Curse of the Black Pearl"
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "tmdb_id": 22,
+        "imdb_id": "tt0325980"
+      }
     ],
     "won": false
   },
@@ -109661,7 +111785,11 @@
       "Martin Samuel"
     ],
     "movies": [
-      "Pirates of the Caribbean: The Curse of the Black Pearl"
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "tmdb_id": 22,
+        "imdb_id": "tt0325980"
+      }
     ],
     "won": false
   },
@@ -109793,7 +111921,11 @@
       "Ray"
     ],
     "movies": [
-      "Ray"
+      {
+        "title": "Ray",
+        "tmdb_id": 1677,
+        "imdb_id": "tt0350258"
+      }
     ],
     "won": false
   },
@@ -109815,7 +111947,11 @@
       "Jamie Foxx"
     ],
     "movies": [
-      "Ray"
+      {
+        "title": "Ray",
+        "tmdb_id": 1677,
+        "imdb_id": "tt0350258"
+      }
     ],
     "won": true
   },
@@ -110102,7 +112238,11 @@
       "Taylor Hackford"
     ],
     "movies": [
-      "Ray"
+      {
+        "title": "Ray",
+        "tmdb_id": 1677,
+        "imdb_id": "tt0350258"
+      }
     ],
     "won": false
   },
@@ -110623,7 +112763,11 @@
       "Ryan"
     ],
     "movies": [
-      "Ryan"
+      {
+        "title": "Ryan",
+        "tmdb_id": 48329,
+        "imdb_id": "tt0414469"
+      }
     ],
     "won": true
   },
@@ -110952,7 +113096,11 @@
       "Paul Hirsch"
     ],
     "movies": [
-      "Ray"
+      {
+        "title": "Ray",
+        "tmdb_id": 1677,
+        "imdb_id": "tt0350258"
+      }
     ],
     "won": false
   },
@@ -111016,7 +113164,11 @@
       "Steve Cantamessa"
     ],
     "movies": [
-      "Ray"
+      {
+        "title": "Ray",
+        "tmdb_id": 1677,
+        "imdb_id": "tt0350258"
+      }
     ],
     "won": true
   },
@@ -111207,7 +113359,11 @@
       "Sharen Davis"
     ],
     "movies": [
-      "Ray"
+      {
+        "title": "Ray",
+        "tmdb_id": 1677,
+        "imdb_id": "tt0350258"
+      }
     ],
     "won": false
   },
@@ -111401,7 +113557,11 @@
       "Keira Knightley"
     ],
     "movies": [
-      "Pride & Prejudice"
+      {
+        "title": "Pride & Prejudice",
+        "tmdb_id": 4348,
+        "imdb_id": "tt0414387"
+      }
     ],
     "won": false
   },
@@ -111842,7 +114002,11 @@
       "Dario Marianelli"
     ],
     "movies": [
-      "Pride & Prejudice"
+      {
+        "title": "Pride & Prejudice",
+        "tmdb_id": 4348,
+        "imdb_id": "tt0414387"
+      }
     ],
     "won": false
   },
@@ -111935,7 +114099,11 @@
       "Paradise Now"
     ],
     "movies": [
-      "Paradise Now"
+      {
+        "title": "Paradise Now",
+        "tmdb_id": 67,
+        "imdb_id": "tt0445620"
+      }
     ],
     "won": false
   },
@@ -112321,7 +114489,11 @@
       "Katie Spencer"
     ],
     "movies": [
-      "Pride & Prejudice"
+      {
+        "title": "Pride & Prejudice",
+        "tmdb_id": 4348,
+        "imdb_id": "tt0414387"
+      }
     ],
     "won": false
   },
@@ -112719,7 +114891,11 @@
       "Jacqueline Durran"
     ],
     "movies": [
-      "Pride & Prejudice"
+      {
+        "title": "Pride & Prejudice",
+        "tmdb_id": 4348,
+        "imdb_id": "tt0414387"
+      }
     ],
     "won": false
   },
@@ -113269,7 +115445,11 @@
       "Guillermo del Toro"
     ],
     "movies": [
-      "Pan's Labyrinth"
+      {
+        "title": "Pan's Labyrinth",
+        "tmdb_id": 1417,
+        "imdb_id": "tt0457430"
+      }
     ],
     "won": false
   },
@@ -113332,7 +115512,11 @@
       "Javier Navarrete"
     ],
     "movies": [
-      "Pan's Labyrinth"
+      {
+        "title": "Pan's Labyrinth",
+        "tmdb_id": 1417,
+        "imdb_id": "tt0457430"
+      }
     ],
     "won": false
   },
@@ -113470,7 +115654,11 @@
       "Pan's Labyrinth"
     ],
     "movies": [
-      "Pan's Labyrinth"
+      {
+        "title": "Pan's Labyrinth",
+        "tmdb_id": 1417,
+        "imdb_id": "tt0457430"
+      }
     ],
     "won": false
   },
@@ -113578,7 +115766,11 @@
       "Recycled Life"
     ],
     "movies": [
-      "Recycled Life"
+      {
+        "title": "Recycled Life",
+        "tmdb_id": 58919,
+        "imdb_id": "tt0859631"
+      }
     ],
     "won": false
   },
@@ -113589,7 +115781,11 @@
       "Rehearsing a Dream"
     ],
     "movies": [
-      "Rehearsing a Dream"
+      {
+        "title": "Rehearsing a Dream",
+        "tmdb_id": 245020,
+        "imdb_id": "tt0982919"
+      }
     ],
     "won": false
   },
@@ -113791,7 +115987,11 @@
       "Pilar Revuelta"
     ],
     "movies": [
-      "Pan's Labyrinth"
+      {
+        "title": "Pan's Labyrinth",
+        "tmdb_id": 1417,
+        "imdb_id": "tt0457430"
+      }
     ],
     "won": true
   },
@@ -113832,7 +116032,11 @@
       "Cheryl A. Carasik"
     ],
     "movies": [
-      "Pirates of the Caribbean: Dead Man's Chest"
+      {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "tmdb_id": 58,
+        "imdb_id": "tt0383574"
+      }
     ],
     "won": false
   },
@@ -113855,7 +116059,11 @@
       "Guillermo Navarro"
     ],
     "movies": [
-      "Pan's Labyrinth"
+      {
+        "title": "Pan's Labyrinth",
+        "tmdb_id": 1417,
+        "imdb_id": "tt0457430"
+      }
     ],
     "won": true
   },
@@ -113988,7 +116196,11 @@
       "Allen Hall"
     ],
     "movies": [
-      "Pirates of the Caribbean: Dead Man's Chest"
+      {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "tmdb_id": 58,
+        "imdb_id": "tt0383574"
+      }
     ],
     "won": true
   },
@@ -114002,7 +116214,11 @@
       "John Frazier"
     ],
     "movies": [
-      "Poseidon"
+      {
+        "title": "Poseidon",
+        "tmdb_id": 503,
+        "imdb_id": "tt0409182"
+      }
     ],
     "won": false
   },
@@ -114098,7 +116314,11 @@
       "Lee Orloff"
     ],
     "movies": [
-      "Pirates of the Caribbean: Dead Man's Chest"
+      {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "tmdb_id": 58,
+        "imdb_id": "tt0383574"
+      }
     ],
     "won": false
   },
@@ -114173,7 +116393,11 @@
       "George Watters"
     ],
     "movies": [
-      "Pirates of the Caribbean: Dead Man's Chest"
+      {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "tmdb_id": 58,
+        "imdb_id": "tt0383574"
+      }
     ],
     "won": false
   },
@@ -114185,7 +116409,11 @@
       "Montse Ribe"
     ],
     "movies": [
-      "Pan's Labyrinth"
+      {
+        "title": "Pan's Labyrinth",
+        "tmdb_id": 1417,
+        "imdb_id": "tt0457430"
+      }
     ],
     "won": true
   },
@@ -114833,7 +117061,11 @@
       "Jim Capobianco"
     ],
     "movies": [
-      "Ratatouille"
+      {
+        "title": "Ratatouille",
+        "tmdb_id": 2062,
+        "imdb_id": "tt0382932"
+      }
     ],
     "won": false
   },
@@ -114896,7 +117128,11 @@
       "Michael Giacchino"
     ],
     "movies": [
-      "Ratatouille"
+      {
+        "title": "Ratatouille",
+        "tmdb_id": 2062,
+        "imdb_id": "tt0382932"
+      }
     ],
     "won": false
   },
@@ -115161,7 +117397,11 @@
       "Salim Baba"
     ],
     "movies": [
-      "Salim Baba"
+      {
+        "title": "Salim Baba",
+        "tmdb_id": 245026,
+        "imdb_id": "tt1157707"
+      }
     ],
     "won": false
   },
@@ -115183,7 +117423,11 @@
       "Ratatouille"
     ],
     "movies": [
-      "Ratatouille"
+      {
+        "title": "Ratatouille",
+        "tmdb_id": 2062,
+        "imdb_id": "tt0382932"
+      }
     ],
     "won": true
   },
@@ -115194,7 +117438,11 @@
       "Persepolis"
     ],
     "movies": [
-      "Persepolis"
+      {
+        "title": "Persepolis",
+        "tmdb_id": 2011,
+        "imdb_id": "tt0808417"
+      }
     ],
     "won": false
   },
@@ -115213,10 +117461,14 @@
     "category": "Best Animated Short",
     "year": "2007",
     "nominees": [
-      "Peter and the Wolf"
+      "Peter & the Wolf"
     ],
     "movies": [
-      "Peter and the Wolf"
+      {
+        "title": "Peter & the Wolf",
+        "tmdb_id": 14518,
+        "imdb_id": "tt0863136"
+      }
     ],
     "won": true
   },
@@ -115562,7 +117814,11 @@
       "John Frazier"
     ],
     "movies": [
-      "Pirates of the Caribbean: At World's End"
+      {
+        "title": "Pirates of the Caribbean: At World's End",
+        "tmdb_id": 285,
+        "imdb_id": "tt0449088"
+      }
     ],
     "won": false
   },
@@ -115637,7 +117893,11 @@
       "Doc Kane"
     ],
     "movies": [
-      "Ratatouille"
+      {
+        "title": "Ratatouille",
+        "tmdb_id": 2062,
+        "imdb_id": "tt0382932"
+      }
     ],
     "won": false
   },
@@ -115689,7 +117949,11 @@
       "Michael Silvers"
     ],
     "movies": [
-      "Ratatouille"
+      {
+        "title": "Ratatouille",
+        "tmdb_id": 2062,
+        "imdb_id": "tt0382932"
+      }
     ],
     "won": false
   },
@@ -115757,7 +118021,11 @@
       "Martin Samuel"
     ],
     "movies": [
-      "Pirates of the Caribbean: At World's End"
+      {
+        "title": "Pirates of the Caribbean: At World's End",
+        "tmdb_id": 285,
+        "imdb_id": "tt0449088"
+      }
     ],
     "won": false
   },
@@ -115976,7 +118244,11 @@
       "Anne Hathaway"
     ],
     "movies": [
-      "Rachel Getting Married"
+      {
+        "title": "Rachel Getting Married",
+        "tmdb_id": 14976,
+        "imdb_id": "tt1084950"
+      }
     ],
     "won": false
   },
@@ -116084,7 +118356,11 @@
       "Michael Shannon"
     ],
     "movies": [
-      "Revolutionary Road"
+      {
+        "title": "Revolutionary Road",
+        "tmdb_id": 4148,
+        "imdb_id": "tt0959337"
+      }
     ],
     "won": false
   },
@@ -116491,7 +118767,11 @@
       "Revanche"
     ],
     "movies": [
-      "Revanche"
+      {
+        "title": "Revanche",
+        "tmdb_id": 15451,
+        "imdb_id": "tt1173745"
+      }
     ],
     "won": false
   },
@@ -116706,7 +118986,11 @@
       "Presto"
     ],
     "movies": [
-      "Presto"
+      {
+        "title": "Presto",
+        "tmdb_id": 13042,
+        "imdb_id": "tt1245104"
+      }
     ],
     "won": false
   },
@@ -116848,7 +119132,11 @@
       "Debra Schutt"
     ],
     "movies": [
-      "Revolutionary Road"
+      {
+        "title": "Revolutionary Road",
+        "tmdb_id": 4148,
+        "imdb_id": "tt0959337"
+      }
     ],
     "won": false
   },
@@ -117248,7 +119536,11 @@
       "Albert Wolsky"
     ],
     "movies": [
-      "Revolutionary Road"
+      {
+        "title": "Revolutionary Road",
+        "tmdb_id": 4148,
+        "imdb_id": "tt0959337"
+      }
     ],
     "won": false
   },
@@ -117338,10 +119630,14 @@
     "category": "Best Picture",
     "year": "2009",
     "nominees": [
-      "Precious: Based on the Novel Push by Sapphire"
+      "Precious"
     ],
     "movies": [
-      "Precious: Based on the Novel Push by Sapphire"
+      {
+        "title": "Precious",
+        "tmdb_id": 25793,
+        "imdb_id": "tt0929632"
+      }
     ],
     "won": false
   },
@@ -117493,7 +119789,11 @@
       "Gabourey Sidibe"
     ],
     "movies": [
-      "Precious: Based on the Novel Push by Sapphire"
+      {
+        "title": "Precious",
+        "tmdb_id": 25793,
+        "imdb_id": "tt0929632"
+      }
     ],
     "won": false
   },
@@ -117582,7 +119882,11 @@
       "Mo'Nique"
     ],
     "movies": [
-      "Precious: Based on the Novel Push by Sapphire"
+      {
+        "title": "Precious",
+        "tmdb_id": 25793,
+        "imdb_id": "tt0929632"
+      }
     ],
     "won": true
   },
@@ -117671,7 +119975,11 @@
       "Lee Daniels"
     ],
     "movies": [
-      "Precious: Based on the Novel Push by Sapphire"
+      {
+        "title": "Precious",
+        "tmdb_id": 25793,
+        "imdb_id": "tt0929632"
+      }
     ],
     "won": false
   },
@@ -117708,7 +120016,11 @@
       "Geoffrey Fletcher"
     ],
     "movies": [
-      "Precious: Based on the Novel Push by Sapphire"
+      {
+        "title": "Precious",
+        "tmdb_id": 25793,
+        "imdb_id": "tt0929632"
+      }
     ],
     "won": true
   },
@@ -117948,7 +120260,11 @@
       "Loin de Paname"
     ],
     "movies": [
-      "Paris 36"
+      {
+        "title": "Paris 36",
+        "tmdb_id": 15457,
+        "imdb_id": "tt0948535"
+      }
     ],
     "won": false
   },
@@ -118149,10 +120465,14 @@
     "category": "Best Documentary Short",
     "year": "2009",
     "nominees": [
-      "Rabbit a la Berlin"
+      "Rabbit à la Berlin"
     ],
     "movies": [
-      "Rabbit a la Berlin"
+      {
+        "title": "Rabbit à la Berlin",
+        "tmdb_id": 129427,
+        "imdb_id": "tt1410281"
+      }
     ],
     "won": false
   },
@@ -118560,7 +120880,11 @@
       "Joe Klotz"
     ],
     "movies": [
-      "Precious: Based on the Novel Push by Sapphire"
+      {
+        "title": "Precious",
+        "tmdb_id": 25793,
+        "imdb_id": "tt0929632"
+      }
     ],
     "won": false
   },
@@ -119079,7 +121403,11 @@
       "Nicole Kidman"
     ],
     "movies": [
-      "Rabbit Hole"
+      {
+        "title": "Rabbit Hole",
+        "tmdb_id": 27585,
+        "imdb_id": "tt0935075"
+      }
     ],
     "won": false
   },
@@ -119662,7 +121990,11 @@
       "Restrepo"
     ],
     "movies": [
-      "Restrepo"
+      {
+        "title": "Restrepo",
+        "tmdb_id": 39312,
+        "imdb_id": "tt1559549"
+      }
     ],
     "won": false
   },
@@ -119710,7 +122042,11 @@
       "Poster Girl"
     ],
     "movies": [
-      "Poster Girl"
+      {
+        "title": "Poster Girl",
+        "tmdb_id": 82421,
+        "imdb_id": "tt1505384"
+      }
     ],
     "won": false
   },
@@ -121088,7 +123424,11 @@
       "Real in Rio"
     ],
     "movies": [
-      "Rio"
+      {
+        "title": "Rio",
+        "tmdb_id": 46195,
+        "imdb_id": "tt1436562"
+      }
     ],
     "won": false
   },
@@ -121215,7 +123555,11 @@
       "Paradise Lost 3: Purgatory"
     ],
     "movies": [
-      "Paradise Lost 3: Purgatory"
+      {
+        "title": "Paradise Lost 3: Purgatory",
+        "tmdb_id": 83660,
+        "imdb_id": "tt2028530"
+      }
     ],
     "won": false
   },
@@ -121226,7 +123570,11 @@
       "Pina"
     ],
     "movies": [
-      "Pina"
+      {
+        "title": "Pina",
+        "tmdb_id": 57276,
+        "imdb_id": "tt1440266"
+      }
     ],
     "won": false
   },
@@ -121300,7 +123648,11 @@
       "Rango"
     ],
     "movies": [
-      "Rango"
+      {
+        "title": "Rango",
+        "tmdb_id": 44896,
+        "imdb_id": "tt1192628"
+      }
     ],
     "won": true
   },
@@ -121356,7 +123708,11 @@
       "Puss in Boots"
     ],
     "movies": [
-      "Puss in Boots"
+      {
+        "title": "Puss in Boots",
+        "tmdb_id": 417859,
+        "imdb_id": "tt0448694"
+      }
     ],
     "won": false
   },
@@ -121445,7 +123801,11 @@
       "Pentecost"
     ],
     "movies": [
-      "Pentecost"
+      {
+        "title": "Pentecost",
+        "tmdb_id": 99581,
+        "imdb_id": "tt1866218"
+      }
     ],
     "won": false
   },
@@ -121456,7 +123816,11 @@
       "Raju"
     ],
     "movies": [
-      "Raju"
+      {
+        "title": "Raju",
+        "tmdb_id": 92967,
+        "imdb_id": "tt1819651"
+      }
     ],
     "won": false
   },
@@ -121724,7 +124088,11 @@
       "Swen Gillberg"
     ],
     "movies": [
-      "Real Steel"
+      {
+        "title": "Real Steel",
+        "tmdb_id": 39254,
+        "imdb_id": "tt0433035"
+      }
     ],
     "won": false
   },
@@ -121738,7 +124106,11 @@
       "Daniel Barrett"
     ],
     "movies": [
-      "Rise of the Planet of the Apes"
+      {
+        "title": "Rise of the Planet of the Apes",
+        "tmdb_id": 61791,
+        "imdb_id": "tt1318514"
+      }
     ],
     "won": false
   },
@@ -122953,7 +125325,11 @@
       "Redemption"
     ],
     "movies": [
-      "Redemption"
+      {
+        "title": "Redemption",
+        "tmdb_id": 158394,
+        "imdb_id": "tt2201886"
+      }
     ],
     "won": false
   },
@@ -122994,7 +125370,11 @@
       "ParaNorman"
     ],
     "movies": [
-      "ParaNorman"
+      {
+        "title": "ParaNorman",
+        "tmdb_id": 77174,
+        "imdb_id": "tt1623288"
+      }
     ],
     "won": false
   },
@@ -123027,7 +125407,11 @@
       "Paperman"
     ],
     "movies": [
-      "Paperman"
+      {
+        "title": "Paperman",
+        "tmdb_id": 140420,
+        "imdb_id": "tt2388725"
+      }
     ],
     "won": true
   },
@@ -123439,7 +125823,11 @@
       "Martin Hill"
     ],
     "movies": [
-      "Prometheus"
+      {
+        "title": "Prometheus",
+        "tmdb_id": 70981,
+        "imdb_id": "tt1446714"
+      }
     ],
     "won": false
   },
@@ -123837,7 +126225,11 @@
       "Philomena"
     ],
     "movies": [
-      "Philomena"
+      {
+        "title": "Philomena",
+        "tmdb_id": 205220,
+        "imdb_id": "tt2431286"
+      }
     ],
     "won": false
   },
@@ -123975,7 +126367,11 @@
       "Judi Dench"
     ],
     "movies": [
-      "Philomena"
+      {
+        "title": "Philomena",
+        "tmdb_id": 205220,
+        "imdb_id": "tt2431286"
+      }
     ],
     "won": false
   },
@@ -124266,7 +126662,11 @@
       "Jeff Pope"
     ],
     "movies": [
-      "Philomena"
+      {
+        "title": "Philomena",
+        "tmdb_id": 205220,
+        "imdb_id": "tt2431286"
+      }
     ],
     "won": false
   },
@@ -124407,7 +126807,11 @@
       "Alexandre Desplat"
     ],
     "movies": [
-      "Philomena"
+      {
+        "title": "Philomena",
+        "tmdb_id": 205220,
+        "imdb_id": "tt2431286"
+      }
     ],
     "won": false
   },
@@ -124686,7 +127090,11 @@
       "Prison Terminal: The Last Days of Private Jack Hall"
     ],
     "movies": [
-      "Prison Terminal: The Last Days of Private Jack Hall"
+      {
+        "title": "Prison Terminal: The Last Days of Private Jack Hall",
+        "tmdb_id": 249726,
+        "imdb_id": "tt3145026"
+      }
     ],
     "won": false
   },
@@ -124809,7 +127217,11 @@
       "Possessions"
     ],
     "movies": [
-      "Possessions"
+      {
+        "title": "Possessions",
+        "tmdb_id": 211358,
+        "imdb_id": "tt3080074"
+      }
     ],
     "won": false
   },
@@ -124820,7 +127232,11 @@
       "Room on the Broom"
     ],
     "movies": [
-      "Room on the Broom"
+      {
+        "title": "Room on the Broom",
+        "tmdb_id": 152581,
+        "imdb_id": "tt2484120"
+      }
     ],
     "won": false
   },
@@ -125031,7 +127447,11 @@
       "Roger Deakins"
     ],
     "movies": [
-      "Prisoners"
+      {
+        "title": "Prisoners",
+        "tmdb_id": 146233,
+        "imdb_id": "tt1392214"
+      }
     ],
     "won": false
   },
@@ -126526,7 +128946,11 @@
       "Parvaneh"
     ],
     "movies": [
-      "Parvaneh"
+      {
+        "title": "Parvaneh",
+        "tmdb_id": 307692,
+        "imdb_id": "tt3008010"
+      }
     ],
     "won": false
   },
@@ -127194,7 +129618,11 @@
       "Room"
     ],
     "movies": [
-      "Room"
+      {
+        "title": "Room",
+        "tmdb_id": 264644,
+        "imdb_id": "tt3170832"
+      }
     ],
     "won": false
   },
@@ -127260,7 +129688,11 @@
       "Brie Larson"
     ],
     "movies": [
-      "Room"
+      {
+        "title": "Room",
+        "tmdb_id": 264644,
+        "imdb_id": "tt3170832"
+      }
     ],
     "won": true
   },
@@ -127464,7 +129896,11 @@
       "Lenny Abrahamson"
     ],
     "movies": [
-      "Room"
+      {
+        "title": "Room",
+        "tmdb_id": 264644,
+        "imdb_id": "tt3170832"
+      }
     ],
     "won": false
   },
@@ -127550,7 +129986,11 @@
       "Emma Donoghue"
     ],
     "movies": [
-      "Room"
+      {
+        "title": "Room",
+        "tmdb_id": 264644,
+        "imdb_id": "tt3170832"
+      }
     ],
     "won": false
   },
@@ -127741,7 +130181,11 @@
       "Manta Ray"
     ],
     "movies": [
-      "Racing Extinction"
+      {
+        "title": "Racing Extinction",
+        "tmdb_id": 300792,
+        "imdb_id": "tt1618448"
+      }
     ],
     "won": false
   },
@@ -128061,7 +130505,11 @@
       "Prologue"
     ],
     "movies": [
-      "Prologue"
+      {
+        "title": "Prologue",
+        "tmdb_id": 359549,
+        "imdb_id": "tt4955294"
+      }
     ],
     "won": false
   },
@@ -129407,7 +131855,11 @@
       "Thomas Newman"
     ],
     "movies": [
-      "Passengers"
+      {
+        "title": "Passengers",
+        "tmdb_id": 274870,
+        "imdb_id": "tt1355644"
+      }
     ],
     "won": false
   },
@@ -129761,7 +132213,11 @@
       "Piper"
     ],
     "movies": [
-      "Piper"
+      {
+        "title": "Piper",
+        "tmdb_id": 399106,
+        "imdb_id": "tt5613056"
+      }
     ],
     "won": true
   },
@@ -129802,7 +132258,11 @@
       "Pear Cider and Cigarettes"
     ],
     "movies": [
-      "Pear Cider and Cigarettes"
+      {
+        "title": "Pear Cider and Cigarettes",
+        "tmdb_id": 406398,
+        "imdb_id": "tt5358978"
+      }
     ],
     "won": false
   },
@@ -129813,7 +132273,11 @@
       "Pearl"
     ],
     "movies": [
-      "Pearl"
+      {
+        "title": "Pearl",
+        "tmdb_id": 623098,
+        "imdb_id": "tt5599918"
+      }
     ],
     "won": false
   },
@@ -129952,7 +132416,11 @@
       "Gene Serdena"
     ],
     "movies": [
-      "Passengers"
+      {
+        "title": "Passengers",
+        "tmdb_id": 274870,
+        "imdb_id": "tt1355644"
+      }
     ],
     "won": false
   },
@@ -130181,7 +132649,11 @@
       "Neil Corbould"
     ],
     "movies": [
-      "Rogue One: A Star Wars Story"
+      {
+        "title": "Rogue One: A Star Wars Story",
+        "tmdb_id": 330459,
+        "imdb_id": "tt3748528"
+      }
     ],
     "won": false
   },
@@ -130245,7 +132717,11 @@
       "Stuart Wilson"
     ],
     "movies": [
-      "Rogue One: A Star Wars Story"
+      {
+        "title": "Rogue One: A Star Wars Story",
+        "tmdb_id": 330459,
+        "imdb_id": "tt3748528"
+      }
     ],
     "won": false
   },
@@ -130551,7 +133027,11 @@
       "Phantom Thread"
     ],
     "movies": [
-      "Phantom Thread"
+      {
+        "title": "Phantom Thread",
+        "tmdb_id": 400617,
+        "imdb_id": "tt5776858"
+      }
     ],
     "won": false
   },
@@ -130614,7 +133094,11 @@
       "Daniel Day-Lewis"
     ],
     "movies": [
-      "Phantom Thread"
+      {
+        "title": "Phantom Thread",
+        "tmdb_id": 400617,
+        "imdb_id": "tt5776858"
+      }
     ],
     "won": false
   },
@@ -130640,7 +133124,11 @@
       "Denzel Washington"
     ],
     "movies": [
-      "Roman J. Israel, Esq."
+      {
+        "title": "Roman J. Israel, Esq.",
+        "tmdb_id": 413362,
+        "imdb_id": "tt6000478"
+      }
     ],
     "won": false
   },
@@ -130803,7 +133291,11 @@
       "Leslie Manville"
     ],
     "movies": [
-      "Phantom Thread"
+      {
+        "title": "Phantom Thread",
+        "tmdb_id": 400617,
+        "imdb_id": "tt5776858"
+      }
     ],
     "won": false
   },
@@ -130896,7 +133388,11 @@
       "Paul Thomas Anderson"
     ],
     "movies": [
-      "Phantom Thread"
+      {
+        "title": "Phantom Thread",
+        "tmdb_id": 400617,
+        "imdb_id": "tt5776858"
+      }
     ],
     "won": false
   },
@@ -131073,7 +133569,11 @@
       "Jonny Greenwood"
     ],
     "movies": [
-      "Phantom Thread"
+      {
+        "title": "Phantom Thread",
+        "tmdb_id": 400617,
+        "imdb_id": "tt5776858"
+      }
     ],
     "won": false
   },
@@ -131513,7 +134013,11 @@
       "Revolting Rhymes"
     ],
     "movies": [
-      "Revolting Rhymes"
+      {
+        "title": "Revolting Rhymes",
+        "tmdb_id": 430162,
+        "imdb_id": "tt10453434"
+      }
     ],
     "won": false
   },
@@ -132074,7 +134578,11 @@
       "Mark Bridges"
     ],
     "movies": [
-      "Phantom Thread"
+      {
+        "title": "Phantom Thread",
+        "tmdb_id": 400617,
+        "imdb_id": "tt5776858"
+      }
     ],
     "won": true
   },
@@ -132208,7 +134716,11 @@
       "Roma"
     ],
     "movies": [
-      "Roma"
+      {
+        "title": "Roma",
+        "tmdb_id": 426426,
+        "imdb_id": "tt6155172"
+      }
     ],
     "won": false
   },
@@ -132338,7 +134850,11 @@
       "Yalitza Aparicio"
     ],
     "movies": [
-      "Roma"
+      {
+        "title": "Roma",
+        "tmdb_id": 426426,
+        "imdb_id": "tt6155172"
+      }
     ],
     "won": false
   },
@@ -132476,7 +134992,11 @@
       "Marina de Tavira"
     ],
     "movies": [
-      "Roma"
+      {
+        "title": "Roma",
+        "tmdb_id": 426426,
+        "imdb_id": "tt6155172"
+      }
     ],
     "won": false
   },
@@ -132509,7 +135029,11 @@
       "Alfonso Cuaron"
     ],
     "movies": [
-      "Roma"
+      {
+        "title": "Roma",
+        "tmdb_id": 426426,
+        "imdb_id": "tt6155172"
+      }
     ],
     "won": true
   },
@@ -132694,7 +135218,11 @@
       "Alfonso Cuaron"
     ],
     "movies": [
-      "Roma"
+      {
+        "title": "Roma",
+        "tmdb_id": 426426,
+        "imdb_id": "tt6155172"
+      }
     ],
     "won": false
   },
@@ -132821,7 +135349,11 @@
       "I'll Fight"
     ],
     "movies": [
-      "RBG"
+      {
+        "title": "RBG",
+        "tmdb_id": 493099,
+        "imdb_id": "tt7689964"
+      }
     ],
     "won": false
   },
@@ -132858,7 +135390,11 @@
       "Roma"
     ],
     "movies": [
-      "Roma"
+      {
+        "title": "Roma",
+        "tmdb_id": 426426,
+        "imdb_id": "tt6155172"
+      }
     ],
     "won": true
   },
@@ -132940,7 +135476,11 @@
       "RBG"
     ],
     "movies": [
-      "RBG"
+      {
+        "title": "RBG",
+        "tmdb_id": 493099,
+        "imdb_id": "tt7689964"
+      }
     ],
     "won": false
   },
@@ -132996,7 +135536,11 @@
       "Period. End of Sentence."
     ],
     "movies": [
-      "Period. End of Sentence."
+      {
+        "title": "Period. End of Sentence.",
+        "tmdb_id": 524288,
+        "imdb_id": "tt6939026"
+      }
     ],
     "won": true
   },
@@ -133123,7 +135667,11 @@
       "Ralph Breaks the Internet"
     ],
     "movies": [
-      "Ralph Breaks the Internet"
+      {
+        "title": "Ralph Breaks the Internet",
+        "tmdb_id": 404368,
+        "imdb_id": "tt5848272"
+      }
     ],
     "won": false
   },
@@ -133337,7 +135885,11 @@
       "Barbara Enriquez"
     ],
     "movies": [
-      "Roma"
+      {
+        "title": "Roma",
+        "tmdb_id": 426426,
+        "imdb_id": "tt6155172"
+      }
     ],
     "won": false
   },
@@ -133348,7 +135900,11 @@
       "Alfonso Cuaron"
     ],
     "movies": [
-      "Roma"
+      {
+        "title": "Roma",
+        "tmdb_id": 426426,
+        "imdb_id": "tt6155172"
+      }
     ],
     "won": true
   },
@@ -133539,7 +136095,11 @@
       "Dave Shirk"
     ],
     "movies": [
-      "Ready Player One"
+      {
+        "title": "Ready Player One",
+        "tmdb_id": 333339,
+        "imdb_id": "tt1677720"
+      }
     ],
     "won": false
   },
@@ -133629,7 +136189,11 @@
       "Skip Lievsay"
     ],
     "movies": [
-      "Roma"
+      {
+        "title": "Roma",
+        "tmdb_id": 426426,
+        "imdb_id": "tt6155172"
+      }
     ],
     "won": false
   },
@@ -133712,7 +136276,11 @@
       "Jose Antonio Garcia"
     ],
     "movies": [
-      "Roma"
+      {
+        "title": "Roma",
+        "tmdb_id": 426426,
+        "imdb_id": "tt6155172"
+      }
     ],
     "won": false
   },
@@ -133836,7 +136404,11 @@
       "Parasite"
     ],
     "movies": [
-      "Parasite"
+      {
+        "title": "Parasite",
+        "tmdb_id": 496243,
+        "imdb_id": "tt6751668"
+      }
     ],
     "won": true
   },
@@ -134187,7 +136759,11 @@
       "Kathy Bates"
     ],
     "movies": [
-      "Richard Jewell"
+      {
+        "title": "Richard Jewell",
+        "tmdb_id": 292011,
+        "imdb_id": "tt3513548"
+      }
     ],
     "won": false
   },
@@ -134243,7 +136819,11 @@
       "Bong Joon-ho"
     ],
     "movies": [
-      "Parasite"
+      {
+        "title": "Parasite",
+        "tmdb_id": 496243,
+        "imdb_id": "tt6751668"
+      }
     ],
     "won": true
   },
@@ -134379,7 +136959,11 @@
       "Han Jin-won"
     ],
     "movies": [
-      "Parasite"
+      {
+        "title": "Parasite",
+        "tmdb_id": 496243,
+        "imdb_id": "tt6751668"
+      }
     ],
     "won": true
   },
@@ -134522,7 +137106,11 @@
       "(I'm Gonna) Love Me Again"
     ],
     "movies": [
-      "Rocketman"
+      {
+        "title": "Rocketman",
+        "tmdb_id": 504608,
+        "imdb_id": "tt2066051"
+      }
     ],
     "won": true
   },
@@ -134589,7 +137177,11 @@
       "Parasite"
     ],
     "movies": [
-      "Parasite"
+      {
+        "title": "Parasite",
+        "tmdb_id": 496243,
+        "imdb_id": "tt6751668"
+      }
     ],
     "won": true
   },
@@ -135064,7 +137656,11 @@
       "Cho Won-woo"
     ],
     "movies": [
-      "Parasite"
+      {
+        "title": "Parasite",
+        "tmdb_id": 496243,
+        "imdb_id": "tt6751668"
+      }
     ],
     "won": false
   },
@@ -135199,7 +137795,11 @@
       "Yang Jin-mo"
     ],
     "movies": [
-      "Parasite"
+      {
+        "title": "Parasite",
+        "tmdb_id": 496243,
+        "imdb_id": "tt6751668"
+      }
     ],
     "won": false
   },
@@ -135669,7 +138269,11 @@
       "Promising Young Woman"
     ],
     "movies": [
-      "Promising Young Woman"
+      {
+        "title": "Promising Young Woman",
+        "tmdb_id": 582014,
+        "imdb_id": "tt9620292"
+      }
     ],
     "won": false
   },
@@ -135810,7 +138414,11 @@
       "Vanessa Kirby"
     ],
     "movies": [
-      "Pieces of a Woman"
+      {
+        "title": "Pieces of a Woman",
+        "tmdb_id": 641662,
+        "imdb_id": "tt11161474"
+      }
     ],
     "won": false
   },
@@ -135821,7 +138429,11 @@
       "Carey Mulligan"
     ],
     "movies": [
-      "Promising Young Woman"
+      {
+        "title": "Promising Young Woman",
+        "tmdb_id": 582014,
+        "imdb_id": "tt9620292"
+      }
     ],
     "won": false
   },
@@ -136000,7 +138612,11 @@
       "Emerald Fennell"
     ],
     "movies": [
-      "Promising Young Woman"
+      {
+        "title": "Promising Young Woman",
+        "tmdb_id": 582014,
+        "imdb_id": "tt9620292"
+      }
     ],
     "won": false
   },
@@ -136117,7 +138733,11 @@
       "Emerald Fennell"
     ],
     "movies": [
-      "Promising Young Woman"
+      {
+        "title": "Promising Young Woman",
+        "tmdb_id": 582014,
+        "imdb_id": "tt9620292"
+      }
     ],
     "won": true
   },
@@ -136382,7 +139002,11 @@
       "Quo Vadis, Aida?"
     ],
     "movies": [
-      "Quo Vadis, Aida?"
+      {
+        "title": "Quo Vadis, Aida?",
+        "tmdb_id": 728118,
+        "imdb_id": "tt8633462"
+      }
     ],
     "won": false
   },
@@ -136913,7 +139537,11 @@
       "Frederic Thorval"
     ],
     "movies": [
-      "Promising Young Woman"
+      {
+        "title": "Promising Young Woman",
+        "tmdb_id": 582014,
+        "imdb_id": "tt9620292"
+      }
     ],
     "won": false
   },
@@ -137165,7 +139793,11 @@
       "Francesco Pegoretti"
     ],
     "movies": [
-      "Pinocchio"
+      {
+        "title": "Pinocchio",
+        "tmdb_id": 413518,
+        "imdb_id": "tt8333746"
+      }
     ],
     "won": false
   },
@@ -137236,7 +139868,11 @@
       "Massimo Cantini Parrini"
     ],
     "movies": [
-      "Pinocchio"
+      {
+        "title": "Pinocchio",
+        "tmdb_id": 413518,
+        "imdb_id": "tt8333746"
+      }
     ],
     "won": false
   },
@@ -137474,7 +140110,11 @@
       "Penelope Cruz"
     ],
     "movies": [
-      "Parallel Mothers"
+      {
+        "title": "Parallel Mothers",
+        "tmdb_id": 766798,
+        "imdb_id": "tt12618926"
+      }
     ],
     "won": false
   },
@@ -137896,7 +140536,11 @@
       "Alberto Iglesias"
     ],
     "movies": [
-      "Parallel Mothers"
+      {
+        "title": "Parallel Mothers",
+        "tmdb_id": 766798,
+        "imdb_id": "tt12618926"
+      }
     ],
     "won": false
   },
@@ -138246,7 +140890,11 @@
       "Raya and the Last Dragon"
     ],
     "movies": [
-      "Raya and the Last Dragon"
+      {
+        "title": "Raya and the Last Dragon",
+        "tmdb_id": 527774,
+        "imdb_id": "tt5109280"
+      }
     ],
     "won": false
   },
@@ -138313,7 +140961,11 @@
       "Robin Robin"
     ],
     "movies": [
-      "Robin Robin"
+      {
+        "title": "Robin Robin",
+        "tmdb_id": 649928,
+        "imdb_id": "tt11332850"
+      }
     ],
     "won": false
   },
@@ -138376,7 +141028,11 @@
       "Please Hold"
     ],
     "movies": [
-      "Please Hold"
+      {
+        "title": "Please Hold",
+        "tmdb_id": 741607,
+        "imdb_id": "tt11383280"
+      }
     ],
     "won": false
   },
@@ -139548,7 +142204,11 @@
       "Naatu Naatu"
     ],
     "movies": [
-      "RRR"
+      {
+        "title": "RRR",
+        "tmdb_id": 579974,
+        "imdb_id": "tt8178634"
+      }
     ],
     "won": true
   },
@@ -139850,7 +142510,11 @@
       "Puss in Boots: The Last Wish"
     ],
     "movies": [
-      "Puss in Boots: The Last Wish"
+      {
+        "title": "Puss in Boots: The Last Wish",
+        "tmdb_id": 315162,
+        "imdb_id": "tt3915174"
+      }
     ],
     "won": false
   },
@@ -140653,7 +143317,11 @@
       "Past Lives"
     ],
     "movies": [
-      "Past Lives"
+      {
+        "title": "Past Lives",
+        "tmdb_id": 666277,
+        "imdb_id": "tt13238346"
+      }
     ],
     "won": false
   },
@@ -140664,7 +143332,11 @@
       "Poor Things"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": false
   },
@@ -140716,7 +143388,11 @@
       "Colman Domingo"
     ],
     "movies": [
-      "Rustin"
+      {
+        "title": "Rustin",
+        "tmdb_id": 898713,
+        "imdb_id": "tt14160834"
+      }
     ],
     "won": false
   },
@@ -140753,7 +143429,11 @@
       "Emma Stone"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": true
   },
@@ -140884,7 +143564,11 @@
       "Mark Ruffalo"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": false
   },
@@ -141007,7 +143691,11 @@
       "Yorgos Lanthimos"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": false
   },
@@ -141075,7 +143763,11 @@
       "Tony McNamara"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": false
   },
@@ -141156,7 +143848,11 @@
       "Celine Song"
     ],
     "movies": [
-      "Past Lives"
+      {
+        "title": "Past Lives",
+        "tmdb_id": 666277,
+        "imdb_id": "tt13238346"
+      }
     ],
     "won": false
   },
@@ -141227,7 +143923,11 @@
       "Jerskin Fendrix"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": false
   },
@@ -141339,7 +144039,11 @@
       "Perfect Days"
     ],
     "movies": [
-      "Perfect Days"
+      {
+        "title": "Perfect Days",
+        "tmdb_id": 976893,
+        "imdb_id": "tt27503384"
+      }
     ],
     "won": false
   },
@@ -141543,7 +144247,11 @@
       "Robot Dreams"
     ],
     "movies": [
-      "Robot Dreams"
+      {
+        "title": "Robot Dreams",
+        "tmdb_id": 838240,
+        "imdb_id": "tt13429870"
+      }
     ],
     "won": false
   },
@@ -141685,10 +144393,14 @@
     "category": "Best Live Action Short (Comedy or One Reel or Regular)",
     "year": "2023",
     "nominees": [
-      "Red, White, and Blue"
+      "Red, White and Blue"
     ],
     "movies": [
-      "Red, White, and Blue"
+      {
+        "title": "Red, White and Blue",
+        "tmdb_id": 1194636,
+        "imdb_id": "tt27759823"
+      }
     ],
     "won": false
   },
@@ -141701,7 +144413,11 @@
       "Zsuzsa Mihalek"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": true
   },
@@ -141836,7 +144552,11 @@
       "Robbie Ryan"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": false
   },
@@ -141903,7 +144623,11 @@
       "Yorgos Mavropsaridis"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": false
   },
@@ -142084,7 +144808,11 @@
       "Josh Weston"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": true
   },
@@ -142157,7 +144885,11 @@
       "Holly Waddington"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": true
   },
