@@ -3051,7 +3051,11 @@
       "Krakatoa"
     ],
     "movies": [
-      "Krakatoa"
+      {
+        "title": "Krakatoa",
+        "tmdb_id": 233644,
+        "imdb_id": "tt0024231"
+      }
     ],
     "won": true
   },
@@ -13099,7 +13103,11 @@
       "John Aalberg"
     ],
     "movies": [
-      "Kitty Foyle: The Natural History of a Woman"
+      {
+        "title": "Kitty Foyle",
+        "tmdb_id": 77744,
+        "imdb_id": "tt0032671"
+      }
     ],
     "won": false
   },
@@ -16142,7 +16150,11 @@
       "Edward Kay"
     ],
     "movies": [
-      "Klondike Fury"
+      {
+        "title": "Klondike Fury",
+        "tmdb_id": 218289,
+        "imdb_id": "tt0034948"
+      }
     ],
     "won": false
   },
@@ -16543,7 +16555,11 @@
     ],
     "movies": [
       "The Battle of Midway",
-      "Kokoda Front Line!",
+      {
+        "title": "Kokoda Front Line!",
+        "tmdb_id": 93331,
+        "imdb_id": "tt0034951"
+      },
       "Moscow Strikes Back",
       "Prelude to War"
     ],
@@ -20590,7 +20606,11 @@
       "Kurt Weill"
     ],
     "movies": [
-      "Knickerbocker Holiday"
+      {
+        "title": "Knickerbocker Holiday",
+        "tmdb_id": 218093,
+        "imdb_id": "tt0036988"
+      }
     ],
     "won": false
   },
@@ -24799,7 +24819,11 @@
       "Ray Moyer"
     ],
     "movies": [
-      "Kitty"
+      {
+        "title": "Kitty",
+        "tmdb_id": 106882,
+        "imdb_id": "tt0037849"
+      }
     ],
     "won": false
   },
@@ -31394,7 +31418,11 @@
       "Kon-Tiki"
     ],
     "movies": [
-      "Kon-Tiki"
+      {
+        "title": "Kon-Tiki",
+        "tmdb_id": 20088,
+        "imdb_id": "tt0042650"
+      }
     ],
     "won": true
   },
@@ -34782,7 +34810,11 @@
       "John Jarvis"
     ],
     "movies": [
-      "Knights of the Round Table"
+      {
+        "title": "Knights of the Round Table",
+        "tmdb_id": 19957,
+        "imdb_id": "tt0045966"
+      }
     ],
     "won": false
   },
@@ -35070,7 +35102,11 @@
       "A.W. Watkins"
     ],
     "movies": [
-      "Knights of the Round Table"
+      {
+        "title": "Knights of the Round Table",
+        "tmdb_id": 19957,
+        "imdb_id": "tt0045966"
+      }
     ],
     "won": false
   },
@@ -35692,7 +35728,11 @@
       "Melvin Frank"
     ],
     "movies": [
-      "Knock on Wood"
+      {
+        "title": "Knock On Wood",
+        "tmdb_id": 55859,
+        "imdb_id": "tt0047152"
+      }
     ],
     "won": false
   },
@@ -41923,7 +41963,11 @@
       "Knighty Knight Bugs"
     ],
     "movies": [
-      "Knighty Knight Bugs"
+      {
+        "title": "Knighty Knight Bugs",
+        "tmdb_id": 106927,
+        "imdb_id": "tt0051825"
+      }
     ],
     "won": true
   },
@@ -49089,7 +49133,11 @@
       "Knife in the Water"
     ],
     "movies": [
-      "Knife in the Water"
+      {
+        "title": "Knife in the Water",
+        "tmdb_id": 11502,
+        "imdb_id": "tt0056291"
+      }
     ],
     "won": false
   },
@@ -52299,7 +52347,11 @@
       "Kwaidan"
     ],
     "movies": [
-      "Kwaidan"
+      {
+        "title": "Kwaidan",
+        "tmdb_id": 30959,
+        "imdb_id": "tt0058279"
+      }
     ],
     "won": false
   },
@@ -58621,7 +58673,11 @@
       "Alex Weldon"
     ],
     "movies": [
-      "Krakatoa, East of Java"
+      {
+        "title": "Krakatoa, East of Java",
+        "tmdb_id": 51104,
+        "imdb_id": "tt0064555"
+      }
     ],
     "won": false
   },
@@ -60164,7 +60220,11 @@
       "Walter Matthau"
     ],
     "movies": [
-      "Kotch"
+      {
+        "title": "Kotch",
+        "tmdb_id": 76002,
+        "imdb_id": "tt0067314"
+      }
     ],
     "won": false
   },
@@ -60201,7 +60261,11 @@
       "Jane Fonda"
     ],
     "movies": [
-      "Klute"
+      {
+        "title": "Klute",
+        "tmdb_id": 466,
+        "imdb_id": "tt0067309"
+      }
     ],
     "won": true
   },
@@ -60526,7 +60590,11 @@
       "Dave Lewis"
     ],
     "movies": [
-      "Klute"
+      {
+        "title": "Klute",
+        "tmdb_id": 466,
+        "imdb_id": "tt0067309"
+      }
     ],
     "won": false
   },
@@ -60735,7 +60803,11 @@
       "Life Is What You Make It"
     ],
     "movies": [
-      "Kotch"
+      {
+        "title": "Kotch",
+        "tmdb_id": 76002,
+        "imdb_id": "tt0067314"
+      }
     ],
     "won": false
   },
@@ -61174,7 +61246,11 @@
       "Ralph E. Winters"
     ],
     "movies": [
-      "Kotch"
+      {
+        "title": "Kotch",
+        "tmdb_id": 76002,
+        "imdb_id": "tt0067314"
+      }
     ],
     "won": false
   },
@@ -61271,7 +61347,11 @@
       "Jack Solomon"
     ],
     "movies": [
-      "Kotch"
+      {
+        "title": "Kotch",
+        "tmdb_id": 76002,
+        "imdb_id": "tt0067314"
+      }
     ],
     "won": false
   },
@@ -67445,7 +67525,11 @@
       "Kudzu"
     ],
     "movies": [
-      "Kudzu"
+      {
+        "title": "Kudzu",
+        "tmdb_id": 243580,
+        "imdb_id": "tt0074765"
+      }
     ],
     "won": false
   },
@@ -70591,7 +70675,11 @@
       "Kramer vs. Kramer"
     ],
     "movies": [
-      "Kramer vs. Kramer"
+      {
+        "title": "Kramer vs. Kramer",
+        "tmdb_id": 12102,
+        "imdb_id": "tt0079417"
+      }
     ],
     "won": true
   },
@@ -70658,7 +70746,11 @@
       "Dustin Hoffman"
     ],
     "movies": [
-      "Kramer vs. Kramer"
+      {
+        "title": "Kramer vs. Kramer",
+        "tmdb_id": 12102,
+        "imdb_id": "tt0079417"
+      }
     ],
     "won": true
   },
@@ -70825,7 +70917,11 @@
       "Justin Henry"
     ],
     "movies": [
-      "Kramer vs. Kramer"
+      {
+        "title": "Kramer vs. Kramer",
+        "tmdb_id": 12102,
+        "imdb_id": "tt0079417"
+      }
     ],
     "won": false
   },
@@ -70847,7 +70943,11 @@
       "Meryl Streep"
     ],
     "movies": [
-      "Kramer vs. Kramer"
+      {
+        "title": "Kramer vs. Kramer",
+        "tmdb_id": 12102,
+        "imdb_id": "tt0079417"
+      }
     ],
     "won": true
   },
@@ -70858,7 +70958,11 @@
       "Jane Alexander"
     ],
     "movies": [
-      "Kramer vs. Kramer"
+      {
+        "title": "Kramer vs. Kramer",
+        "tmdb_id": 12102,
+        "imdb_id": "tt0079417"
+      }
     ],
     "won": false
   },
@@ -70906,7 +71010,11 @@
       "Robert Benton"
     ],
     "movies": [
-      "Kramer vs. Kramer"
+      {
+        "title": "Kramer vs. Kramer",
+        "tmdb_id": 12102,
+        "imdb_id": "tt0079417"
+      }
     ],
     "won": true
   },
@@ -70973,7 +71081,11 @@
       "Robert Benton"
     ],
     "movies": [
-      "Kramer vs. Kramer"
+      {
+        "title": "Kramer vs. Kramer",
+        "tmdb_id": 12102,
+        "imdb_id": "tt0079417"
+      }
     ],
     "won": true
   },
@@ -71433,7 +71545,11 @@
       "Koryo Celadon"
     ],
     "movies": [
-      "Koryo Celadon"
+      {
+        "title": "Koryo Celadon",
+        "tmdb_id": 244359,
+        "imdb_id": "tt0079414"
+      }
     ],
     "won": false
   },
@@ -71669,7 +71785,11 @@
       "Nestor Almendros"
     ],
     "movies": [
-      "Kramer vs. Kramer"
+      {
+        "title": "Kramer vs. Kramer",
+        "tmdb_id": 12102,
+        "imdb_id": "tt0079417"
+      }
     ],
     "won": false
   },
@@ -71765,7 +71885,11 @@
       "Jerry Greenberg"
     ],
     "movies": [
-      "Kramer vs. Kramer"
+      {
+        "title": "Kramer vs. Kramer",
+        "tmdb_id": 12102,
+        "imdb_id": "tt0079417"
+      }
     ],
     "won": false
   },
@@ -94785,7 +94909,11 @@
       "Kolya"
     ],
     "movies": [
-      "Kolya"
+      {
+        "title": "Kolya",
+        "tmdb_id": 784,
+        "imdb_id": "tt0116790"
+      }
     ],
     "won": true
   },
@@ -96140,7 +96268,11 @@
       "Philip Glass"
     ],
     "movies": [
-      "Kundun"
+      {
+        "title": "Kundun",
+        "tmdb_id": 9746,
+        "imdb_id": "tt0119485"
+      }
     ],
     "won": false
   },
@@ -96643,7 +96775,11 @@
       "Francesca Lo Schiavo"
     ],
     "movies": [
-      "Kundun"
+      {
+        "title": "Kundun",
+        "tmdb_id": 9746,
+        "imdb_id": "tt0119485"
+      }
     ],
     "won": false
   },
@@ -96730,7 +96866,11 @@
       "Roger Deakins"
     ],
     "movies": [
-      "Kundun"
+      {
+        "title": "Kundun",
+        "tmdb_id": 9746,
+        "imdb_id": "tt0119485"
+      }
     ],
     "won": false
   },
@@ -97019,7 +97159,11 @@
       "Dante Ferretti"
     ],
     "movies": [
-      "Kundun"
+      {
+        "title": "Kundun",
+        "tmdb_id": 9746,
+        "imdb_id": "tt0119485"
+      }
     ],
     "won": false
   },
@@ -99363,10 +99507,14 @@
     "category": "Best Live Action Short (Comedy or One Reel or Regular)",
     "year": "1999",
     "nominees": [
-      "Kleingeld"
+      "Small Change"
     ],
     "movies": [
-      "Kleingeld"
+      {
+        "title": "Small Change",
+        "tmdb_id": 244946,
+        "imdb_id": "tt0200780"
+      }
     ],
     "won": false
   },
@@ -112162,7 +112310,11 @@
       "Kung Fu Panda"
     ],
     "movies": [
-      "Kung Fu Panda"
+      {
+        "title": "Kung Fu Panda",
+        "tmdb_id": 9502,
+        "imdb_id": "tt0441773"
+      }
     ],
     "won": false
   },
@@ -116733,7 +116885,11 @@
       "Kung Fu Panda 2"
     ],
     "movies": [
-      "Kung Fu Panda 2"
+      {
+        "title": "Kung Fu Panda 2",
+        "tmdb_id": 49444,
+        "imdb_id": "tt1302011"
+      }
     ],
     "won": false
   },
@@ -118078,7 +118234,11 @@
       "Kon-Tiki"
     ],
     "movies": [
-      "Kon-Tiki"
+      {
+        "title": "Kon-Tiki",
+        "tmdb_id": 70667,
+        "imdb_id": "tt1613750"
+      }
     ],
     "won": false
   },
@@ -124669,7 +124829,11 @@
       "Kubo and the Two Strings"
     ],
     "movies": [
-      "Kubo and the Two Strings"
+      {
+        "title": "Kubo and the Two Strings",
+        "tmdb_id": 313297,
+        "imdb_id": "tt4302938"
+      }
     ],
     "won": false
   },
@@ -125087,7 +125251,11 @@
       "Brad Schiff"
     ],
     "movies": [
-      "Kubo and the Two Strings"
+      {
+        "title": "Kubo and the Two Strings",
+        "tmdb_id": 313297,
+        "imdb_id": "tt4302938"
+      }
     ],
     "won": false
   },
@@ -126212,7 +126380,11 @@
       "Knife Skills"
     ],
     "movies": [
-      "Knife Skills"
+      {
+        "title": "Knife Skills",
+        "tmdb_id": 466489,
+        "imdb_id": "tt5745110"
+      }
     ],
     "won": false
   },
@@ -126652,7 +126824,11 @@
       "Mike Meinardus"
     ],
     "movies": [
-      "Kong: Skull Island"
+      {
+        "title": "Kong: Skull Island",
+        "tmdb_id": 293167,
+        "imdb_id": "tt3731562"
+      }
     ],
     "won": false
   },
@@ -129136,7 +129312,11 @@
       "Rian Johnson"
     ],
     "movies": [
-      "Knives Out"
+      {
+        "title": "Knives Out",
+        "tmdb_id": 546554,
+        "imdb_id": "tt8946378"
+      }
     ],
     "won": false
   },
@@ -129507,7 +129687,11 @@
       "Klaus"
     ],
     "movies": [
-      "Klaus"
+      {
+        "title": "Klaus",
+        "tmdb_id": 508965,
+        "imdb_id": "tt4729430"
+      }
     ],
     "won": false
   },
@@ -135969,7 +136153,11 @@
       "Knight of Fortune"
     ],
     "movies": [
-      "Knight of Fortune"
+      {
+        "title": "Knight of Fortune",
+        "tmdb_id": 971468,
+        "imdb_id": "tt26600054"
+      }
     ],
     "won": false
   },
