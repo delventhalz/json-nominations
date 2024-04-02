@@ -18,7 +18,11 @@ The file is one giant array of objects which each represent a single nomination.
       "Emma Stone"
     ],
     "movies": [
-      "Poor Things"
+      {
+        "title": "Poor Things",
+        "tmdb_id": 792307,
+        "imdb_id": "tt14230458"
+      }
     ],
     "won": true
   }
@@ -28,13 +32,18 @@ The file is one giant array of objects which each represent a single nomination.
 
 - _category_ - The name of the category the nomination was for.
 - _year_ - The year of the nomination. Note that for the first five Oscar ceremonies, the awards straddled a year and are written with a slash (e.g. "1927/28").
-- _nominees_ - The person, movie, song, etc that was nominated. Note that in some cases, multiple entities share a single nomination and will be listed together in this array.
-- _movies_ - The film the nomination was made for. Almost always a single movie, but in some rare cases a nominee was given one nomination for their work in multiple films. In cases where the movie itself is the nominee, it will be in BOTH the _movies_ and _nominees_ arrays.
+- _nominees_ - The names of the people, movies, or songs that were nominated. In some cases where multiple entities share a single nomination, they are listed together in this array.
+- _movies_ - An array of objects representing the films the nomination was made for. Almost always a single movie, but in some rare cases one nomination was given for work in multiple films, and in _exactly one case_ a TV show was nominated instead of a movie and this array was left empty.
+  * _title_ - The title of the movie.
+  * _tmdb_id_ - The ID used to identify the movie in [The Movie Database's API](https://developer.themoviedb.org/docs/getting-started). This was the API used to fetch supplementary information for this JSON file. It is free and easy to use.
+  * _imdb_id_ - The ID used to identify the title in IMDB's API.
 - _won_ - Whether or not the nominee won the award.
 
 ## Source
 
-All of the Oscar data comes originally from this thorough [Oscars Winner and Nominee Master Spreadsheet](https://docs.google.com/spreadsheets/d/18P6JdOyU4Misxe66R5zMpATJBlwfmpQ_KkOOZ7ASm_c). Many thanks to the original author for putting all of this info in one place in a format I could easily parse.
+The Oscars data came originally from this thorough [Oscars Winner and Nominee Master Spreadsheet](https://docs.google.com/spreadsheets/d/18P6JdOyU4Misxe66R5zMpATJBlwfmpQ_KkOOZ7ASm_c). Many thanks to the original author for putting all of this info in one place in a format I could easily parse.
+
+From that initial source, the data was corrected and expanded through repeated trips to the API from [The Movie Database](https://developer.themoviedb.org/docs/getting-started). I also want to thank TMDB both for creating a clean usable website for movie fans, but also providing their data free of charge to developers like myself.
 
 ## Updates
 
